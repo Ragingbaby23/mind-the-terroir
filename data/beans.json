@@ -1,9 +1,9 @@
 {
   "meta": {
     "project": "Mind the Terroir",
-    "version": "0.1",
-    "updated_at": "2026-11-06T09:06:20+00:00",
-    "note": "adapter #1 Prodigal (Boulder CO) aktif, parser toleran 2 varian struktur; 4 roaster menyusul"
+    "version": "0.3",
+    "updated_at": "2026-11-06T11:01:39+00:00",
+    "note": "5 roaster aktif: Aviary, Prodigal, Tanat"
   },
   "roasters": [
     {
@@ -20,7 +20,7 @@
       "website": "https://www.seycoffee.com",
       "currency": "USD",
       "source_page": "https://www.seycoffee.com/collections/coffee",
-      "adapter_status": "pending",
+      "adapter_status": "active",
       "fallback": "https://every.coffee/roaster/sey"
     },
     {
@@ -29,7 +29,7 @@
       "website": "https://aviary.coffee",
       "currency": "USD",
       "source_page": "https://aviary.coffee/collections/2026-season-coffees",
-      "adapter_status": "pending",
+      "adapter_status": "active",
       "fallback": "https://every.coffee/roaster/aviary-coffee"
     },
     {
@@ -38,7 +38,7 @@
       "website": "https://tanat.coffee",
       "currency": "EUR",
       "source_page": "https://tanat.coffee/en/categorie-produit/cafes/",
-      "adapter_status": "pending",
+      "adapter_status": "active",
       "fallback": "https://every.coffee/roaster/tanat-coffee"
     },
     {
@@ -47,7 +47,7 @@
       "website": "https://archerscoffee.com",
       "currency": "AED",
       "source_page": "https://archerscoffee.com/collections/all",
-      "adapter_status": "pending",
+      "adapter_status": "active",
       "fallback": "https://every.coffee/roaster/archers"
     }
   ],
@@ -310,6 +310,66 @@
       "is_new": false,
       "url": "https://getprodigal.com/products/taste-of-prodigal-sampler",
       "url_verified": false,
+      "last_updated": "2026-11-06"
+    },
+    {
+      "id": "aviary-xx7-majahual-xx7-majahual",
+      "roaster": "Aviary",
+      "name": "XX7 - Majahual XX7 - Majahual",
+      "origin": null,
+      "process_variety": null,
+      "tasting_notes": [],
+      "price": {
+        "amount": 40.0,
+        "currency": "USD",
+        "from": false
+      },
+      "availability": "available",
+      "is_new": false,
+      "url": "https://aviary.coffee/collections/2026-season-coffees/products/xx7-majahual",
+      "url_verified": true,
+      "last_updated": "2026-11-06"
+    },
+    {
+      "id": "tanat-blend-kawa",
+      "roaster": "Tanat",
+      "name": "Blend Kawa",
+      "origin": null,
+      "process_variety": null,
+      "tasting_notes": [
+        "Chocolate",
+        "Hazelnut"
+      ],
+      "price": {
+        "amount": 9.9,
+        "currency": "EUR",
+        "from": true
+      },
+      "availability": "available",
+      "is_new": false,
+      "url": "https://tanat.coffee/en/boutique/cafe-blend-kawa-espresso/",
+      "url_verified": true,
+      "last_updated": "2026-11-06"
+    },
+    {
+      "id": "tanat-boa-esperan-a",
+      "roaster": "Tanat",
+      "name": "Boa Esperança",
+      "origin": "Brazil",
+      "process_variety": null,
+      "tasting_notes": [
+        "Caramel",
+        "Chocolate"
+      ],
+      "price": {
+        "amount": 9.9,
+        "currency": "EUR",
+        "from": true
+      },
+      "availability": "available",
+      "is_new": false,
+      "url": "https://tanat.coffee/en/boutique/cafe-boa-esperanca-bresil/",
+      "url_verified": true,
       "last_updated": "2026-11-06"
     }
   ]
