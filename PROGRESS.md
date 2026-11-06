@@ -7,6 +7,7 @@
 - LESSON: prodigalroasters.com (SG) != getprodigal.com (US). Selalu verifikasi identitas+lokasi roaster sebelum fetch.
 - LESSON: kalau parser dapat 0 hasil, PRINT DATA MENTAH DULU — struktur extraction bisa beda antar-fetch (2 varian di Prodigal). Parser sekarang handle keduanya.
 - INFO: every.coffee = fallback terverifikasi untuk kelima roaster (ada harga)
-- NEXT (v0.2): renderer HTML dari beans.json -> site/
-- NEXT (v0.3): adapter Sey/Aviary/Tanat/Archers + repo GitHub + deploy
-- OPEN: username GitHub curator (untuk repo & deploy) | konfirmasi mata uang per roaster saat adapter aktif | cross-check jumlah produk vs every.coffee | cek lazy-load/pagination
+- DONE (v0.2): renderer site/generate.py -> site/index.html (kartu beans + search client-side)
+- NEXT (v0.3): adapter Sey/Aviary/Tanat/Archers + gh auth (device flow, password TIDAK PERNAH lewat chat) + repo GitHub Ragingbaby23 + deploy GitHub Pages
+- RESOLVED: username GitHub = Ragingbaby23 (email git lokal sudah benar)
+- OPEN: konfirmasi mata uang per roaster saat adapter aktif | cross-check jumlah produk vs every.coffee | cek lazy-load/pagination
