@@ -2,7 +2,7 @@
   "meta": {
     "project": "Mind the Terroir",
     "version": "0.1",
-    "updated_at": "2026-11-06T09:05:52+00:00",
+    "updated_at": "2026-11-06T09:06:20+00:00",
     "note": "adapter #1 Prodigal (Boulder CO) aktif, parser toleran 2 varian struktur; 4 roaster menyusul"
   },
   "roasters": [
@@ -71,7 +71,7 @@
       "availability": "available",
       "is_new": true,
       "url": "https://getprodigal.com/products/gesha-harmony",
-      "url_verified": false,
+      "url_verified": true,
       "last_updated": "2026-11-06"
     },
     {
