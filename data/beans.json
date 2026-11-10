@@ -2,8 +2,8 @@
  "meta": {
   "project": "Mind the Terroir",
   "version": "0.3",
-  "updated_at": "2026-11-06T11:01:39+00:00",
-  "note": "5 roaster aktif: Aviary, Prodigal, Tanat"
+  "updated_at": "2026-11-10T05:48:54+00:00",
+  "note": "beans per roaster: Archers 195, Aviary 1, Prodigal 12, Sey 8, Tanat 2"
  },
  "roasters": [
   {
@@ -386,6 +386,3892 @@
    "url_verified": true,
    "last_updated": "2026-11-06",
    "image": "https://tanat.coffee/wp-content/uploads/2025/01/PAQUETWEB_BOA.png"
+  },
+  {
+   "id": "sey-2026-chelbessa-2nd-selection-ethiopia",
+   "roaster": "Sey",
+   "name": "2026 Chelbessa; 2nd Selection",
+   "origin": "Ethiopia",
+   "process_variety": "",
+   "tasting_notes": [
+    "stone fruit",
+    "citrus",
+    "lemon verbena"
+   ],
+   "price": {
+    "amount": 25.5,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-chelbessa-2nd-selection-ethiopia",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026Chelbessa_2NdSelection-Ethiopia.png?v=1793843452"
+  },
+  {
+   "id": "sey-2026-sike-bokasso-white-honey-ethiopia",
+   "roaster": "Sey",
+   "name": "2026 Sike Bokasso, White Honey",
+   "origin": "Ethiopia",
+   "process_variety": "Honey",
+   "tasting_notes": [
+    "melon",
+    "candied peach",
+    "star fruit"
+   ],
+   "price": {
+    "amount": 25.5,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-sike-bokasso-white-honey-ethiopia",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026SikeBokasso-Ethiopia_462d645b-48cd-4b0d-8ac1-3cdfdefaf348.png?v=1793842906"
+  },
+  {
+   "id": "sey-2026-elpidio-tabares-la-soledad-colombia",
+   "roaster": "Sey",
+   "name": "2026 Elpidio Tabares; La Soledad",
+   "origin": "Colombia",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 26.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-elpidio-tabares-la-soledad-colombia",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026ElpidioTabares_LaSoledad-Colombia.png?v=1793842748"
+  },
+  {
+   "id": "sey-2026-eulises-fabian-quilindo-el-higueron-colombia",
+   "roaster": "Sey",
+   "name": "2026 Eulises Fabian Quilindo; El Higueron",
+   "origin": "Colombia",
+   "process_variety": "Honey",
+   "tasting_notes": [
+    "bright red berries",
+    "lime",
+    "wildflower honey"
+   ],
+   "price": {
+    "amount": 25.75,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-eulises-fabian-quilindo-el-higueron-colombia",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026EulisesFabianQuilindo_ElHigueron-Colombia.png?v=1793842472"
+  },
+  {
+   "id": "sey-2026-kanzu-lot-16-rwanda",
+   "roaster": "Sey",
+   "name": "2026 Kanzu; Lot #16",
+   "origin": "Rwanda",
+   "process_variety": "",
+   "tasting_notes": [
+    "mulling spices",
+    "orange peel",
+    "baked fruit"
+   ],
+   "price": {
+    "amount": 24.5,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-kanzu-lot-16-rwanda",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026Kanzu_Lot_16-Rwanda.png?v=1793842206"
+  },
+  {
+   "id": "sey-2026-luz-stella-rivera-el-oregon-colombia",
+   "roaster": "Sey",
+   "name": "2026 Luz Stella Rivera; El Oregon",
+   "origin": "Colombia",
+   "process_variety": "Honey",
+   "tasting_notes": [
+    "raspberry",
+    "citrus",
+    "wildflower honey"
+   ],
+   "price": {
+    "amount": 26.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-luz-stella-rivera-el-oregon-colombia",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026LuzStellaRivera_ElOregon-Colombia.png?v=1792619957"
+  },
+  {
+   "id": "sey-2026-halo-hartume-2nd-selection-ethiopia",
+   "roaster": "Sey",
+   "name": "2026 Halo Hartume; 2nd Selection",
+   "origin": "Ethiopia",
+   "process_variety": "",
+   "tasting_notes": [
+    "melon",
+    "plum",
+    "lemon verbena"
+   ],
+   "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://www.seycoffee.com/products/2026-halo-hartume-2nd-selection-ethiopia",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026HaloHartume_2ndSelection-Ethiopia.png?v=1792619718"
+  },
+  {
+   "id": "sey-huila-decaffeinated",
+   "roaster": "Sey",
+   "name": "Huila Decaffeinated",
+   "origin": "",
+   "process_variety": "Decaffeinated",
+   "tasting_notes": [
+    "a sweet",
+    "balanced profile of orange marmalade",
+    "dark chocolate",
+    "strawberry"
+   ],
+   "price": {
+    "amount": 24.25,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://www.seycoffee.com/products/huila-decaffeinated",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/products/Huila.png?v=1656557473"
+  },
+  {
+   "id": "archers-benchmark",
+   "roaster": "Archers",
+   "name": "Benchmark",
+   "origin": "",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 45.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/benchmark",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Blends-Benchmark.png?v=1682934294"
+  },
+  {
+   "id": "archers-best-of-panama-santamaria-coffee-estate-mr-luis-gn-12",
+   "roaster": "Archers",
+   "name": "Best of Panama",
+   "origin": "Santamaria Coffee Estate Mr. Luis GN - 12",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 405.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/best-of-panama-santamaria-coffee-estate-mr-luis-gn-12",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BestOfPanama-SantamariaGN-12UPBox-01_8008053a-076e-4421-a621-18cf673aa038.png?v=1764400473"
+  },
+  {
+   "id": "archers-bittersweet",
+   "roaster": "Archers",
+   "name": "Bittersweet",
+   "origin": "",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 42.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/bittersweet",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Bittersweet.png?v=1683704863"
+  },
+  {
+   "id": "archers-brazil-fazenda-ip-natural",
+   "roaster": "Archers",
+   "name": "Fazenda IP",
+   "origin": "Brazil",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 42.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/brazil-fazenda-ip-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-BrazilFazendaIP.png?v=1715758626"
+  },
+  {
+   "id": "archers-brazil-fazenda-um-supreme-pulp-natural",
+   "roaster": "Archers",
+   "name": "Fazenda Um Supreme Pulp Natural",
+   "origin": "Brazil",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 35.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/brazil-fazenda-um-supreme-pulp-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BrazilFazendaUmBlackBag.png?v=1755269721"
+  },
+  {
+   "id": "archers-brazil-santa-ines",
+   "roaster": "Archers",
+   "name": "Santa Ines",
+   "origin": "Brazil",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 42.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/brazil-santa-ines",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-BrazilSantaInes.png?v=1715758890"
+  },
+  {
+   "id": "archers-brazil-santuario-sul-sudan-rume-washed",
+   "roaster": "Archers",
+   "name": "Santuario Sul Sudan Rume Washed",
+   "origin": "Brazil",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 55.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/brazil-santuario-sul-sudan-rume-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Brazil-SantuarioSulSundanRumeWashedBag.png?v=1765550277"
+  },
+  {
+   "id": "archers-colombia-aroma-nativo-pink-bouron-efm-lot-1289",
+   "roaster": "Archers",
+   "name": "Aroma Nativo  Pink Bourbon EFM Lot 1289",
+   "origin": "Colombia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-aroma-nativo-pink-bouron-efm-lot-1289",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ColombiaAromaNativoEFMLot1289BlackBag.png?v=1779970741"
+  },
+  {
+   "id": "archers-colombia-aroma-nativo-bourbon-aji-hydro-honey-lot-396",
+   "roaster": "Archers",
+   "name": "Aroma Nativo Bourbon Aji  Hydro Honey Lot 396",
+   "origin": "Colombia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-aroma-nativo-bourbon-aji-hydro-honey-lot-396",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Colombia_Aji_HH_Lot_396_Black_Bag.png?v=1779967131"
+  },
+  {
+   "id": "archers-colombia-cafe-granja-la-esperanza-cerro-azul-geisha-hybrid-washed",
+   "roaster": "Archers",
+   "name": "Cafe Granja La Esperanza Cerro Azul Geisha Hybrid Washed",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-cafe-granja-la-esperanza-cerro-azul-geisha-hybrid-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CGLE_Cerro_Azul_Hybrid_Washed_Box_1.png?v=1778330399"
+  },
+  {
+   "id": "archers-colombia-caturra-chiroso-finca-el-paraiso",
+   "roaster": "Archers",
+   "name": "Caturra Chiroso, Finca El Paraiso",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 108.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-caturra-chiroso-finca-el-paraiso",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Caturra-Chiroso-Finca-El-Paraiso.png?v=1684499802"
+  },
+  {
+   "id": "archers-colombia-clearpath-coffee-finca-capilla-de-rosario-lychee-cf",
+   "roaster": "Archers",
+   "name": "Clearpath Coffee Finca Capilla De Rosario Lychee CF",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-clearpath-coffee-finca-capilla-de-rosario-lychee-cf",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Clearpath-LycheeBlackbag_1.png?v=1783517078"
+  },
+  {
+   "id": "archers-colombia-condor-decaf",
+   "roaster": "Archers",
+   "name": "Condor, Decaf",
+   "origin": "Colombia",
+   "process_variety": "Decaf",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-condor-decaf",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ColombiaCondorDecaf.png?v=1715671033"
+  },
+  {
+   "id": "archers-colombia-cota-coffee-finca-anaya-watermelon-cf",
+   "roaster": "Archers",
+   "name": "Cota Coffee Finca Anaya - Watermelon CF",
+   "origin": "Colombia",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 55.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-anaya-watermelon-cf",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CotaCoffee-Co-fermentWatermelonBlackBag.png?v=1787988014"
+  },
+  {
+   "id": "archers-colombia-cota-coffee-finca-kodu-coconut-cf",
+   "roaster": "Archers",
+   "name": "Cota Coffee Finca Kodu Coconut CF",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 55.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-kodu-coconut-cf",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Cota_Coffee_-_Co-ferment_Coconut_Black_Bag.png?v=1784017635"
+  },
+  {
+   "id": "archers-colombia-cota-coffee-finca-rio-negro-pink-bourbon-zest-life",
+   "roaster": "Archers",
+   "name": "Cota Coffee Finca Rio Negro Pink Bourbon - Zest life",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 53.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-rio-negro-pink-bourbon-zest-life",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Cota_Coffee_-_Pink_bourbon_Zest_Life_Black_Bag.png?v=1788163500"
+  },
+  {
+   "id": "archers-colombia-cota-coffee-finca-rio-negro-tropical-popsicle",
+   "roaster": "Archers",
+   "name": "Cota Coffee Finca Rio Negro Tropical Popsicle",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-rio-negro-tropical-popsicle",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CotaCoffee-TropicalPopsicleBlackbag_1.png?v=1783498126"
+  },
+  {
+   "id": "archers-colombia-finca-el-paraiso-villa-rosita",
+   "roaster": "Archers",
+   "name": "Finca El Paraiso Villa Rosita",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-finca-el-paraiso-villa-rosita",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Villa_Rosita_Black_Bag_2026.png?v=1771580560"
+  },
+  {
+   "id": "archers-colombia-finca-el-porvenir-geisha-honey-drd",
+   "roaster": "Archers",
+   "name": "Finca El Porvenir Geisha Honey DRD",
+   "origin": "Colombia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 160.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-finca-el-porvenir-geisha-honey-drd",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ElPorvenir-GeishaHoneyDRDBox.png?v=1782380172"
+  },
+  {
+   "id": "archers-colombia-finca-el-porvenir-geisha-washed",
+   "roaster": "Archers",
+   "name": "Finca El Porvenir Geisha Washed",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-finca-el-porvenir-geisha-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/El_Porvenir_-_Geisha_Washed_Box.png?v=1782380588"
+  },
+  {
+   "id": "archers-colombia-inmaculada-coffee-sudan-rume-signature-lot-t895",
+   "roaster": "Archers",
+   "name": "Inmaculada Coffee Sudan Rume Signature Lot T895",
+   "origin": "Colombia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 118.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-inmaculada-coffee-sudan-rume-signature-lot-t895",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/InmaculadaT895Box-01_b7327496-46c3-425d-ac0d-e66fc4328a9a.png?v=1755332722"
+  },
+  {
+   "id": "archers-colombia-letty-finca-el-paraiso",
+   "roaster": "Archers",
+   "name": "Letty, Finca El Paraiso",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 103.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-letty-finca-el-paraiso",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Colombia-Finca-El-Paraiso-Letty.png?v=1719815345"
+  },
+  {
+   "id": "archers-colombia-luna-finca-el-paraiso",
+   "roaster": "Archers",
+   "name": "Luna, Finca El Paraiso",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 103.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-luna-finca-el-paraiso",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Colombia-Finca-El-Paraiso-Luna.png?v=1719815554"
+  },
+  {
+   "id": "archers-colombia-mandela-vieux",
+   "roaster": "Archers",
+   "name": "Mandela - Cafe Granja La Esperanza",
+   "origin": "Colombia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 80.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-mandela-vieux",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CGLE_Mandela_La_Esperanza_Box.png?v=1728570826"
+  },
+  {
+   "id": "archers-colombia-nogales-coffee-farm-typica-low-caffeine",
+   "roaster": "Archers",
+   "name": "Nogales Coffee Farm Typica Low Caffeine",
+   "origin": "Colombia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 48.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/colombia-nogales-coffee-farm-typica-low-caffeine",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Colombia_Typica_Nogales_Coffee_Farm_Black_Bag.png?v=1767684720"
+  },
+  {
+   "id": "archers-filter-bundle-d-1",
+   "roaster": "Archers",
+   "name": "D",
+   "origin": "Competition Bundle",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 799.0,
+    "currency": "AED",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/filter-bundle-d-1",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CompetitionBundle-D.png?v=1773741400"
+  },
+  {
+   "id": "archers-costa-rica-cafe-rivense-black-honey",
+   "roaster": "Archers",
+   "name": "Cafe Rivense Black Honey",
+   "origin": "Costa Rica",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 30.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/costa-rica-cafe-rivense-black-honey",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CafeRivenseBlackHoneyBag.png?v=1758026235"
+  },
+  {
+   "id": "archers-costa-rica-el-jardin-anaerobic",
+   "roaster": "Archers",
+   "name": "El Jardin, Anaerobic",
+   "origin": "Costa Rica",
+   "process_variety": "Anaerobic",
+   "tasting_notes": [],
+   "price": {
+    "amount": 30.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/costa-rica-el-jardin-anaerobic",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Artboard_2_1.png?v=1718275452"
+  },
+  {
+   "id": "archers-costa-rica-hacienda-copey-itadaki-geisha-honey-lot-182",
+   "roaster": "Archers",
+   "name": "Hacienda Copey Itadaki Geisha Honey Lot 182",
+   "origin": "Costa Rica",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/costa-rica-hacienda-copey-itadaki-geisha-honey-lot-182",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HaciendaCopey-Honey182Box.png?v=1780126423"
+  },
+  {
+   "id": "archers-costa-rica-hacienda-copey-itadaki-geisha-washed-lot-177",
+   "roaster": "Archers",
+   "name": "Hacienda Copey Itadaki Geisha Washed Lot 177",
+   "origin": "Costa Rica",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/costa-rica-hacienda-copey-itadaki-geisha-washed-lot-177",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_Copey_-_Washed_177_Box.png?v=1780126777"
+  },
+  {
+   "id": "archers-finca-del-putushio-typica-mejorado-rt",
+   "roaster": "Archers",
+   "name": "Fincas Del Putushio, Typica Mejorado",
+   "origin": "Ecuador",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 83.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/finca-del-putushio-typica-mejorado-rt",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Del_Putushio_Black_Bag.png?v=1740475857"
+  },
+  {
+   "id": "archers-ecuador-sidra-wave-washed-finca-soledad",
+   "roaster": "Archers",
+   "name": "Sidra Wave Washed, Finca Soledad",
+   "origin": "Ecuador",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 98.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ecuador-sidra-wave-washed-finca-soledad",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaSoledadSidraWave200g.png?v=1715673410"
+  },
+  {
+   "id": "archers-ecuador-typica-mejorado-wave-natural-finca-soledad",
+   "roaster": "Archers",
+   "name": "Typica Mejorado Wave Natural, Finca Soledad",
+   "origin": "Ecuador",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 98.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ecuador-typica-mejorado-wave-natural-finca-soledad",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/TypicaMejorado200g.png?v=1719040185"
+  },
+  {
+   "id": "archers-el-salvador-finca-el-cerro-pacas-washed",
+   "roaster": "Archers",
+   "name": "Finca El Cerro Pacas Washed",
+   "origin": "El Salvador",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 48.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/el-salvador-finca-el-cerro-pacas-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaelCerroPacasWashedWhiteBag.png?v=1749221445"
+  },
+  {
+   "id": "archers-ethiopia-alo-coffee-mewa-village",
+   "roaster": "Archers",
+   "name": "Alo Coffee Mewa Village",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 55.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-mewa-village",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EthiopiaAloMewaVillageWhiteBag.png?v=1758366586"
+  },
+  {
+   "id": "archers-ethiopia-alo-chilaka-station-natural-anaerobic-cool-dry-archers-lot",
+   "roaster": "Archers",
+   "name": "Alo Chilaka Station Natural Anaerobic Cool Dry Archers lot",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 82.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-chilaka-station-natural-anaerobic-cool-dry-archers-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_AloChilakaStationNaturalAnaerobicBox.png?v=1793349315"
+  },
+  {
+   "id": "archers-ethiopia-alo-coffee-dume-station-natural-mini",
+   "roaster": "Archers",
+   "name": "Alo Coffee Dume Station Natural Mini",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 70.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-dume-station-natural-mini",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_DumeNaturalMiniBox.png?v=1792998463"
+  },
+  {
+   "id": "archers-ethiopia-alo-coffee-rf8-archers-ep-cold-ferment-natural",
+   "roaster": "Archers",
+   "name": "Alo Coffee RF8 Archers EP Cold Ferment Natural",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 90.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-rf8-archers-ep-cold-ferment-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_RF8NaturalColdFermentBox-01.png?v=1771407136"
+  },
+  {
+   "id": "archers-ethiopia-alo-coffee-safo-station-washed-zero-mini",
+   "roaster": "Archers",
+   "name": "Alo Coffee Safo Station Washed Zero Mini",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 70.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-safo-station-washed-zero-mini",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_SafoStationWashedZerominiBox.png?v=1792995945"
+  },
+  {
+   "id": "archers-ethiopia-alo-coffee-wrf8-archers-ep-cold-ferment-washed",
+   "roaster": "Archers",
+   "name": "Alo Coffee WRF8 Archers EP Cold Ferment Washed",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 90.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-wrf8-archers-ep-cold-ferment-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_WRF8WashedColdFermentBox-01.png?v=1771408208"
+  },
+  {
+   "id": "archers-ethiopia-alo-village-archers-lot-1-sfw",
+   "roaster": "Archers",
+   "name": "Alo Village Archers Lot 1 - SFW",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-village-archers-lot-1-sfw",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloChilakastationArchersLot1-SFWBox-01.png?v=1771581646"
+  },
+  {
+   "id": "archers-ethiopia-alo-village-archers-lot-2-dfw",
+   "roaster": "Archers",
+   "name": "Alo Village Archers Lot 2 - DFW",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-village-archers-lot-2-dfw",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloChilakastationArchersLot2-DFWBox-01.png?v=1771585298"
+  },
+  {
+   "id": "archers-ethiopia-alo-village-washed-peaberry",
+   "roaster": "Archers",
+   "name": "Alo Village, Washed Peaberry",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-alo-village-washed-peaberry",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloPeaberryWashed-01_c.png?v=1740578867"
+  },
+  {
+   "id": "archers-ethiopia-banko-chelchele-chelbesa-natural-1",
+   "roaster": "Archers",
+   "name": "Banko Chelchele Chelbesa Natural",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 52.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-banko-chelchele-chelbesa-natural-1",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EDNChelbesa2025WhiteBag.png?v=1754999618"
+  },
+  {
+   "id": "archers-ethiopia-benti-nenka-guji-hambela",
+   "roaster": "Archers",
+   "name": "Benti Nenka Guji Hambela",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-benti-nenka-guji-hambela",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BentiNenkaBlackBag.png?v=1788418059"
+  },
+  {
+   "id": "archers-ethiopia-daye-bensa-cold-ferment-honey-archers-lot-ep",
+   "roaster": "Archers",
+   "name": "Daye Bensa Cold Ferment Honey Archers Lot EP",
+   "origin": "Ethiopia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-cold-ferment-honey-archers-lot-ep",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/DayeBensaColdFermentHoneyBox_eecaf67b-f87f-4196-9568-291bbb595717.png?v=1775208441"
+  },
+  {
+   "id": "archers-ethiopia-daye-bensa-cold-ferment-hybrid-washed-archers-lot-ep",
+   "roaster": "Archers",
+   "name": "Daye Bensa Cold Ferment Hybrid Washed Archers Lot EP",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-cold-ferment-hybrid-washed-archers-lot-ep",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/DayeBensaColdFermentHybridWashedBox.png?v=1775542865"
+  },
+  {
+   "id": "archers-ethiopia-daye-bensa-cold-ferment-natural-archers-lot-ep",
+   "roaster": "Archers",
+   "name": "Daye Bensa Cold Ferment Natural Archers Lot EP",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-cold-ferment-natural-archers-lot-ep",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/DayeBensaColdFermentNaturalBox.png?v=1775039093"
+  },
+  {
+   "id": "archers-ethiopia-daye-bensa-hamasho-natural-archers-lot-0126",
+   "roaster": "Archers",
+   "name": "Daye Bensa Hamasho Natural Archers Lot 0126",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 38.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-hamasho-natural-archers-lot-0126",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HamashoNaturalLot0126BlackBag.png?v=1790363058"
+  },
+  {
+   "id": "archers-ethiopia-daye-bensa-korma-kontoma-murago-natural-mini",
+   "roaster": "Archers",
+   "name": "Daye Bensa Korma Kontoma Murago Natural Mini",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 50.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-korma-kontoma-murago-natural-mini",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/kormaKontomaNaturalMiniBlackBag.png?v=1790333372"
+  },
+  {
+   "id": "archers-ethiopia-daye-bensa-rumudamo-dfw-archers-lot",
+   "roaster": "Archers",
+   "name": "Daye Bensa Rumudamo DFW Archers Lot",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 52.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-rumudamo-dfw-archers-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/RumadamoDFW-ArchersLotBlackBAg.png?v=1775543330"
+  },
+  {
+   "id": "archers-ethiopia-elora-station-natural-cold-ferment-archers-ep",
+   "roaster": "Archers",
+   "name": "Elora Station Natural Cold Ferment Archers EP",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 80.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elora-station-natural-cold-ferment-archers-ep",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraStation_NaturalColdFermentBox-01.png?v=1765792004"
+  },
+  {
+   "id": "archers-ethiopia-elora-station-washed-cold-ferment-archers-ep",
+   "roaster": "Archers",
+   "name": "Elora Station Washed Cold Ferment Archers EP",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 80.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elora-station-washed-cold-ferment-archers-ep",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EthiopiaEltoEloraStationBox-01_aeafa7be-2ccf-4b60-afa1-73567ab3d3a4.png?v=1765790959"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-cold-ferment-natural-cf8",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station  Cold Ferment Natural CF8",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 82.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-cold-ferment-natural-cf8",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraColdFermentNaturalCF8-DRDBox.png?v=1788849183"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-honey-mosto-ferment-drd",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station Honey Mosto Ferment  - DRD",
+   "origin": "Ethiopia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 82.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-honey-mosto-ferment-drd",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraMostoFerment-DRDBox_74a67d0a-301d-4ac4-bf13-55584664e13f.png?v=1788850467"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-river-flow-honey-cf5",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station River Flow Honey CF5",
+   "origin": "Ethiopia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-honey-cf5",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraRiverFlowHoneyCF5Box-01.png?v=1765627986"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-river-flow-natural-cf8",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station River Flow Natural CF8",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-natural-cf8",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraRiverFlowNaturalCF8Box-01.png?v=1765626437"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-river-flow-natural-rf10",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station River Flow Natural RF10",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 82.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-natural-rf10",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraRiverflowNaturalRF10-DRDBox.png?v=1788848052"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-river-flow-washed-cf10",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station River Flow Washed CF10",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-washed-cf10",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraRiverFlowWashedCF10Box-01.png?v=1765610040"
+  },
+  {
+   "id": "archers-ethiopia-elto-elora-station-river-flow-washed-wrf8",
+   "roaster": "Archers",
+   "name": "Elto - Elora Station River Flow Washed WRF8",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 82.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-washed-wrf8",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraRiverflowWashedWRF8-DRDBox.png?v=1788849528"
+  },
+  {
+   "id": "archers-ethiopia-elto-coffee-elora-station-classic-washed",
+   "roaster": "Archers",
+   "name": "Elto Coffee Elora Station Classic Washed",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-elora-station-classic-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraClassicWashedBlackBag_c7da58e6-2472-4838-8dc3-f10ef74426e0.png?v=1765696254"
+  },
+  {
+   "id": "archers-ethiopia-elto-coffee-kokose-natural",
+   "roaster": "Archers",
+   "name": "Elto Coffee Kokose Natural Lot 2",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-kokose-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EltoKokoseLot2BlackBag.png?v=1789996861"
+  },
+  {
+   "id": "archers-ethiopia-elto-coffee-sama-honey",
+   "roaster": "Archers",
+   "name": "Elto Coffee Sama Honey",
+   "origin": "Ethiopia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 28.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-sama-honey",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_SamaHoneyBlackBag.png?v=1765630062"
+  },
+  {
+   "id": "archers-ethiopia-elto-coffee-sama-washed",
+   "roaster": "Archers",
+   "name": "Elto Coffee Sama Washed",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 28.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-sama-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_SamaWashedBlackBag.png?v=1765628644"
+  },
+  {
+   "id": "archers-ethiopia-hamasho-village-asefa-dukamo-station-honey-archers-lot",
+   "roaster": "Archers",
+   "name": "Hamasho Village Asefa Dukamo Station Honey Archers Lot",
+   "origin": "Ethiopia",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-hamasho-village-asefa-dukamo-station-honey-archers-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Honey_89.png?v=1759301676"
+  },
+  {
+   "id": "archers-ethiopia-hamasho-village-natural-archers-lot-2025",
+   "roaster": "Archers",
+   "name": "Hamasho Village Asefa Dukamo Station Natural Archers Lot",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-hamasho-village-natural-archers-lot-2025",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Natural_89.png?v=1759301676"
+  },
+  {
+   "id": "archers-ethiopia-hamasho-village-washed-archers-lot-2025",
+   "roaster": "Archers",
+   "name": "Hamasho Village Asefa Dukamo Station Washed Archers Lot",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-hamasho-village-washed-archers-lot-2025",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Washed89.png?v=1759301791"
+  },
+  {
+   "id": "archers-ethiopian-oboleyan-coffee-hambela-benti-nenka-classic-natural-lot-2",
+   "roaster": "Archers",
+   "name": "Oboleyan Coffee Hambela Benti Nenka - Classic Natural Lot 2",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 32.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopian-oboleyan-coffee-hambela-benti-nenka-classic-natural-lot-2",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hambella_Benti_Nenka_Natural_Black_Bag.png?v=1787209325"
+  },
+  {
+   "id": "archers-ethiopia-oboleyan-coffee-hambela-dimtu-haro-highborn-project-classic-natural",
+   "roaster": "Archers",
+   "name": "Oboleyan Coffee Hambela Dimtu Haro Highborn Project - Classic Natural",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 36.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-oboleyan-coffee-hambela-dimtu-haro-highborn-project-classic-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hambela_Dimtu_Haro_-_Highborn_Natural_Black_Bag.png?v=1787209326"
+  },
+  {
+   "id": "archers-ethiopia-oboleyan-coffee-hambela-dimtu-haro-highborn-project-natural-anaerobic",
+   "roaster": "Archers",
+   "name": "Oboleyan Coffee Hambela Dimtu Haro Highborn Project - Natural Anaerobic",
+   "origin": "Ethiopia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 52.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-oboleyan-coffee-hambela-dimtu-haro-highborn-project-natural-anaerobic",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HambellaDimtuHaro-HighbornNaturalAnaerobicBox.png?v=1787209344"
+  },
+  {
+   "id": "archers-ethiopia-rumudamo-anaerobic-mini-archers-lot-0102-26",
+   "roaster": "Archers",
+   "name": "Rumudamo Anaerobic Mini Archers lot 0102-26",
+   "origin": "Ethiopia",
+   "process_variety": "Anaerobic",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/ethiopia-rumudamo-anaerobic-mini-archers-lot-0102-26",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/RumudamoNaturalanaerobicminiBox.png?v=1790362095"
+  },
+  {
+   "id": "archers-filter-bundle-b-non-comp-copy",
+   "roaster": "Archers",
+   "name": "B",
+   "origin": "Filter Bundle",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 210.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/filter-bundle-b-non-comp-copy",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FilterBundle-B.png?v=1773742278"
+  },
+  {
+   "id": "archers-finca-la-pradera-cf-lychee-copy",
+   "roaster": "Archers",
+   "name": "Finca El Injerto, Malawi Geisha",
+   "origin": "Guatemala",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 60.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/finca-la-pradera-cf-lychee-copy",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaElInjertoMalawiGeishaBlackBag.png?v=1741769807"
+  },
+  {
+   "id": "archers-guatemala-finca-la-serrania-kimono-natural",
+   "roaster": "Archers",
+   "name": "Finca La Serrania Kimono Natural",
+   "origin": "Guatemala",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 35.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/guatemala-finca-la-serrania-kimono-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Kimono_natural_black_bag.png?v=1778848739"
+  },
+  {
+   "id": "archers-guatemala-guatemala-finca-santa-rita",
+   "roaster": "Archers",
+   "name": "Guatemala Finca Santa Rita",
+   "origin": "Guatemala",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 52.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/guatemala-guatemala-finca-santa-rita",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Guatemala_FInca_Santa_Rita_White_Bag_2.png?v=1772959273"
+  },
+  {
+   "id": "archers-honduras-finca-cascaritas-lot-19",
+   "roaster": "Archers",
+   "name": "Finca Cascaritas Lot 19",
+   "origin": "Honduras",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 48.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/honduras-finca-cascaritas-lot-19",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HondurasCascaritasLot19.png?v=1721027381"
+  },
+  {
+   "id": "archers-honduras-finca-mira-flores-lot-22",
+   "roaster": "Archers",
+   "name": "Finca Mira Flores Lot 22",
+   "origin": "Honduras",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 52.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/honduras-finca-mira-flores-lot-22",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HondurasMiraFloresLot22.png?v=1721027384"
+  },
+  {
+   "id": "archers-indonesia-central-sumatera-bener-kelipah-natural",
+   "roaster": "Archers",
+   "name": "Bener Kelipah, Central Sumatera Coffee",
+   "origin": "Indonesia",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 55.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/indonesia-central-sumatera-bener-kelipah-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/IndonesiaBenerKelipahWhiteBag.png?v=1740407105"
+  },
+  {
+   "id": "archers-kenya-karimikui-aa",
+   "roaster": "Archers",
+   "name": "Karimikui AA",
+   "origin": "Kenya",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 65.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/kenya-karimikui-aa",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/karimikuiwhitebag.png?v=1719297403"
+  },
+  {
+   "id": "archers-kenya-rui-ruiru-aa-natural-anaerobic",
+   "roaster": "Archers",
+   "name": "Rui Ruiru AA Natural Anaerobic",
+   "origin": "Kenya",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 35.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/kenya-rui-ruiru-aa-natural-anaerobic",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/KenyaRuiruiruBlackBag.png?v=1779178520"
+  },
+  {
+   "id": "archers-microlot-bundle-c",
+   "roaster": "Archers",
+   "name": "C",
+   "origin": "Microlot Bundle",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 285.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/microlot-bundle-c",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MicroLotBundle-C.png?v=1773739765"
+  },
+  {
+   "id": "archers-milk-based",
+   "roaster": "Archers",
+   "name": "Milk-Based",
+   "origin": "",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 42.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/milk-based",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilkBasedWhiteBag.png?v=1791372554"
+  },
+  {
+   "id": "archers-panama-finca-auromar-malla-geisha-washed-peaberry",
+   "roaster": "Archers",
+   "name": "Finca Auromar, Geisha Washed Peaberry",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 98.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-auromar-malla-geisha-washed-peaberry",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaAuromarGWPeaberryBox-01.png?v=1751022113"
+  },
+  {
+   "id": "archers-panama-mil-cumbres-claus-gn-lot-2702",
+   "roaster": "Archers",
+   "name": "Mil Cumbres CLAUS GN Lot 2702",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 153.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-mil-cumbres-claus-gn-lot-2702",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbresClausGNLot2702Box-01.png?v=1750946983"
+  },
+  {
+   "id": "archers-panama-abu-coffee-geisha-washed-lot-2690",
+   "roaster": "Archers",
+   "name": "Abu Coffee - Geisha Washed lot 2690",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-abu-coffee-geisha-washed-lot-2690",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Abucoffee_Abu2690.png?v=1740577786"
+  },
+  {
+   "id": "archers-panama-abu-coffee-gw-lot-2610",
+   "roaster": "Archers",
+   "name": "Abu Coffee Geisha Washed Lot 2610",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-abu-coffee-gw-lot-2610",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Abu2610Box-01.png?v=1751187055"
+  },
+  {
+   "id": "archers-panama-abu-coffee-geisha-washed-lot-3365",
+   "roaster": "Archers",
+   "name": "Abu Coffee Geisha Washed Lot 3365",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 155.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-abu-coffee-geisha-washed-lot-3365",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Abu3365box-01_91634088-219f-4cfe-99cb-87ffda3b6db7.png?v=1769608736"
+  },
+  {
+   "id": "archers-panama-adaura-coffee-finca-lorayne-geisha-washed",
+   "roaster": "Archers",
+   "name": "Adaura Coffee Finca Lorayne Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-adaura-coffee-finca-lorayne-geisha-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AdauraFincaLorayneGWBox-01.png?v=1751969538"
+  },
+  {
+   "id": "archers-panama-adaura-coffee-geisha-washed-jer-drd",
+   "roaster": "Archers",
+   "name": "Adaura Coffee Geisha Washed Jer DRD",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 120.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-adaura-coffee-geisha-washed-jer-drd",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Adaura_Finca_Lorayne_Geisha_Washed_Jer_Box.png?v=1779107869"
+  },
+  {
+   "id": "archers-panama-adaura-coffee-geisha-washed-peaberry",
+   "roaster": "Archers",
+   "name": "Adaura Coffee Geisha Washed Peaberry",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 130.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-adaura-coffee-geisha-washed-peaberry",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AdauraFincaLorayneGeishaPeaberryWashedBox.png?v=1776944396"
+  },
+  {
+   "id": "archers-panama-adaura-coffee-washed-ferment-mosto-2025",
+   "roaster": "Archers",
+   "name": "Adaura Coffee, Washed Ferment Mosto",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 183.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-adaura-coffee-washed-ferment-mosto-2025",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Lorayne_Washed_Ferment_Mosto.png?v=1759844852"
+  },
+  {
+   "id": "archers-panama-altieri-coffee-alessa-020425",
+   "roaster": "Archers",
+   "name": "Altieri Coffee Alessa 020425",
+   "origin": "Panama",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 170.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-altieri-coffee-alessa-020425",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffee-GN-DFM-ALESSA-020425Box-01_ea0017fc-4f1b-48fb-aba9-357172e9a09f.png?v=1768135532"
+  },
+  {
+   "id": "archers-panama-altieri-coffee-alessa-190325-cold-dry-ferment",
+   "roaster": "Archers",
+   "name": "Altieri Coffee Alessa 190325 Cold Dry Ferment",
+   "origin": "Panama",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 170.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-altieri-coffee-alessa-190325-cold-dry-ferment",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffee-GN-DFC-ALESSA-190325Box-01.png?v=1768112358"
+  },
+  {
+   "id": "archers-panama-altieri-coffee-chombi-080425-river-flow-7",
+   "roaster": "Archers",
+   "name": "Altieri Coffee Chombi 080425 River Flow 7",
+   "origin": "Panama",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-altieri-coffee-chombi-080425-river-flow-7",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffee-GN-RFF7-CHOMBI-080425Box-01.png?v=1768140650"
+  },
+  {
+   "id": "archers-panama-ale-241223-gw-altieri-coffee",
+   "roaster": "Archers",
+   "name": "Altieri Coffee, ALE 241223 GW",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 140.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-ale-241223-gw-altieri-coffee",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffeeALE241223GWBox.png?v=1729783220"
+  },
+  {
+   "id": "archers-panama-auction-lot-finca-sophia-estacion-sfa-09-geisha-washed",
+   "roaster": "Archers",
+   "name": "Auction Lot Finca Sophia Estacion SFA 09 Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 550.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-auction-lot-finca-sophia-estacion-sfa-09-geisha-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EstacionSFA09.png?v=1774167085"
+  },
+  {
+   "id": "archers-panama-auction-lot-finca-sophia-estacion-sfa-10-geisha-natural",
+   "roaster": "Archers",
+   "name": "Auction Lot Finca Sophia Estacion SFA 10 Geisha Natural",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 950.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-auction-lot-finca-sophia-estacion-sfa-10-geisha-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EstacionSFA10_6225845f-4cef-4dd1-a642-93f9dd038f9c.png?v=1774167940"
+  },
+  {
+   "id": "archers-panama-auction-lot-lamastus-family-estate-falda-honey-pa2105",
+   "roaster": "Archers",
+   "name": "Auction Lot Lamastus Family Estate Falda Honey - PA2105",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-auction-lot-lamastus-family-estate-falda-honey-pa2105",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lamastus_Axis_Of_Elevation_-_Falda_Honey_1800_UP_Box-01.png?v=1765887985"
+  },
+  {
+   "id": "archers-panama-sakura-geisha-washed-bambito-estate",
+   "roaster": "Archers",
+   "name": "Bambito Sakura, Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 165.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-sakura-geisha-washed-bambito-estate",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BambitoSakuraBox.png?v=1729784296"
+  },
+  {
+   "id": "archers-panama-black-moon-farm-geisha-natural-anaerobic-lot-15",
+   "roaster": "Archers",
+   "name": "Black Moon Farm Geisha Natural Anaerobic Lot 15",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-black-moon-farm-geisha-natural-anaerobic-lot-15",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Blackmoon-GeishaAnaerobicNaturalLot15Box-01.png?v=1768910330"
+  },
+  {
+   "id": "archers-panama-black-moon-farm-geisha-washed-lot-26",
+   "roaster": "Archers",
+   "name": "Black Moon Farm Geisha Washed Lot 26",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-black-moon-farm-geisha-washed-lot-26",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Blackmoon-GeishaWashedLot26Box-01.png?v=1768909480"
+  },
+  {
+   "id": "archers-panama-carmen-estate-geisha-washed-lot-6",
+   "roaster": "Archers",
+   "name": "Carmen Estate Geisha Washed Lot 6",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-carmen-estate-geisha-washed-lot-6",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CarmenEstateLot6Box.png?v=1774763878"
+  },
+  {
+   "id": "archers-carmen-estate-geisha-washed-lot-8",
+   "roaster": "Archers",
+   "name": "Carmen Estate, Geisha Washed Lot 8",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/carmen-estate-geisha-washed-lot-8",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CarmenEstateLot8Box-01.png?v=1740056687"
+  },
+  {
+   "id": "archers-chevas-coffee-estate-geisha-choclo-lot-128",
+   "roaster": "Archers",
+   "name": "Chevas Coffee Estate, Geisha Choclo Lot 128",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 138.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/chevas-coffee-estate-geisha-choclo-lot-128",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasCoffeeChocloLot128Box-01.png?v=1740579843"
+  },
+  {
+   "id": "archers-panama-chevas-limited-el-choclo-gw-venus",
+   "roaster": "Archers",
+   "name": "Chevas Limited  El Choclo GW Venus",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-chevas-limited-el-choclo-gw-venus",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasVenusBox.png?v=1777045988"
+  },
+  {
+   "id": "archers-panama-chevas-limited-choclo-lot-3045-geisha-honey-cold-room",
+   "roaster": "Archers",
+   "name": "Chevas Limited Choclo Lot 3045 Geisha Honey Cold Room",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 128.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-chevas-limited-choclo-lot-3045-geisha-honey-cold-room",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasChoclo3045Box-01.png?v=1755180810"
+  },
+  {
+   "id": "archers-panama-chevas-limited-geisha-washed-drd-lot-5250",
+   "roaster": "Archers",
+   "name": "Chevas Limited Geisha Washed DRD Lot 5250",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 143.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-chevas-limited-geisha-washed-drd-lot-5250",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasLimited5250Box-01.png?v=1756911406"
+  },
+  {
+   "id": "archers-panama-chevas-limited-gn-plano-lot-0712",
+   "roaster": "Archers",
+   "name": "Chevas Limited GN Plano Lot 0712",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 114.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-chevas-limited-gn-plano-lot-0712",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Chevas0712Box-01.png?v=1755182102"
+  },
+  {
+   "id": "archers-panama-cuatro-caminos-h2-geisha-natural",
+   "roaster": "Archers",
+   "name": "Cuatro Caminos H2 Geisha Natural",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 130.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-cuatro-caminos-h2-geisha-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminosH2GNBox-01.png?v=1759574664"
+  },
+  {
+   "id": "archers-panama-el-burro-geisha-0402-natural-lot-16",
+   "roaster": "Archers",
+   "name": "El Burro Geisha 0402 Washed Lot 16",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 133.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-el-burro-geisha-0402-natural-lot-16",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LamastusElBurroGW0402Lot16Box-01_7c658efd-ac5c-4b79-b41a-f7b8c33ccdb4.png?v=1750957906"
+  },
+  {
+   "id": "archers-panama-elida-estate-geisha-loma-2501",
+   "roaster": "Archers",
+   "name": "Elida Geisha Honey Loma 2501",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 143.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-elida-estate-geisha-loma-2501",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ElidaGeishaLoma2501.png?v=1694785451"
+  },
+  {
+   "id": "archers-panama-elida-estate-geisha-plano-2801",
+   "roaster": "Archers",
+   "name": "Elida Geisha Washed Plano 2801",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 143.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-elida-estate-geisha-plano-2801",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ElidaGeishaPlano2801.png?v=1694595649"
+  },
+  {
+   "id": "archers-panama-emporio-geisha-popo-natural-lot-22a",
+   "roaster": "Archers",
+   "name": "Emporio Estate, GN Lot 22A",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 128.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-emporio-geisha-popo-natural-lot-22a",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EmporioEstateLot22ABox-01_b148c111-f019-4b06-a2c8-a3358971d94b.png?v=1740035229"
+  },
+  {
+   "id": "archers-panama-finca-alto-bambito-geisha-honey",
+   "roaster": "Archers",
+   "name": "Finca Alto Bambito Geisha Honey",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-alto-bambito-geisha-honey",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Alto_Bambito_-_Geisha_Honey.png?v=1783837948"
+  },
+  {
+   "id": "archers-panama-finca-alto-bambito-geisha-washed",
+   "roaster": "Archers",
+   "name": "Finca Alto Bambito Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-alto-bambito-geisha-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltoBambito-GeishaWashedUP.png?v=1783779331"
+  },
+  {
+   "id": "archers-finca-auromar-catalina-geisha-natural",
+   "roaster": "Archers",
+   "name": "Finca Auromar -  Catalina Geisha Natural",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 98.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/finca-auromar-catalina-geisha-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CatalinaGeishaBox-01.png?v=1740057503"
+  },
+  {
+   "id": "archers-panama-finca-auromar-firestone-geisha-washed-copy",
+   "roaster": "Archers",
+   "name": "Finca Auromar - Firestone Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 110.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-auromar-firestone-geisha-washed-copy",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FirestoneBox-01.png?v=1740058300"
+  },
+  {
+   "id": "archers-panama-chrysalis-archers-exclusive-lot",
+   "roaster": "Archers",
+   "name": "Finca Deborah Chrysalis - Archers Lot",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 140.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-chrysalis-archers-exclusive-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahChrysalisMockUp-01_1.png?v=1736524194"
+  },
+  {
+   "id": "archers-panama-synergy-archers-lot",
+   "roaster": "Archers",
+   "name": "Finca Deborah Synergy - Archers Lot",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-synergy-archers-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahSynergyMockUp-01_1.png?v=1736524355"
+  },
+  {
+   "id": "archers-panama-enigma-finca-deborah",
+   "roaster": "Archers",
+   "name": "Finca Deborah, Enigma",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-enigma-finca-deborah",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahEnigmaBox-01.png?v=1772631653"
+  },
+  {
+   "id": "archers-panama-interstellar-finca-deborah",
+   "roaster": "Archers",
+   "name": "Finca Deborah, Interstellar",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 185.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-interstellar-finca-deborah",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahInterstellarBox.png?v=1729783568"
+  },
+  {
+   "id": "archers-panama-nirvana",
+   "roaster": "Archers",
+   "name": "Finca Deborah, Nirvana",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-nirvana",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahNirvanaBox-01.png?v=1772630793"
+  },
+  {
+   "id": "archers-panama-terroir-finca-deborah",
+   "roaster": "Archers",
+   "name": "Finca Deborah, Terroir",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 165.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-terroir-finca-deborah",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Terroir_1.png?v=1742549870"
+  },
+  {
+   "id": "archers-panama-finca-el-pergamino-geisha-natural-lot-2425",
+   "roaster": "Archers",
+   "name": "Finca El Pergamino Geisha Natural Lot 2425",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-el-pergamino-geisha-natural-lot-2425",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_El_Pergamino_GN_Lot_2425_Box.png?v=1774444747"
+  },
+  {
+   "id": "archers-panama-finca-el-pergamino-geisha-washed-lot-31325",
+   "roaster": "Archers",
+   "name": "Finca El Pergamino Geisha Washed Lot 31325",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-el-pergamino-geisha-washed-lot-31325",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaElPergaminoGWLot31325Box.png?v=1774445395"
+  },
+  {
+   "id": "archers-finca-hartmann-geisha-washed-lot-68",
+   "roaster": "Archers",
+   "name": "Finca Hartmann, Geisha Washed Lot 68",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 95.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/finca-hartmann-geisha-washed-lot-68",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HartmannLot68Box-01_ed994706-99da-4b9e-87e3-7d2ea46db742.png?v=1741698494"
+  },
+  {
+   "id": "archers-panama-finca-lorayne-adaura-absolu",
+   "roaster": "Archers",
+   "name": "Finca Lorayne, Adaura Absolu",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-lorayne-adaura-absolu",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AdauraAbsolu-01.png?v=1759841317"
+  },
+  {
+   "id": "archers-panama-finca-los-cenizos-geisha-washed-gw208",
+   "roaster": "Archers",
+   "name": "Finca Los Cenizos  - Geisha Washed GW 208",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 210.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-geisha-washed-gw208",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaLosCenizos-GeishaWashedGW208Belt-01.png?v=1761649606"
+  },
+  {
+   "id": "archers-panama-finca-los-cenizos-gnf-281-niko-lot",
+   "roaster": "Archers",
+   "name": "Finca Los Cenizos  GNF 281 - Niko Lot",
+   "origin": "Panama",
+   "process_variety": "Anaerobic",
+   "tasting_notes": [],
+   "price": {
+    "amount": 255.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gnf-281-niko-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Los_Cenizos_-_GNF_281_-_Niko_Lot_UP_Box.png?v=1786445926"
+  },
+  {
+   "id": "archers-panama-finca-los-cenizos-gn-060-planta-lot-10",
+   "roaster": "Archers",
+   "name": "Finca Los Cenizos GN 060 - Planta lot 10",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 208.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gn-060-planta-lot-10",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaLosCenizosPlantaLot10Box-01.png?v=1750924253"
+  },
+  {
+   "id": "archers-panama-finca-los-cenizos-gnf-261-lulu-lot",
+   "roaster": "Archers",
+   "name": "Finca Los Cenizos GNF 261 - Lulu Lot",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 205.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gnf-261-lulu-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Los_Cenizos_-_GNF261_-_Lulu_lot_UP_Box.png?v=1786445926"
+  },
+  {
+   "id": "archers-panama-finca-los-cenizos-gw268-malagutetto-lot",
+   "roaster": "Archers",
+   "name": "Finca Los Cenizos GW268 - Malaguetto Lot",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 170.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gw268-malagutetto-lot",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Los_Cenizos_-_GW268_-_Malaguetto_Lot_UP_Box.png?v=1786445926"
+  },
+  {
+   "id": "archers-panama-finca-nahaliel-geisha-washed-lot-030425",
+   "roaster": "Archers",
+   "name": "Finca Nahaliel Geisha Washed Lot 030425",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 140.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-nahaliel-geisha-washed-lot-030425",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/UltraPremiumFincaNahaliel-GeishaLot030425-01.png?v=1764494526"
+  },
+  {
+   "id": "archers-panama-finca-nuguo-geisha-washed-lot-841",
+   "roaster": "Archers",
+   "name": "Finca Nuguo Geisha Washed Lot 841",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-nuguo-geisha-washed-lot-841",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Nuguo_-_Geisha_Washed_lot_841_Box.png?v=1785312742"
+  },
+  {
+   "id": "archers-panama-finca-ponderosa-geisha-natural-ox-lactic",
+   "roaster": "Archers",
+   "name": "Finca Ponderosa Geisha Natural OX Lactic",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 80.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-ponderosa-geisha-natural-ox-lactic",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Ponderosa_OX_Lactic_Box-19.png?v=1741338892"
+  },
+  {
+   "id": "archers-panama-finca-ponderosa-geisha-natural-ox-lactic-copy",
+   "roaster": "Archers",
+   "name": "Finca Ponderosa Guayabita SF DRD",
+   "origin": "Panama",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 85.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-ponderosa-geisha-natural-ox-lactic-copy",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaPonderosaSFDRDBox-01.png?v=1740053287"
+  },
+  {
+   "id": "archers-panama-finca-sophia-gn-lot-fs135a25-heritage-collection",
+   "roaster": "Archers",
+   "name": "Finca Sophia GN Lot FS135A25 Heritage Collection",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-finca-sophia-gn-lot-fs135a25-heritage-collection",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Sophia_Geisha_Natural_-_FS135A25_Box_0633a7ae-58e3-4f4c-bdb2-3fbd416930fa.png?v=1782976918"
+  },
+  {
+   "id": "archers-panama-flying-pumas-geisha-honey-anaerobic-lot-26-059",
+   "roaster": "Archers",
+   "name": "Flying Pumas Geisha Honey Anaerobic Lot 26 - 059",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-honey-anaerobic-lot-26-059",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26059_Box.png?v=1791881848"
+  },
+  {
+   "id": "archers-panama-flying-pumas-geisha-honey-lot-25064",
+   "roaster": "Archers",
+   "name": "Flying Pumas Geisha Honey Lot 25064",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-honey-lot-25064",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Flying_Puma_-_Geisha_Honey_FPNLG25064-01.png?v=1772270159"
+  },
+  {
+   "id": "archers-panama-flying-pumas-geisha-hybrid-washed-lot-26-018",
+   "roaster": "Archers",
+   "name": "Flying Pumas Geisha Hybrid Washed Lot 26 - 018",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 225.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-hybrid-washed-lot-26-018",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26018_Box.png?v=1791879297"
+  },
+  {
+   "id": "archers-panama-flying-pumas-geisha-hybrid-washed-lot-26-049",
+   "roaster": "Archers",
+   "name": "Flying Pumas Geisha Hybrid Washed Lot 26 - 049",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-hybrid-washed-lot-26-049",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26049_Box.png?v=1791881349"
+  },
+  {
+   "id": "archers-panama-flying-pumas-geisha-natural-cold-ferment-lot-26-051",
+   "roaster": "Archers",
+   "name": "Flying Pumas Geisha Natural Cold Ferment Lot 26 - 051",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-natural-cold-ferment-lot-26-051",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26051_Box.png?v=1791882371"
+  },
+  {
+   "id": "archers-panama-flying-pumas-natural-cold-ferment-lot-25059",
+   "roaster": "Archers",
+   "name": "Flying Pumas Natural Cold Ferment Lot 25059",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-flying-pumas-natural-cold-ferment-lot-25059",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Flying_Puma_-GEISHA_COLD_FERMENT_FPNL_G25059-01.png?v=1772270826"
+  },
+  {
+   "id": "archers-panama-gato-grande-cold-ferment-natural",
+   "roaster": "Archers",
+   "name": "Gato Grande Cold Ferment Natural",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 170.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-gato-grande-cold-ferment-natural",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/gatograndenaturalbox-01_1.png?v=1758287923"
+  },
+  {
+   "id": "archers-panama-guarumo-coffee-farm-geisha-natural-lot-17125",
+   "roaster": "Archers",
+   "name": "Guarumo Coffee Farm Geisha Natural Lot 17125",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-guarumo-coffee-farm-geisha-natural-lot-17125",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Guarumolot07125Box.png?v=1776084295"
+  },
+  {
+   "id": "archers-hacienda-barbara-geisha-washed-lot-40",
+   "roaster": "Archers",
+   "name": "Hacienda Barbara, Geisha Washed Lot 40",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 110.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/hacienda-barbara-geisha-washed-lot-40",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HaciendaBarbaraLot40Box-01.png?v=1740049177"
+  },
+  {
+   "id": "archers-panama-hacienda-la-esmeralda-mario-arriba-4-nb",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda  Mario Arriba 4 NB",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 225.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-mario-arriba-4-nb",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Mario_Arriba_4_NB_Box.png?v=1785510019"
+  },
+  {
+   "id": "archers-hacienda-la-esmeralda-tomaco-4-anc",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda - Tumaco 4 ANC",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 188.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/hacienda-la-esmeralda-tomaco-4-anc",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EsmeraldaTumaco.png?v=1740581126"
+  },
+  {
+   "id": "archers-panama-hacienda-la-esmeralda-buenos-aires-4nc",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda Buenos Aires 4NC",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-buenos-aires-4nc",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HLEBenosAires4NCBox.png?v=1784017785"
+  },
+  {
+   "id": "archers-panama-hacienda-la-esmeralda-cabana-arriba-8nb",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda Cabaña Arriba 8 NB",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 225.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-cabana-arriba-8nb",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Cabana_Arriba_8_NB_Box.png?v=1785509760"
+  },
+  {
+   "id": "archers-panama-hacienda-la-esmeralda-el-velo-farm-higo-4fb",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda El Velo Farm - Higo 4FB",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 225.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-el-velo-farm-higo-4fb",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Higo_4_FB_Box_9bdb3ad8-d391-4e27-baae-e9c0c8cb582c.png?v=1785508914"
+  },
+  {
+   "id": "archers-panama-hacienda-la-esmeralda-fundador-8-nb",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda Fundador 8 NB",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 225.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-fundador-8-nb",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Fundador_8_NB_Box.png?v=1785510360"
+  },
+  {
+   "id": "archers-panama-hacienda-la-esmeralda-porton-5-anb",
+   "roaster": "Archers",
+   "name": "Hacienda La Esmeralda Portón 5 ANB",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 225.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-porton-5-anb",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Porton_5_ANB_Box.png?v=1785510434"
+  },
+  {
+   "id": "archers-hartmann-reserve-geisha-washed-2224",
+   "roaster": "Archers",
+   "name": "Hartmann Reserve, Geisha Washed 2224",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 170.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/hartmann-reserve-geisha-washed-2224",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hartmann2224Box-01_8553b175-a422-4f54-88d0-a7d54f478c53.png?v=1741698282"
+  },
+  {
+   "id": "archers-hartmann-reserve-geisha-washed-31124",
+   "roaster": "Archers",
+   "name": "Hartmann Reserve, Geisha Washed 31124",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 155.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/hartmann-reserve-geisha-washed-31124",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hartmann31124Box-01_70f37d35-8ff2-46e3-b0a8-ad53d2ce9281.png?v=1741698424"
+  },
+  {
+   "id": "archers-panama-janson-family-hacienda-lot-26-127",
+   "roaster": "Archers",
+   "name": "Janson Family Hacienda Lot 26 - 127",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-family-hacienda-lot-26-127",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonGeishaNatural26-127Box.png?v=1789388938"
+  },
+  {
+   "id": "archers-panama-janson-family-los-alpes-lot-26-20",
+   "roaster": "Archers",
+   "name": "Janson Family Los Alpes Lot 26 - 20",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 190.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-family-los-alpes-lot-26-20",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonGeishaNatural26-20Box.png?v=1789476908"
+  },
+  {
+   "id": "archers-panama-janson-family-lot-alpes-lot-26-68",
+   "roaster": "Archers",
+   "name": "Janson Family Los Alpes Lot 26 - 68",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 175.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-family-lot-alpes-lot-26-68",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonGeishaNatural26-68Box.png?v=1789389532"
+  },
+  {
+   "id": "archers-panama-janson-family-geisha-washed-los-alpes-lot-407",
+   "roaster": "Archers",
+   "name": "Janson Geisha Los Alpes Lot 407 Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 123.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-family-geisha-washed-los-alpes-lot-407",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Losalpes407BoxMockUp-01_6a664e84-55a7-4cdf-b4b8-2b0a423b1a3b.png?v=1739021491"
+  },
+  {
+   "id": "archers-panama-janson-family-geisha-honey-los-alpes-lot-503",
+   "roaster": "Archers",
+   "name": "Janson Geisha Los Alpes Lot 503 Honey",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 138.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-family-geisha-honey-los-alpes-lot-503",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Losalpes503BoxMockUp-01_9cb0ea2d-959d-401a-ba0d-f037b47d9a0c.png?v=1739021532"
+  },
+  {
+   "id": "archers-panama-janson-x-gw-26-191",
+   "roaster": "Archers",
+   "name": "Janson X GW 26 - 191",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 195.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-x-gw-26-191",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonXGW26-191Box.png?v=1789370037"
+  },
+  {
+   "id": "archers-panama-janson-x-los-alpes-gn-lot-4",
+   "roaster": "Archers",
+   "name": "Janson X Los Alpes GN Lot 4",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-x-los-alpes-gn-lot-4",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonXLot4Box.png?v=1776583694"
+  },
+  {
+   "id": "archers-panama-janson-x-geisha-lot-815",
+   "roaster": "Archers",
+   "name": "Janson X Los Alpes GW Lot 815",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-janson-x-geisha-lot-815",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonXLot815Box.png?v=1776583202"
+  },
+  {
+   "id": "archers-panama-kotowa-coffee-las-brujas-lot-6934",
+   "roaster": "Archers",
+   "name": "Kotowa Coffee Las Brujas Lot 6934",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 125.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-kotowa-coffee-las-brujas-lot-6934",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/KotowaLasBrujasLot6934Box.png?v=1773819129"
+  },
+  {
+   "id": "archers-panama-elida-geisha-natural-loma-centro-0124",
+   "roaster": "Archers",
+   "name": "Lamastus Family - Elida Geisha Natural Loma Centro - 0124",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-elida-geisha-natural-loma-centro-0124",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elidageisha_ElidaGeisha0124.png?v=1740580001"
+  },
+  {
+   "id": "archers-panama-elida-geisha-washed-torre-0324",
+   "roaster": "Archers",
+   "name": "Lamastus Family - Elida Geisha Washed Torre 0324",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 160.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-elida-geisha-washed-torre-0324",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elidageisha_ElidaGeisha0324.png?v=1740580310"
+  },
+  {
+   "id": "archers-panama-lamastus-family-elida-geisha-vuelta-gn-lot-0325",
+   "roaster": "Archers",
+   "name": "Lamastus Family Elida Geisha Vuelta GN Lot 0325",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 170.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lamastus-family-elida-geisha-vuelta-gn-lot-0325",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Vuelta_Box-01.png?v=1770538176"
+  },
+  {
+   "id": "archers-panama-lerida-coffee-esplendorosa-estate-geisha-natural-lot-0690",
+   "roaster": "Archers",
+   "name": "Lerida Coffee Esplendorosa Estate Geisha Natural Lot 0690",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lerida-coffee-esplendorosa-estate-geisha-natural-lot-0690",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_-_Geisha_Natural_0690_Box.png?v=1787571976"
+  },
+  {
+   "id": "archers-panama-lerida-coffee-estate-geisha-honey-lot-07901-cold-room-drying",
+   "roaster": "Archers",
+   "name": "Lerida Coffee Estate Geisha Honey Lot 07901 Cold Room Drying",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 153.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-honey-lot-07901-cold-room-drying",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida-_Geisha_Honey_07901_Box.png?v=1787571977"
+  },
+  {
+   "id": "archers-panama-lerida-coffee-estate-geisha-natural-lot-0746-cold-room-drying",
+   "roaster": "Archers",
+   "name": "Lerida Coffee Estate Geisha Natural Lot 0746 Cold Room Drying",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-natural-lot-0746-cold-room-drying",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_-_Geisha_Natural_0746_Box.png?v=1787571977"
+  },
+  {
+   "id": "archers-panama-lerida-coffee-estate-geisha-natural-waterfall-lot-0486",
+   "roaster": "Archers",
+   "name": "Lerida Coffee Estate Geisha Natural Waterfall Lot 0486",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 155.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-natural-waterfall-lot-0486",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_Estate_-_Geisha_Waterfall_Natural_Lot_0486_Box.png?v=1778162618"
+  },
+  {
+   "id": "archers-panama-lerida-coffee-estate-geisha-washed-lot-0774-cold-room-drying",
+   "roaster": "Archers",
+   "name": "Lerida Coffee Estate Geisha Washed Lot 0774 Cold Room Drying",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 153.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-washed-lot-0774-cold-room-drying",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_-_Geisha_Washed_0774_Box.png?v=1787571977"
+  },
+  {
+   "id": "archers-panama-long-board-misty-mountain-geisha-washed-16b",
+   "roaster": "Archers",
+   "name": "Long Board, Misty Mountain Geisha Washed 16B",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 235.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-long-board-misty-mountain-geisha-washed-16b",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LongBoardMistyMountainMockup-01.png?v=1736415330"
+  },
+  {
+   "id": "archers-panama-los-lajones-bambu-geisha-washed-lot-20c",
+   "roaster": "Archers",
+   "name": "Los Lajones Bambu Geisha Washed Lot 20C",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-los-lajones-bambu-geisha-washed-lot-20c",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LosLajonesBambu20CBox-01.png?v=1740037324"
+  },
+  {
+   "id": "archers-panama-los-lajones-bambu-geisha-washed-lot-26c",
+   "roaster": "Archers",
+   "name": "Los Lajones Bambu Geisha Washed Lot 26C",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-los-lajones-bambu-geisha-washed-lot-26c",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LosLajonesBambu26CBox-01.png?v=1740038672"
+  },
+  {
+   "id": "archers-panama-los-lajones-bambo-geisha-washed-lot-8-ab",
+   "roaster": "Archers",
+   "name": "Los Lajones Bambú Geisha Washed lot 8 AB",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 150.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-los-lajones-bambo-geisha-washed-lot-8-ab",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HiUCoffee-LosLajonesGW-lot8ABBox-01.png?v=1772960094"
+  },
+  {
+   "id": "archers-panama-lost-origin-don-benjie-geisha-yeast-inoculation",
+   "roaster": "Archers",
+   "name": "Lost Origin Don Benjie Geisha  Yeast Inoculation",
+   "origin": "Panama",
+   "process_variety": "",
+   "tasting_notes": [],
+   "price": {
+    "amount": 173.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lost-origin-don-benjie-geisha-yeast-inoculation",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LostOriginDonBenjieBox-01.png?v=1752563537"
+  },
+  {
+   "id": "archers-panama-lost-origin-la-estrella-yeast-inoculation-for-release",
+   "roaster": "Archers",
+   "name": "Lost Origin La Estrella Yeast Inoculation",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 173.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lost-origin-la-estrella-yeast-inoculation-for-release",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LostOriginLaEstrellaBox-01.png?v=1762348411"
+  },
+  {
+   "id": "archers-panama-mi-finquita-hartman-reserve-gn-wineglobe-lot-10325",
+   "roaster": "Archers",
+   "name": "Mi Finquita - Hartmann Reserve GN Wineglobe Lot 10325",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 205.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-mi-finquita-hartman-reserve-gn-wineglobe-lot-10325",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MiFinquitaWineglobe10325Box.png?v=1776148769"
+  },
+  {
+   "id": "archers-mi-finquita-lot-cima",
+   "roaster": "Archers",
+   "name": "Mi Finquita, Reserve Lot CIMA",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 180.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/mi-finquita-lot-cima",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MiFInquitaCIMABox-01.png?v=1740053660"
+  },
+  {
+   "id": "archers-panama-michella-estate-typica-washed-finca-lerida",
+   "roaster": "Archers",
+   "name": "Michella Estate Typica Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 50.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-michella-estate-typica-washed-finca-lerida",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Panama-Michella-Estate-Typica-Lerida.png?v=1716895836"
+  },
+  {
+   "id": "archers-panama-mil-cumbres-gil-gw-lot-2",
+   "roaster": "Archers",
+   "name": "Mil Cumbres GIL GW lot 2",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 143.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-mil-cumbres-gil-gw-lot-2",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbresGILGWLot2Box-01.png?v=1750948900"
+  },
+  {
+   "id": "archers-panama-mil-cumbres-lot-omo-0702-geisha-washed",
+   "roaster": "Archers",
+   "name": "Mil Cumbres Lot OMO 0702 Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-mil-cumbres-lot-omo-0702-geisha-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbresLotOMO0702Box.png?v=1729784144"
+  },
+  {
+   "id": "archers-panama-mil-cumbres-omo-gn-lot-1201",
+   "roaster": "Archers",
+   "name": "Mil Cumbres OMO GN Lot 1201",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 153.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-mil-cumbres-omo-gn-lot-1201",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbres1201Box-01.png?v=1750944052"
+  },
+  {
+   "id": "archers-panama-project-hachi-rocky-mountain-hatsuko",
+   "roaster": "Archers",
+   "name": "Project Hachi,  HATSUKO Rocky Mountain",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 278.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-project-hachi-rocky-mountain-hatsuko",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ProjectHachiHatsukoBox-01.png?v=1751179344"
+  },
+  {
+   "id": "archers-panama-santamaria-estate-geisha-df-washed",
+   "roaster": "Archers",
+   "name": "Santamaria Estate  Geisha DF Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-santamaria-estate-geisha-df-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/SantamariaGeishaDFWashedBlackBox-01.png?v=1750928256"
+  },
+  {
+   "id": "archers-panama-santamaria-estate-geisha-honey",
+   "roaster": "Archers",
+   "name": "Santamaria Estate - Geisha Honey",
+   "origin": "Panama",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 133.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-santamaria-estate-geisha-honey",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Santamaria_Geisha_Honey_Box-01.png?v=1752229907"
+  },
+  {
+   "id": "archers-panama-santamaria-estate-geisha-washed-lot-7",
+   "roaster": "Archers",
+   "name": "Santamaria Estate - Geisha Washed Lot 7",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-santamaria-estate-geisha-washed-lot-7",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/SantamariaGWBox.png?v=1773751171"
+  },
+  {
+   "id": "archers-panama-spectrum",
+   "roaster": "Archers",
+   "name": "Spectrum, Savage Coffees",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 143.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-spectrum",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ArchersCoffeeSavageCoffeesSpectrum.png?v=1695978195"
+  },
+  {
+   "id": "archers-panama-symbiosis",
+   "roaster": "Archers",
+   "name": "Symbiosis, Iris Estate",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 178.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-symbiosis",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ArchersCoffeeIrisEstateSymbiosis.png?v=1695978186"
+  },
+  {
+   "id": "archers-panama-symmetry",
+   "roaster": "Archers",
+   "name": "Symmetry, Iris Estate",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 178.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-symmetry",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ArchersCoffeeIrisEstateSymmetry.png?v=1695978151"
+  },
+  {
+   "id": "archers-panama-teirra-blanca-c2-geisha-washed",
+   "roaster": "Archers",
+   "name": "Tierra Blanca C5 Geisha Washed",
+   "origin": "Panama",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 145.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-teirra-blanca-c2-geisha-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/TierraC5WashedBox-01.png?v=1756472771"
+  },
+  {
+   "id": "archers-panama-lost-origin-altieri-coffee-chombi-yeast-inoculation-for-release",
+   "roaster": "Archers",
+   "name": "Panama Lost Origin  Altieri Coffee",
+   "origin": "Chombi Yeast Inoculation",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 140.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/panama-lost-origin-altieri-coffee-chombi-yeast-inoculation-for-release",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lost_Origin_Chombi_UP_Box-01_1.png?v=1762349221"
+  },
+  {
+   "id": "archers-usa-california-frinj-coffee-vedder-ranch-geisha-classic-washed",
+   "roaster": "Archers",
+   "name": "Frinj Coffee Vedder Ranch Geisha Classic Washed",
+   "origin": "USA California",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 155.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/usa-california-frinj-coffee-vedder-ranch-geisha-classic-washed",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Ultra_Premium_Vedder_Ranch_-_CA_Geisha_Box.png?v=1781334483"
+  },
+  {
+   "id": "archers-yemen-east-haraz-wadi-al-salon",
+   "roaster": "Archers",
+   "name": "East Haraz Wadi Al Sallol",
+   "origin": "Yemen",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 85.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://archerscoffee.com/products/yemen-east-haraz-wadi-al-salon",
+   "url_verified": true,
+   "last_updated": "2026-11-10",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Yemen_Wadi_Al_Sallol_Box_1.png?v=1784020365"
   }
  ]
 }

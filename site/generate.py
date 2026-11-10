@@ -53,8 +53,11 @@ q.addEventListener('input', update);
 update();
 """
 
+SYMBOL = {"USD": "$", "EUR": "€", "AED": "AED "}
+
 def price_text(p):                                   # dict di dalam dict: p["amount"]
-    t = f"${p['amount']:.2f} {p['currency']}"
+    sym = SYMBOL.get(p["currency"], p["currency"] + " ")
+    t = f"{sym}{p['amount']:.2f}"
     return f"from {t}" if p["from"] else t
 
 parts = []
