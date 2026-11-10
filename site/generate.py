@@ -24,6 +24,7 @@ main { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); 
 .card h2 { margin:0; font-size:1.05rem; }
 .roaster { color:var(--acc); margin:0; font-size:.85rem; }
 .proc { color:var(--mut); margin:0; font-size:.85rem; }
+.card img.pic { width:100%; aspect-ratio:1/1; object-fit:cover; border-radius:10px; margin-bottom:8px; background:var(--line); }
 .notes { margin:4px 0; font-style:italic; }
 .price { margin:auto 0 0; font-weight:600; }
 a { color:var(--acc); text-decoration:none; font-size:.9rem; }
@@ -75,8 +76,13 @@ for b in beans:                                      # <- loop inti project ini
     if b["availability"] == "sold_out":
         badges += "<span class='badge out'>SOLD OUT</span>"
     search_text = b["name"] + " " + (b["origin"] or "") + " " + " ".join(b["tasting_notes"])
+    img = (
+        f"<img class='pic' src='{b['image']}' alt='' loading='lazy'>"
+        if b.get("image") else ""
+    )
     parts.append(
         f"<article class='card' data-search='{search_text}'>"
+        f"{img}"
         f"<h2>{b['name']} {badges}</h2>"
         f"<p class='roaster'>{b['roaster']} &middot; {b['origin'] or 'Blend'}</p>"
         f"<p class='proc'>{b['process_variety'] or ''}</p>"

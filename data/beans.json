@@ -1,376 +1,391 @@
 {
-  "meta": {
-    "project": "Mind the Terroir",
-    "version": "0.3",
-    "updated_at": "2026-11-06T11:01:39+00:00",
-    "note": "5 roaster aktif: Aviary, Prodigal, Tanat"
+ "meta": {
+  "project": "Mind the Terroir",
+  "version": "0.3",
+  "updated_at": "2026-11-06T11:01:39+00:00",
+  "note": "5 roaster aktif: Aviary, Prodigal, Tanat"
+ },
+ "roasters": [
+  {
+   "name": "Prodigal",
+   "location": "Boulder, Colorado, USA",
+   "website": "https://getprodigal.com",
+   "currency": "USD",
+   "source_page": "https://getprodigal.com/collections/roasted-coffee",
+   "adapter_status": "active"
   },
-  "roasters": [
-    {
-      "name": "Prodigal",
-      "location": "Boulder, Colorado, USA",
-      "website": "https://getprodigal.com",
-      "currency": "USD",
-      "source_page": "https://getprodigal.com/collections/roasted-coffee",
-      "adapter_status": "active"
-    },
-    {
-      "name": "Sey",
-      "location": "Brooklyn, New York, USA",
-      "website": "https://www.seycoffee.com",
-      "currency": "USD",
-      "source_page": "https://www.seycoffee.com/collections/coffee",
-      "adapter_status": "active",
-      "fallback": "https://every.coffee/roaster/sey"
-    },
-    {
-      "name": "Aviary",
-      "location": "USA",
-      "website": "https://aviary.coffee",
-      "currency": "USD",
-      "source_page": "https://aviary.coffee/collections/2026-season-coffees",
-      "adapter_status": "active",
-      "fallback": "https://every.coffee/roaster/aviary-coffee"
-    },
-    {
-      "name": "Tanat",
-      "location": "Paris, France",
-      "website": "https://tanat.coffee",
-      "currency": "EUR",
-      "source_page": "https://tanat.coffee/en/categorie-produit/cafes/",
-      "adapter_status": "active",
-      "fallback": "https://every.coffee/roaster/tanat-coffee"
-    },
-    {
-      "name": "Archers",
-      "location": "Sharjah, UAE",
-      "website": "https://archerscoffee.com",
-      "currency": "AED",
-      "source_page": "https://archerscoffee.com/collections/all",
-      "adapter_status": "active",
-      "fallback": "https://every.coffee/roaster/archers"
-    }
-  ],
-  "beans": [
-    {
-      "id": "prodigal-gesha-harmony",
-      "roaster": "Prodigal",
-      "name": "Gesha Harmony",
-      "origin": "Colombia",
-      "process_variety": "Washed Gesha",
-      "tasting_notes": [
-        "peach",
-        "grape",
-        "cola"
-      ],
-      "price": {
-        "amount": 38.0,
-        "currency": "USD",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": true,
-      "url": "https://getprodigal.com/products/gesha-harmony",
-      "url_verified": true,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-alpenglow",
-      "roaster": "Prodigal",
-      "name": "Alpenglow",
-      "origin": "Colombia & Ethiopia",
-      "process_variety": "Washed Chiroso, Heirlooms, & Gesha",
-      "tasting_notes": [
-        "pineapple",
-        "orange pulp",
-        "cranberry"
-      ],
-      "price": {
-        "amount": 25.0,
-        "currency": "USD",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": true,
-      "url": "https://getprodigal.com/products/alpenglow",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-el-itacayo-drd-geisha",
-      "roaster": "Prodigal",
-      "name": "El Itacayo DRD Geisha",
-      "origin": "Honduras",
-      "process_variety": "Double Anaerobic White Honey Geisha",
-      "tasting_notes": [
-        "pineapple",
-        "red wine",
-        "watermelon"
-      ],
-      "price": {
-        "amount": 42.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "available",
-      "is_new": true,
-      "url": "https://getprodigal.com/products/el-itacayo-drd-geisha",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-heyvis-sagastume",
-      "roaster": "Prodigal",
-      "name": "Heyvis Sagastume",
-      "origin": "Honduras",
-      "process_variety": "Washed Geisha",
-      "tasting_notes": [
-        "apricot",
-        "orange",
-        "floral"
-      ],
-      "price": {
-        "amount": 35.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/heyvis-sagastume",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-chelbesa-danche",
-      "roaster": "Prodigal",
-      "name": "Chelbesa Danche",
-      "origin": "Ethiopia",
-      "process_variety": "Washed Kurume & Wolisho",
-      "tasting_notes": [
-        "orange",
-        "tart cherry",
-        "rose"
-      ],
-      "price": {
-        "amount": 24.0,
-        "currency": "USD",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/chelbesa-danche",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-habtamu-guji-g1",
-      "roaster": "Prodigal",
-      "name": "Habtamu Guji G1",
-      "origin": "Ethiopia",
-      "process_variety": "Washed",
-      "tasting_notes": [
-        "cranberry",
-        "rhubarb",
-        "peach syrup"
-      ],
-      "price": {
-        "amount": 24.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/habtamu-guji-g1",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-mulu-espresso",
-      "roaster": "Prodigal",
-      "name": "Mulu Espresso",
-      "origin": "Ethiopia",
-      "process_variety": "Heirloom Varieties",
-      "tasting_notes": [
-        "orange",
-        "cran-apple",
-        "cherry"
-      ],
-      "price": {
-        "amount": 25.0,
-        "currency": "USD",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/mulu-espresso",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-habtamu-danche-espresso",
-      "roaster": "Prodigal",
-      "name": "Habtamu Danche Espresso",
-      "origin": "Ethiopia",
-      "process_variety": "Washed",
-      "tasting_notes": [
-        "apricot",
-        "pineapple",
-        "jasmine"
-      ],
-      "price": {
-        "amount": 25.0,
-        "currency": "USD",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/habtamu-danche-espresso",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-finca-el-tabor",
-      "roaster": "Prodigal",
-      "name": "Finca El Tabor",
-      "origin": "Colombia",
-      "process_variety": "Washed Sidra",
-      "tasting_notes": [
-        "grape",
-        "cherry",
-        "red wine"
-      ],
-      "price": {
-        "amount": 32.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "sold_out",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/finca-el-tabor",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-zuria-blend",
-      "roaster": "Prodigal",
-      "name": "Zuria Blend",
-      "origin": "Ethiopia & Colombia",
-      "process_variety": "Washed Chiroso & Heirloom Varieties",
-      "tasting_notes": [
-        "concord grape",
-        "plum",
-        "apricot"
-      ],
-      "price": {
-        "amount": 25.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "sold_out",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/zuria-blend",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-habtamu-danche",
-      "roaster": "Prodigal",
-      "name": "Habtamu Danche",
-      "origin": "Ethiopia",
-      "process_variety": "Washed",
-      "tasting_notes": [
-        "apricot",
-        "pineapple",
-        "jasmine"
-      ],
-      "price": {
-        "amount": 25.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/habtamu-danche",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "prodigal-taste-of-prodigal-sampler",
-      "roaster": "Prodigal",
-      "name": "Taste of Prodigal Sampler",
-      "origin": null,
-      "process_variety": null,
-      "tasting_notes": [],
-      "price": {
-        "amount": 33.0,
-        "currency": "USD",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://getprodigal.com/products/taste-of-prodigal-sampler",
-      "url_verified": false,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "aviary-xx7-majahual-xx7-majahual",
-      "roaster": "Aviary",
-      "name": "XX7 - Majahual XX7 - Majahual",
-      "origin": null,
-      "process_variety": null,
-      "tasting_notes": [],
-      "price": {
-        "amount": 40.0,
-        "currency": "USD",
-        "from": false
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://aviary.coffee/collections/2026-season-coffees/products/xx7-majahual",
-      "url_verified": true,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "tanat-blend-kawa",
-      "roaster": "Tanat",
-      "name": "Blend Kawa",
-      "origin": null,
-      "process_variety": null,
-      "tasting_notes": [
-        "Chocolate",
-        "Hazelnut"
-      ],
-      "price": {
-        "amount": 9.9,
-        "currency": "EUR",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://tanat.coffee/en/boutique/cafe-blend-kawa-espresso/",
-      "url_verified": true,
-      "last_updated": "2026-11-06"
-    },
-    {
-      "id": "tanat-boa-esperan-a",
-      "roaster": "Tanat",
-      "name": "Boa Esperança",
-      "origin": "Brazil",
-      "process_variety": null,
-      "tasting_notes": [
-        "Caramel",
-        "Chocolate"
-      ],
-      "price": {
-        "amount": 9.9,
-        "currency": "EUR",
-        "from": true
-      },
-      "availability": "available",
-      "is_new": false,
-      "url": "https://tanat.coffee/en/boutique/cafe-boa-esperanca-bresil/",
-      "url_verified": true,
-      "last_updated": "2026-11-06"
-    }
-  ]
+  {
+   "name": "Sey",
+   "location": "Brooklyn, New York, USA",
+   "website": "https://www.seycoffee.com",
+   "currency": "USD",
+   "source_page": "https://www.seycoffee.com/collections/coffee",
+   "adapter_status": "active",
+   "fallback": "https://every.coffee/roaster/sey"
+  },
+  {
+   "name": "Aviary",
+   "location": "USA",
+   "website": "https://aviary.coffee",
+   "currency": "USD",
+   "source_page": "https://aviary.coffee/collections/2026-season-coffees",
+   "adapter_status": "active",
+   "fallback": "https://every.coffee/roaster/aviary-coffee"
+  },
+  {
+   "name": "Tanat",
+   "location": "Paris, France",
+   "website": "https://tanat.coffee",
+   "currency": "EUR",
+   "source_page": "https://tanat.coffee/en/categorie-produit/cafes/",
+   "adapter_status": "active",
+   "fallback": "https://every.coffee/roaster/tanat-coffee"
+  },
+  {
+   "name": "Archers",
+   "location": "Sharjah, UAE",
+   "website": "https://archerscoffee.com",
+   "currency": "AED",
+   "source_page": "https://archerscoffee.com/collections/all",
+   "adapter_status": "active",
+   "fallback": "https://every.coffee/roaster/archers"
+  }
+ ],
+ "beans": [
+  {
+   "id": "prodigal-gesha-harmony",
+   "roaster": "Prodigal",
+   "name": "Gesha Harmony",
+   "origin": "Colombia",
+   "process_variety": "Washed Gesha",
+   "tasting_notes": [
+    "peach",
+    "grape",
+    "cola"
+   ],
+   "price": {
+    "amount": 38.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://getprodigal.com/products/gesha-harmony",
+   "url_verified": true,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBGeshaHarmony_bfcb533a-7fff-4837-b30a-f45a1445b156.jpg?v=1793826107"
+  },
+  {
+   "id": "prodigal-alpenglow",
+   "roaster": "Prodigal",
+   "name": "Alpenglow",
+   "origin": "Colombia & Ethiopia",
+   "process_variety": "Washed Chiroso, Heirlooms, & Gesha",
+   "tasting_notes": [
+    "pineapple",
+    "orange pulp",
+    "cranberry"
+   ],
+   "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://getprodigal.com/products/alpenglow",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBAlpenglow.jpg?v=1793830291"
+  },
+  {
+   "id": "prodigal-el-itacayo-drd-geisha",
+   "roaster": "Prodigal",
+   "name": "El Itacayo DRD Geisha",
+   "origin": "Honduras",
+   "process_variety": "Double Anaerobic White Honey Geisha",
+   "tasting_notes": [
+    "pineapple",
+    "red wine",
+    "watermelon"
+   ],
+   "price": {
+    "amount": 42.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://getprodigal.com/products/el-itacayo-drd-geisha",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBItacayoDRDGeisha.jpg?v=1793211473"
+  },
+  {
+   "id": "prodigal-heyvis-sagastume",
+   "roaster": "Prodigal",
+   "name": "Heyvis Sagastume",
+   "origin": "Honduras",
+   "process_variety": "Washed Geisha",
+   "tasting_notes": [
+    "apricot",
+    "orange",
+    "floral"
+   ],
+   "price": {
+    "amount": 35.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/heyvis-sagastume",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHeyvis.jpg?v=1792614193"
+  },
+  {
+   "id": "prodigal-chelbesa-danche",
+   "roaster": "Prodigal",
+   "name": "Chelbesa Danche",
+   "origin": "Ethiopia",
+   "process_variety": "Washed Kurume & Wolisho",
+   "tasting_notes": [
+    "orange",
+    "tart cherry",
+    "rose"
+   ],
+   "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/chelbesa-danche",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBChelbesaDanche.jpg?v=1792604786"
+  },
+  {
+   "id": "prodigal-habtamu-guji-g1",
+   "roaster": "Prodigal",
+   "name": "Habtamu Guji G1",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [
+    "cranberry",
+    "rhubarb",
+    "peach syrup"
+   ],
+   "price": {
+    "amount": 24.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/habtamu-guji-g1",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHabtamuGujiG1_d3244ee7-c59a-4171-9f65-e971a7025f78.jpg?v=1789595538"
+  },
+  {
+   "id": "prodigal-mulu-espresso",
+   "roaster": "Prodigal",
+   "name": "Mulu Espresso",
+   "origin": "Ethiopia",
+   "process_variety": "Heirloom Varieties",
+   "tasting_notes": [
+    "orange",
+    "cran-apple",
+    "cherry"
+   ],
+   "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/mulu-espresso",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBMuluESPRESSO.jpg?v=1789585147"
+  },
+  {
+   "id": "prodigal-habtamu-danche-espresso",
+   "roaster": "Prodigal",
+   "name": "Habtamu Danche Espresso",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [
+    "apricot",
+    "pineapple",
+    "jasmine"
+   ],
+   "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/habtamu-danche-espresso",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHabtamuDancheESPRESSO.jpg?v=1789584743"
+  },
+  {
+   "id": "prodigal-finca-el-tabor",
+   "roaster": "Prodigal",
+   "name": "Finca El Tabor",
+   "origin": "Colombia",
+   "process_variety": "Washed Sidra",
+   "tasting_notes": [
+    "grape",
+    "cherry",
+    "red wine"
+   ],
+   "price": {
+    "amount": 32.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "sold_out",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/finca-el-tabor",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBTaborSidra_171de857-f9ed-471c-a1d5-0c8e7da86193.jpg?v=1788964883"
+  },
+  {
+   "id": "prodigal-zuria-blend",
+   "roaster": "Prodigal",
+   "name": "Zuria Blend",
+   "origin": "Ethiopia & Colombia",
+   "process_variety": "Washed Chiroso & Heirloom Varieties",
+   "tasting_notes": [
+    "concord grape",
+    "plum",
+    "apricot"
+   ],
+   "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "sold_out",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/zuria-blend",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBZuria_581bbce4-7fce-416a-a2fe-7ae79d701718.jpg?v=1788387420"
+  },
+  {
+   "id": "prodigal-habtamu-danche",
+   "roaster": "Prodigal",
+   "name": "Habtamu Danche",
+   "origin": "Ethiopia",
+   "process_variety": "Washed",
+   "tasting_notes": [
+    "apricot",
+    "pineapple",
+    "jasmine"
+   ],
+   "price": {
+    "amount": 25.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/habtamu-danche",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEBHabtamuDanche.jpg?v=1786473948"
+  },
+  {
+   "id": "prodigal-taste-of-prodigal-sampler",
+   "roaster": "Prodigal",
+   "name": "Taste of Prodigal Sampler",
+   "origin": null,
+   "process_variety": null,
+   "tasting_notes": [],
+   "price": {
+    "amount": 33.0,
+    "currency": "USD",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://getprodigal.com/products/taste-of-prodigal-samplers",
+   "url_verified": false,
+   "last_updated": "2026-11-06",
+   "image": "https://cdn.shopify.com/s/files/1/0648/2604/8751/files/WEB_Cafe_Sampler_5a37abb2-17c9-4907-8b3c-8aea41d88beb.jpg?v=1772663998"
+  },
+  {
+   "id": "aviary-xx7-majahual-xx7-majahual",
+   "roaster": "Aviary",
+   "name": "XX7 - Majahual XX7 - Majahual",
+   "origin": null,
+   "process_variety": null,
+   "tasting_notes": [],
+   "price": {
+    "amount": 40.0,
+    "currency": "USD",
+    "from": false
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://aviary.coffee/collections/2026-season-coffees/products/xx7-majahual",
+   "url_verified": true,
+   "last_updated": "2026-11-06",
+   "image": "https://aviary.coffee/cdn/shop/files/xx7tile.png?v=1788274065"
+  },
+  {
+   "id": "tanat-blend-kawa",
+   "roaster": "Tanat",
+   "name": "Blend Kawa",
+   "origin": null,
+   "process_variety": null,
+   "tasting_notes": [
+    "Chocolate",
+    "Hazelnut"
+   ],
+   "price": {
+    "amount": 9.9,
+    "currency": "EUR",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://tanat.coffee/en/boutique/cafe-blend-kawa-espresso/",
+   "url_verified": true,
+   "last_updated": "2026-11-06",
+   "image": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_BLENDKAWA.png"
+  },
+  {
+   "id": "tanat-boa-esperan-a",
+   "roaster": "Tanat",
+   "name": "Boa Esperança",
+   "origin": "Brazil",
+   "process_variety": null,
+   "tasting_notes": [
+    "Caramel",
+    "Chocolate"
+   ],
+   "price": {
+    "amount": 9.9,
+    "currency": "EUR",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": false,
+   "url": "https://tanat.coffee/en/boutique/cafe-boa-esperanca-bresil/",
+   "url_verified": true,
+   "last_updated": "2026-11-06",
+   "image": "https://tanat.coffee/wp-content/uploads/2025/01/PAQUETWEB_BOA.png"
+  }
+ ]
 }
