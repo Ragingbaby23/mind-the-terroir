@@ -1,5 +1,11 @@
 # Progress Log - Mind the Terroir
 
+## Session 3 - 2026-11-10
+- DONE (v0.3): foto produk di tiap kartu — scripts/fetch_images.py (15/15 dapat: Prodigal via {url}.json Shopify, Aviary+Tanat via og:image; http:// dipaksa https://). Renderer: <img class='pic'> square crop + loading='lazy'. Deploy live, verifikasi screenshot OK.
+- FIX DATA: slug "taste-of-prodigal-sampler" 404 -> sebenarnya "taste-of-prodigal-samplers" (ketahuan pas fetch gambar). LESSON: fetch gambar = bonus verifikasi URL produk.
+- CATATAN: gambar hotlink dari CDN roaster (Shopify/WordPress) — nggak disimpan lokal. Kalau roaster hapus produk, slot jadi kosong tapi kartu tetap tampil (img gagal silent).
+- NEXT (v0.3 lanjutan): adapter Sey & Archers + verifikasi Tanat/Aviary + cron harian
+
 ## Session 2 - 2026-11-10
 - DONE (v0.3): gh auth device flow (login Ragingbaby23) + repo github.com/Ragingbaby23/mind-the-terroir (public, semua commit ter-push)
 - DONE (v0.3): GitHub Pages aktif -> https://ragingbaby23.github.io/mind-the-terroir/ (build_type legacy, branch gh-pages / root, HTTPS enforced). Verifikasi: HTTP 200 + <title> kebaca.
