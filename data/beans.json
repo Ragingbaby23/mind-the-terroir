@@ -2,7 +2,7 @@
  "meta": {
   "project": "Mind the Terroir",
   "version": "0.3",
-  "updated_at": "2026-11-10T05:48:54+00:00",
+  "updated_at": "2026-11-10T05:49:52+00:00",
   "note": "beans per roaster: Archers 195, Aviary 1, Prodigal 12, Sey 8, Tanat 2"
  },
  "roasters": [
@@ -439,7 +439,11 @@
    "name": "2026 Elpidio Tabares; La Soledad",
    "origin": "Colombia",
    "process_variety": "",
-   "tasting_notes": [],
+   "tasting_notes": [
+    "passion fruit",
+    "lychee",
+    "citrus"
+   ],
    "price": {
     "amount": 26.0,
     "currency": "USD",
@@ -551,8 +555,7 @@
    "origin": "",
    "process_variety": "Decaffeinated",
    "tasting_notes": [
-    "a sweet",
-    "balanced profile of orange marmalade",
+    "orange marmalade",
     "dark chocolate",
     "strawberry"
    ],
@@ -590,8 +593,8 @@
   {
    "id": "archers-best-of-panama-santamaria-coffee-estate-mr-luis-gn-12",
    "roaster": "Archers",
-   "name": "Best of Panama",
-   "origin": "Santamaria Coffee Estate Mr. Luis GN - 12",
+   "name": "Best of Panama - Santamaria Coffee Estate Mr. Luis GN - 12",
+   "origin": "",
    "process_variety": "Natural",
    "tasting_notes": [],
    "price": {
@@ -1046,8 +1049,8 @@
   {
    "id": "archers-filter-bundle-d-1",
    "roaster": "Archers",
-   "name": "D",
-   "origin": "Competition Bundle",
+   "name": "Competition Bundle - D",
+   "origin": "",
    "process_variety": "Washed",
    "tasting_notes": [],
    "price": {
@@ -1920,8 +1923,8 @@
   {
    "id": "archers-filter-bundle-b-non-comp-copy",
    "roaster": "Archers",
-   "name": "B",
-   "origin": "Filter Bundle",
+   "name": "Filter Bundle - B",
+   "origin": "",
    "process_variety": "Natural",
    "tasting_notes": [],
    "price": {
@@ -2091,8 +2094,8 @@
   {
    "id": "archers-microlot-bundle-c",
    "roaster": "Archers",
-   "name": "C",
-   "origin": "Microlot Bundle",
+   "name": "Microlot Bundle - C",
+   "origin": "",
    "process_variety": "Washed",
    "tasting_notes": [],
    "price": {
@@ -4219,8 +4222,8 @@
   {
    "id": "archers-panama-lost-origin-altieri-coffee-chombi-yeast-inoculation-for-release",
    "roaster": "Archers",
-   "name": "Panama Lost Origin  Altieri Coffee",
-   "origin": "Chombi Yeast Inoculation",
+   "name": "Chombi Yeast Inoculation",
+   "origin": "Panama Lost Origin  Altieri Coffee",
    "process_variety": "Natural",
    "tasting_notes": [],
    "price": {
