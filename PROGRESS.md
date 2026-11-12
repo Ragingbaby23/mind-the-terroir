@@ -1,5 +1,13 @@
 # Progress Log - Mind the Terroir
 
+## Session 4 (lanjutan sore) - 2026-11-10 — SECTION GREEN BEANS
+- DONE (v0.4): section GREEN BEANS live — 350 lot: Coffee Shrub 222 (katalog sweetmarias.com, parse kartu HTML koleksi: score/arrival/process/notes/harga) + Crop to Cup 128 (WooCommerce /shop/ 8 halaman pertama; harga = max range varian, lot $0-only -> "Contact seller for price"). Kartu: GREEN badge, origin (heuristik nama lot, 58 None = blend wajar), process, notes (Shrub saja), cupping score (Shrub saja), $/lb, link lot. Footer + search client-side gabungan (try: search "Crop to Cup" -> 128).
+- BUG adapter: regex anchor href+title di Sweet Maria's match DUA link per kartu (judul + tombol "View Details") -> 12 lot sampah "View Details" + setengah data hilang (21/page vs 40 kartu). Fix: buang anchor title="View Details" sebelum segmentasi. Total jadi 350 lot bersih, semua ada harga.
+- DECISION: Red Fox Coffee Merchants (offer list = PDF mingguan, harga lengkap $/lb) DITUNDA ke sesi berikut — parse PDF beda adapter.
+- CATATAN: Coffee Shrub = Shopify tapi score/arrival cuma ada di kartu HTML koleksi, BUKAN di products.json — makanya parse HTML bukan JSON.
+- SITE SEKARANG: live 568 kartu (218 roasted: Prodigal 12, Sey 8, Tanat 2, Aviary 1, Archers 195 + 350 green).
+- NEXT (v1.0): adapter Red Fox (PDF) + cron harian full-auto (fetch roasted + green -> render -> deploy)
+
 ## Session 4 - 2026-11-10 (kolisi sesi paralel + rekonsiliasi)
 - DONE (v0.3): adapter Sey (8) + Archers (195) -> beans.json 218 beans (Prodigal 12, Tanat 2, Aviary 1). Semua roaster kini terisi.
 - INSIDEN: dua sesi Hermes jalan paralel di repo yang sama (chat lain). Sesi lain commit fetch_sey.py+fetch_archers.py (220 beans) + renderer currency symbol + deploy (30467e5/d84a999); dia anggap fetch_roasters.py punya aku "draft lama" dan hapus (3533b58). Deploy-ku gagal karena dia pindah HEAD ke gh-pages pas aku cp. LESSON: SATU sesi saja per repo — atau selalu `git fetch` + cek remote baru push. Adapter akhir: fetch_roasters.py tunggal (restore), fetch_sey/fetch_archers dihapus (parse mereka lebih kotor: origin bundle salah, notes Elpidio kosong, filler "a sweet/balanced profile").
