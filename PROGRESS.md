@@ -1,5 +1,12 @@
 # Progress Log - Mind the Terroir
 
+## Session 5 - 2026-11-12 — CRON HARIAN (v1.0 SELESAI)
+- DONE (v1.0): cron harian `mind-the-terroir daily update` (job 7adae107f6bc) — jam 02:30 WIB (Asia/Jakarta), mode no_agent (script murni, tanpa LLM), deliver ringkasan 2 baris ke chat Telegram; gagal -> alert + cuplikan log.
+- DONE: pipeline scripts/update_all.sh teruji full-auto 3x (exit 0): fetch roasted+green -> guard rails (roasted<20/green<100=ABORT tanpa deploy) -> render -> commit main -> deploy gh-pages -> verifikasi live. Rotasi lineup terlihat nyata: 218 -> 219 -> 221 roasted.
+- BUG FIX: cron wrapper mtt-update-all.sh di /root/.hermes/scripts/ (cron cuma terima path relatif folder itu, symlink ditolak "traversal") — stdout pipeline harus di-null karena say() pakai tee ke log yang sama -> baris dobel. Wrapper = SALINAN: kalau update_all.sh diubah, cp ulang ke .hermes/scripts/.
+- STATUS v1.0 PRD: SEMUA 4 DEFINISI SELESAI (site live + 5 roaster & 350 green + full-auto teruji + koreksi <5menit teruji sesi 3).
+- NEXT (v2 opsional): Red Fox (PDF, dilewatkan curator), filter/sort, riwayat harga, notif beans baru, foto lot green.
+
 ## Session 4 (lanjutan sore) - 2026-11-10 — SECTION GREEN BEANS
 - DONE (v0.4): section GREEN BEANS live — 350 lot: Coffee Shrub 222 (katalog sweetmarias.com, parse kartu HTML koleksi: score/arrival/process/notes/harga) + Crop to Cup 128 (WooCommerce /shop/ 8 halaman pertama; harga = max range varian, lot $0-only -> "Contact seller for price"). Kartu: GREEN badge, origin (heuristik nama lot, 58 None = blend wajar), process, notes (Shrub saja), cupping score (Shrub saja), $/lb, link lot. Footer + search client-side gabungan (try: search "Crop to Cup" -> 128).
 - BUG adapter: regex anchor href+title di Sweet Maria's match DUA link per kartu (judul + tombol "View Details") -> 12 lot sampah "View Details" + setengah data hilang (21/page vs 40 kartu). Fix: buang anchor title="View Details" sebelum segmentasi. Total jadi 350 lot bersih, semua ada harga.
