@@ -1,0 +1,5470 @@
+{
+ "meta": {
+  "updated_at": "2026-11-12T02:19:03",
+  "note": "Green beans: beans mentah per lb, untuk roaster",
+  "sources": [
+   "sweetmarias.com (Coffee Shrub)",
+   "croptocup.com"
+  ]
+ },
+ "lots": [
+  {
+   "lot": "Brazil Cerrado Ana Maria Menezes",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Cocoa",
+    "Roasted Nut",
+    "Low Acidity",
+    "Deep-Toned"
+   ],
+   "score": 86.0,
+   "arrival": "Feb 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-cerrado-ana-maria-menezes-8604",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Dry Process Alta da Serra",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Deep-Toned",
+    "Mild Acidity",
+    "Tahini",
+    "Bittersweet"
+   ],
+   "score": 85.7,
+   "arrival": "Apr 2025",
+   "price_per_lb": 7.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-dry-process-alta-da-serra-8243",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Dry Process Canastra Luis Otavio",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Bittersweet",
+    "Roasted Nut",
+    "Malted Grain",
+    "Chocolate Bar"
+   ],
+   "score": 86.6,
+   "arrival": "Apr 2025",
+   "price_per_lb": 7.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-dry-process-canastra-luis-otavio-8238",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Dry Process Doña Maria Dorotéia",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Chocolate Bar",
+    "Banana Bread",
+    "Baking Cocoa",
+    "Bittersweet"
+   ],
+   "score": 86.8,
+   "arrival": "Mar 2025",
+   "price_per_lb": 8.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-dry-process-do-a-maria-doroteia-8228",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Dry Process Doña Marta",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Bittersweet",
+    "Winey Berry",
+    "Matcha",
+    "Chocolate-forward"
+   ],
+   "score": 87.4,
+   "arrival": "Mar 2025",
+   "price_per_lb": 8.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-dry-process-dona-marta-8227",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Dry Process Santa Maria do Vintém",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Chocolate-forward",
+    "Coconut",
+    "Fruit Accent",
+    "Milk Chocolate"
+   ],
+   "score": 86.5,
+   "arrival": "Mar 2025",
+   "price_per_lb": 7.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-dry-process-santa-maria-do-vintem-8226",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Pulp Natural Condado São José",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Pulp Natural",
+   "tasting_notes": [
+    "Milk Chocolate",
+    "Malted Grain",
+    "Almond Milk",
+    "Honey Nut"
+   ],
+   "score": 85.8,
+   "arrival": "Nov 2025",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-pulp-natural-condado-sao-jose-8542",
+   "url_verified": false
+  },
+  {
+   "lot": "Brazil Pulp Natural Condado São José",
+   "roaster": "Coffee Shrub",
+   "origin": "Brazil",
+   "process": "Pulp Natural",
+   "tasting_notes": [
+    "Honey Nut",
+    "Sesame",
+    "Cocoa",
+    "Complex Sugars"
+   ],
+   "score": 86.8,
+   "arrival": "Mar 2025",
+   "price_per_lb": 7.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/brazil-pulp-natural-condado-sao-jose-8225",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Colline Masenga",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Complex Sugars",
+    "Delicate Acidity",
+    "Baking Spices",
+    "Juicy"
+   ],
+   "score": 89.2,
+   "arrival": "May 2026",
+   "price_per_lb": 9.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-colline-masenga-8658",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Dry Process Murambi",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Juicy",
+    "Dried Stone Fruit",
+    "Structured"
+   ],
+   "score": 90.6,
+   "arrival": "Apr 2025",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-dry-process-murambi-8257",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Dry Process Nemba",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Brightly Spiced",
+    "Sencha",
+    "Lemon"
+   ],
+   "score": 89.3,
+   "arrival": "Mar 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-dry-process-nemba-8614",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Honey Process Masha",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Brightly Spiced",
+    "Sencha",
+    "Lemon",
+    "English Breakfast"
+   ],
+   "score": 89.2,
+   "arrival": "Feb 2025",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-honey-process-masha-8211",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Kabarore Commune Yandaro",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "English Breakfast",
+    "Citrus Zest",
+    "Lemon",
+    "Honey"
+   ],
+   "score": 89.7,
+   "arrival": "Feb 2025",
+   "price_per_lb": 8.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-kabarore-commune-yandaro-8207",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Monge Murambi Hill",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Syrupy Body",
+    "Black Tea",
+    "Honey"
+   ],
+   "score": 88.3,
+   "arrival": "Apr 2025",
+   "price_per_lb": 7.9,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-monge-murambi-hill-8259",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Monge Murambi Hill",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "English Breakfast Tea",
+    "Citrus hint",
+    "Elegant"
+   ],
+   "score": 88.7,
+   "arrival": "May 2026",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-monge-murambi-hill-8659",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Mutambu Migoti Hill",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Elegant",
+    "Spice Tea",
+    "Cherry",
+    "Butterscotch"
+   ],
+   "score": 88.4,
+   "arrival": "May 2026",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-mutambu-migoti-hill-8657",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Buesaco Alianza Granjeros",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Butterscotch",
+    "Dried Peach",
+    "Chocolate"
+   ],
+   "score": 87.9,
+   "arrival": "Nov 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-buesaco-alianza-granjeros-8529",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Buesaco Alianza Granjeros",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Salted Caramel",
+    "Black Tea",
+    "Citrus Rind"
+   ],
+   "score": 86.5,
+   "arrival": "Jan 2026",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-buesaco-alianza-granjeros-8598",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Buesaco Río Juanambú",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Salted Caramel",
+    "Black Tea",
+    "Citrus Rind",
+    "Crowd Pleasing"
+   ],
+   "score": 86.5,
+   "arrival": "Dec 2024",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-buesaco-rio-juanambu-8599",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Caficultores de Nariño",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Crowd Pleasing",
+    "Raw Sugar",
+    "Semi-Sweet Chocolate"
+   ],
+   "score": 87.3,
+   "arrival": "Oct 2026",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-caficultores-de-narino-8991",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Honey Aponte Hugo Agreda",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Pie Filling",
+    "Canned Plum",
+    "Rustic Rhubarb"
+   ],
+   "score": 88.2,
+   "arrival": "Dec 2024",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-honey-aponte-hugo-agreda-8158",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Honey Aponte Sonia Janamejoy",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Barley Malt Syrup",
+    "Green Apple",
+    "Cocoa"
+   ],
+   "score": 87.4,
+   "arrival": "Nov 2025",
+   "price_per_lb": 10.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-honey-aponte-sonia-janamejoy-8520",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Huila EA Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "EA Decaf",
+   "tasting_notes": [
+    "Barley Malt Syrup",
+    "Green Apple",
+    "Cocoa",
+    "Red Berries"
+   ],
+   "score": 87.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.4,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-huila-ea-decaf-8781",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Huila La Argentina",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Red Berries",
+    "Pomegranate",
+    "Spiced Cider",
+    "Cocoa"
+   ],
+   "score": 88.5,
+   "arrival": "Oct 2025",
+   "price_per_lb": 10.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-huila-la-argentina-8484",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Huila La Argentina",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Cocoa",
+    "Burnt Sugar",
+    "Malted Grain",
+    "Raw Sugar Cane"
+   ],
+   "score": 86.3,
+   "arrival": "Aug 2026",
+   "price_per_lb": 8.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-huila-la-argentina-8809",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Inzá Agua Blanca",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Raw Sugar Cane",
+    "Toffee",
+    "Orange"
+   ],
+   "score": 87.4,
+   "arrival": "Nov 2025",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-inza-agua-blanca-8525",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Inzá El Tabor",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Tangy Citrus",
+    "Dutch Cocoa"
+   ],
+   "score": 86.5,
+   "arrival": "Jan 2026",
+   "price_per_lb": 9.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-inza-el-tabor-8601",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Inzá Veredas Vecinas",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Tangy Citrus",
+    "Dutch Cocoa",
+    "Chocolate Malt"
+   ],
+   "score": 88.6,
+   "arrival": "Nov 2025",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-inza-veredas-vecinas-8526",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Samaria Farm EA Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "EA Decaf",
+   "tasting_notes": [
+    "Chocolate Malt",
+    "Brown Sugar",
+    "Carob",
+    "Maple"
+   ],
+   "score": 87.0,
+   "arrival": "Mar 2025",
+   "price_per_lb": 9.6,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-samaria-farm-ea-decaf-8234",
+   "url_verified": false
+  },
+  {
+   "lot": "Congo Organic Kivu Katanda",
+   "roaster": "Coffee Shrub",
+   "origin": "Tanzania",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Maple",
+    "Toasted Grains",
+    "Cocoa",
+    "Agave"
+   ],
+   "score": 87.2,
+   "arrival": "Oct 2026",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/congo-organic-kivu-katanda-8831",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Black Honey Reina Elizabeth",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Agave",
+    "Dried Apricot",
+    "Bittersweet Undertone",
+    "Caramel"
+   ],
+   "score": 88.0,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-black-honey-reina-elizabeth-8743",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Chirripo Finca Jose",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Machine Washed",
+   "tasting_notes": [
+    "Caramel",
+    "Berry",
+    "Spice",
+    "Balanced"
+   ],
+   "score": 87.0,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-chirripo-finca-jose-8351",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Don Mayo La Loma",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Machine Washed",
+   "tasting_notes": [
+    "Balanced",
+    "Walnut",
+    "Semi-Sweet Cocoa",
+    "Mulled Wine"
+   ],
+   "score": 86.8,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-don-mayo-la-loma-8346",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Dry Process Hacienda Sonora",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Mulled Wine",
+    "Pomegranate",
+    "Limoncello",
+    "Intensely Fruited"
+   ],
+   "score": 88.3,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-dry-process-hacienda-sonora-8418",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Dry Process Hacienda Sonora",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Intensely Fruited",
+    "Peach Brandy",
+    "Pomegranate Molasses",
+    "Caramel"
+   ],
+   "score": 87.3,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-dry-process-hacienda-sonora-8742",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Honey Chirripo Bambú",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Caramel",
+    "Clove Spices",
+    "Baking Cocoa",
+    "Unsulfured Apricot"
+   ],
+   "score": 87.5,
+   "arrival": "Jul 2025",
+   "price_per_lb": 10.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-honey-chirripo-bambu-8414",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Honey Process Hacienda Sonora",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Unsulfured Apricot",
+    "Pungent Bittersweetness",
+    "Winey Accents",
+    "Corn Syrup"
+   ],
+   "score": 87.5,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-honey-process-hacienda-sonora-8741",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Tarrazu Beneficio Los Angeles",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Machine Washed",
+   "tasting_notes": [
+    "Corn Syrup",
+    "Dried Peach",
+    "Carob",
+    "Brightly Sweet"
+   ],
+   "score": 87.6,
+   "arrival": "Jul 2026",
+   "price_per_lb": 10.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-tarrazu-beneficio-los-angeles-8761",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Tarrazu La Casona",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Machine Washed",
+   "tasting_notes": [
+    "Brightly Sweet",
+    "Graham Cracker",
+    "Black Tea",
+    "Chocolate"
+   ],
+   "score": 87.2,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-tarrazu-la-casona-8758",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Yellow Honey Helsar de Zarcero",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Chocolate",
+    "Toasted Coconut",
+    "Silky Body"
+   ],
+   "score": 87.1,
+   "arrival": "Aug 2026",
+   "price_per_lb": 390.0,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-yellow-honey-helsar-de-zarcero-8755",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Yellow Honey Roger Solis",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Machine Washed",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Semi-Sweet Chocolate",
+    "Tea Accents",
+    "Chocolate"
+   ],
+   "score": 87.5,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-yellow-honey-roger-solis-8759",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Zarcero Danto Centroamericano",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Machine Washed",
+   "tasting_notes": [
+    "Chocolate",
+    "Caramel",
+    "Almond"
+   ],
+   "score": 87.3,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-zarcero-danto-centroamericano-8413",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Zarcero Monte Brisas Danto",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Apple",
+    "Cocoa Nibs",
+    "Toffee Almond"
+   ],
+   "score": 87.5,
+   "arrival": "Sep 2024",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-zarcero-monte-brisas-danto-7989",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Zarcero Monte Brisas Danto",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Apple",
+    "Cocoa Nibs",
+    "Toffee Almond",
+    "Raw Sugar"
+   ],
+   "score": 87.7,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-zarcero-monte-brisas-danto-8411",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Atiquizaya Tabi",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Raw Sugar",
+    "Tree Nut",
+    "Dark Cocoa",
+    "Burnt Sugar"
+   ],
+   "score": 86.5,
+   "arrival": "Jun 2026",
+   "price_per_lb": 7.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-atiquizaya-tabi-8676",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Dry Process Miravalles Pacamara",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Burnt Sugar",
+    "Dried Date",
+    "Cocoa",
+    "Burnt Sugar"
+   ],
+   "score": 87.7,
+   "arrival": "Jun 2026",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-dry-process-miravalles-pacamara-8667",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Finca Miravalles Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Burnt Sugar",
+    "Walnut",
+    "Cocoa",
+    "Molasses"
+   ],
+   "score": 86.5,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.6,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-finca-miravalles-bourbon-8395",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Finca Miravalles Castillo",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Molasses",
+    "Chocolate",
+    "Malty",
+    "Dulce de Leche"
+   ],
+   "score": 86.0,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-finca-miravalles-castillo-8394",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Finca San Miguel Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Dulce de Leche",
+    "Hazelnut Spread",
+    "Almond",
+    "Malt Syrup"
+   ],
+   "score": 86.9,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-finca-san-miguel-bourbon-8396",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Honey Process Anacafe",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Malt Syrup",
+    "Chocolate Orange",
+    "Nice Intensity",
+    "Balanced"
+   ],
+   "score": 87.0,
+   "arrival": "Jun 2026",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-honey-process-anacafe-8672",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador La Esperanza Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Balanced",
+    "Brown Sugar",
+    "Walnut",
+    "Milk Chocolate"
+   ],
+   "score": 86.0,
+   "arrival": "Jun 2026",
+   "price_per_lb": 7.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-la-esperanza-bourbon-8678",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador San Miguel Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Milk Chocolate",
+    "Hazelnut",
+    "Versatile"
+   ],
+   "score": 86.9,
+   "arrival": "Jun 2026",
+   "price_per_lb": 8.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-san-miguel-bourbon-8675",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Agaro Kenisa",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Ripe Berry",
+    "Fruit Jam",
+    "Fresh Hops"
+   ],
+   "score": 88.0,
+   "arrival": "Sep 2024",
+   "price_per_lb": 7.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-agaro-kenisa-8062",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Anaerobic Natural Gerba Dogo",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Anaerobic Dry Process",
+   "tasting_notes": [
+    "Ripe Berry",
+    "Fruit Jam",
+    "Fresh Hops"
+   ],
+   "score": 92.0,
+   "arrival": "Sep 2026",
+   "price_per_lb": 10.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-anaerobic-natural-gerba-dogo-8829",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Bensa Kokose",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Red Honey",
+    "Peach",
+    "Cocoa"
+   ],
+   "score": 90.0,
+   "arrival": "Sep 2025",
+   "price_per_lb": 10.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-bensa-kokose-8460",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Birbirsa",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Red Honey",
+    "Peach",
+    "Cocoa",
+    "Berry-toned"
+   ],
+   "score": 90.9,
+   "arrival": "Aug 2026",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-birbirsa-8815",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Bobea Uke",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Berry-toned",
+    "Passion Fruit",
+    "Dark Chocolate",
+    "Fresh Mango"
+   ],
+   "score": 92.6,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-bobea-uke-8654",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Buku Abel",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Fresh Mango",
+    "Chai Spice",
+    "Artisinal Chocolate",
+    "Blueberry"
+   ],
+   "score": 93.0,
+   "arrival": "July 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-buku-abel-8646",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Buno Dambi Uddo",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Blueberry",
+    "Caramelized Sugar",
+    "Aromatic Highlights",
+    "Plum"
+   ],
+   "score": 93.0,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-buno-dambi-uddo-8652",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Chelchele Shitaye Abebe",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Plum",
+    "Raspberry Tea",
+    "Bittering Spices"
+   ],
+   "score": 92.8,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-chelchele-shitaye-abebe-8483",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Dogo Sodu",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Dried Peach",
+    "Mango",
+    "Jasmine Pearl Tea"
+   ],
+   "score": 92.5,
+   "arrival": "Oct 2025",
+   "price_per_lb": 10.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-dogo-sodu-8491",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Duromina Aba Bulgu",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Blueberry",
+    "Cooked Peach",
+    "Fragrant Rue"
+   ],
+   "score": 89.0,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-duromina-aba-bulgu-8480",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Guji Buku",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Blueberry",
+    "Cooked Peach",
+    "Fragrant Rue"
+   ],
+   "score": 94.0,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-guji-buku-8465",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Guji Goro",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Berry-toned",
+    "Potpourri",
+    "Chocolate-Covered Fruits"
+   ],
+   "score": 89.8,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-guji-goro-8477",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Guji Goro",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Berry-toned",
+    "Potpourri",
+    "Chocolate-Covered Fruits",
+    "Blueberry"
+   ],
+   "score": 92.0,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-guji-goro-8805",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Guji Tuku",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Blueberry",
+    "Pomegranate",
+    "Honeydew Melon",
+    "Raspberry"
+   ],
+   "score": 92.7,
+   "arrival": "Oct 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-guji-tuku-8490",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Guji Tuku",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Raspberry",
+    "Rue Herb",
+    "Pomegranate Molasses",
+    "Dried Apricot"
+   ],
+   "score": 92.3,
+   "arrival": "Sep 2026",
+   "price_per_lb": 10.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-guji-tuku-8827",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Hambela Buliye",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Dried Apricot",
+    "Blueberry",
+    "Caramel"
+   ],
+   "score": 92.4,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.1,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-hambela-buliye-8424",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Hambela Goro",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Bright Fruits",
+    "Citron",
+    "Aromatic Sweetness"
+   ],
+   "score": 91.5,
+   "arrival": "Oct 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-hambela-goro-8536",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Kercha Haruse",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Bright Fruits",
+    "Citron",
+    "Aromatic Sweetness",
+    "Dark Berries"
+   ],
+   "score": 92.6,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-kercha-haruse-8647",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Korate",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Dark Berries",
+    "Dried Peach",
+    "Chocolate Truffle",
+    "Tropical Fruits"
+   ],
+   "score": 91.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-korate-8653",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Suke Quto",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Tropical Fruits",
+    "Rue Herb",
+    "Bergamot Citrus",
+    "Citrus"
+   ],
+   "score": 94.0,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.8,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-suke-quto-8468",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Dry Process Yirga Cheffe Halo Beriti",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Citrus",
+    "Mango",
+    "Chocolate",
+    "Peach"
+   ],
+   "score": 92.8,
+   "arrival": "Sep 2025",
+   "price_per_lb": 10.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-yirga-cheffe-halo-beriti-8478",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Duromina Aba Bulgu",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Peach",
+    "Red Honey",
+    "Floral",
+    "Floral"
+   ],
+   "score": 91.7,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-duromina-aba-bulgu-8800",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Gerba Hechere",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Floral",
+    "White Peach",
+    "Tea-Like",
+    "Nectarine"
+   ],
+   "score": 93.3,
+   "arrival": "Oct 2025",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-gerba-hechere-8492",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Godina Guji SWP Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Swiss Water Decaf",
+   "tasting_notes": [
+    "Nectarine",
+    "Brown Sugar",
+    "Clove"
+   ],
+   "score": 89.5,
+   "arrival": "Oct 2024",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-godina-guji-swp-decaf-8125",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Guji Gerba Dogo",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "White Honey",
+    "Nectarine",
+    "Floral"
+   ],
+   "score": 92.0,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-guji-gerba-dogo-8470",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Guji Hambela Dabaye",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "White Honey",
+    "Nectarine",
+    "Floral",
+    "Refined Sweetness"
+   ],
+   "score": 92.7,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-guji-hambela-dabaye-8421",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Guji Hambela Dabaye",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Refined Sweetness",
+    "Marmalade",
+    "Floral Hint"
+   ],
+   "score": 91.8,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-guji-hambela-dabaye-8655",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Gure Dako",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [],
+   "score": 89.3,
+   "arrival": "Sep 2024",
+   "price_per_lb": 8.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-gure-dako-8064",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Honey Process Guji Goro",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Pineapple",
+    "Marmalade",
+    "Lavender"
+   ],
+   "score": 92.5,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-honey-process-guji-goro-8467",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Kercha Bilida Bukisa",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Apricot",
+    "Whole Spices"
+   ],
+   "score": 89.9,
+   "arrival": "Jul 2024",
+   "price_per_lb": 8.6,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-kercha-bilida-bukisa-7997",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Organic Agaro Kenisa",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Apricot",
+    "Whole Spices",
+    "Honey"
+   ],
+   "score": 90.5,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-organic-agaro-kenisa-8473",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Organic Buture Cooperative",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Maple",
+    "Stone Fruit",
+    "Berry Jam"
+   ],
+   "score": 90.9,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-organic-buture-cooperative-8704",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Organic Dry Process Birbirsa",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Berry Jam",
+    "Dried Mango",
+    "Cocoa",
+    "Dark Honey"
+   ],
+   "score": 91.2,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-organic-dry-process-birbirsa-8474",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Organic Gera Nano Challa",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Dark Honey",
+    "Peach",
+    "Black Tea",
+    "Syrupy Sweetness"
+   ],
+   "score": 91.7,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-organic-gera-nano-challa-8472",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Organic Geruke Cooperative",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Syrupy Sweetness",
+    "Woody Spices",
+    "Body"
+   ],
+   "score": 88.2,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-organic-geruke-cooperative-8705",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Uraga Gogogu",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Sugarcane Juice",
+    "Fruit Tea",
+    "Floral"
+   ],
+   "score": 92.5,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-uraga-gogogu-8481",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Uraga Gogogu",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Sugarcane Juice",
+    "Fruit Tea",
+    "Floral",
+    "Black Tea"
+   ],
+   "score": 92.5,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-uraga-gogogu-8649",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Uraga Raro Boda",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Black Tea",
+    "Simple Syrup",
+    "Pink Grapefruit"
+   ],
+   "score": 92.5,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-uraga-raro-boda-8650",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Uraga Siko",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Lively Cup",
+    "Simple Syrup",
+    "Lemongrass"
+   ],
+   "score": 92.7,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-uraga-siko-8461",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Uraga SWP Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Swiss Water Decaf",
+   "tasting_notes": [
+    "Lively Cup",
+    "Simple Syrup",
+    "Lemongrass"
+   ],
+   "score": 88.0,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-uraga-swp-decaf-8709",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Yirga Cheffe Banko Gotiti",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Fragrant Honey",
+    "Cherry Blossom",
+    "Ginger"
+   ],
+   "score": 93.5,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-yirga-cheffe-banko-gotiti-8476",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Yirga Cheffe Chelchele",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Fragrant Honey",
+    "Cherry Blossom",
+    "Ginger",
+    "Honey"
+   ],
+   "score": 92.2,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-yirga-cheffe-chelchele-8643",
+   "url_verified": false
+  },
+  {
+   "lot": "Ethiopia Yirga Cheffe Wote Konga",
+   "roaster": "Coffee Shrub",
+   "origin": "Ethiopia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Peach",
+    "Gum Drop Candy",
+    "Sorghum"
+   ],
+   "score": 90.5,
+   "arrival": "Nov 2024",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/ethiopia-yirga-cheffe-wote-konga-8130",
+   "url_verified": false
+  },
+  {
+   "lot": "Flores Wet Hulled Turelelo",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Sorghum",
+    "Tobacco",
+    "Body",
+    "Floral"
+   ],
+   "score": 86.9,
+   "arrival": "Jan 2025",
+   "price_per_lb": 8.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/flores-wet-hulled-turelelo-8188",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Acatenango Gesha",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Floral",
+    "Simple Syrup",
+    "Citrus",
+    "Raw Sugar"
+   ],
+   "score": 92.1,
+   "arrival": "Jun 2026",
+   "price_per_lb": 15.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-acatenango-gesha-8695",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Antigua Finca Cabrejo",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Raw Sugar",
+    "Citrus",
+    "Cocoa",
+    "Balanced"
+   ],
+   "score": 88.2,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-antigua-finca-cabrejo-8340",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Antigua Hunapu Ciudad Vieja",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Balanced",
+    "Candied Nut",
+    "Cinnamon Cocoa",
+    "Caramel"
+   ],
+   "score": 87.5,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-antigua-hunapu-ciudad-vieja-8338",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Antigua Hunapu Ciudad Vieja",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Hazelnut Chocolate",
+    "Well Balanced"
+   ],
+   "score": 86.8,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-antigua-hunapu-ciudad-vieja-8687",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Antigua La Folie",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Cane Sugar",
+    "Tangerine",
+    "Refined Finish",
+    "Brown Sugar"
+   ],
+   "score": 87.6,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-antigua-la-folie-8688",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Antigua Pavón Farm",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Hazelnut",
+    "Body",
+    "Caramel"
+   ],
+   "score": 86.8,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-antigua-pavon-farm-8339",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Chimaltenango Tecpan",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Cocoa Butter",
+    "Almond",
+    "Toffee"
+   ],
+   "score": 86.2,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-chimaltenango-tecpan-8409",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Chimaltenango Tecpán",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Toffee",
+    "Roasted Nut",
+    "Chocolate",
+    "Chocolate Caramel"
+   ],
+   "score": 86.2,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-chimaltenango-tecpan-8689",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Coban Chichupak Coop",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate Caramel",
+    "Dried Apple",
+    "Candied Walnut",
+    "Raw Sugars"
+   ],
+   "score": 87.5,
+   "arrival": "Jun 2026",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-coban-chichupak-coop-8686",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala El Socorro Java Variety",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Raw Sugars",
+    "Lemongrass Tea",
+    "Whole Clove",
+    "Transparent Sweetness"
+   ],
+   "score": 88.3,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-el-socorro-java-variety-8403",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala El Socorro Java Variety",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Transparent Sweetness",
+    "Black Tea",
+    "Lemon Twist",
+    "Caramel"
+   ],
+   "score": 88.7,
+   "arrival": "Jun 2026",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-el-socorro-java-variety-8696",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Finca Santa Ines Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Walnut",
+    "Semi-sweet Chocolate",
+    "Sorghum Syrup"
+   ],
+   "score": 86.5,
+   "arrival": "Jun 2026",
+   "price_per_lb": 9.1,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-finca-santa-ines-bourbon-8692",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala FTO Huehuetenango WP Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Water Process Decaf",
+   "tasting_notes": [
+    "Sorghum Syrup",
+    "Raw Almond",
+    "Cocoa",
+    "Caramelized Sugar"
+   ],
+   "score": 87.0,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-fto-huehuetenango-wp-decaf-8793",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Hermanos Merida Pacamara",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramelized Sugar",
+    "Apple",
+    "Dark Cocoa",
+    "Vanilla Caramel"
+   ],
+   "score": 88.5,
+   "arrival": "Sep 2026",
+   "price_per_lb": 11.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-hermanos-merida-pacamara-8905",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Huehuetenango Silvestre Velasquez",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Vanilla Caramel",
+    "Milk Chocolate",
+    "Golden Raisin",
+    "Snickerdoodle"
+   ],
+   "score": 87.8,
+   "arrival": "Jun 2026",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-huehuetenango-silvestre-velasquez-8684",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Huehuetenango Terrazas Don Pilo",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Snickerdoodle",
+    "Semi-Sweet Cocoa",
+    "Walnut"
+   ],
+   "score": 86.7,
+   "arrival": "Sep 2025",
+   "price_per_lb": 9.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-huehuetenango-terrazas-don-pilo-8458",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Huehuetenango Unión Cantinil",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Cinnamon",
+    "Cocoa",
+    "Juicy"
+   ],
+   "score": 86.5,
+   "arrival": "May 2026",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-huehuetenango-union-cantinil-8626",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Libertad Aurelio del Cerro",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Cinnamon",
+    "Cocoa",
+    "Juicy",
+    "Bittersweet"
+   ],
+   "score": 87.2,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-libertad-aurelio-del-cerro-8441",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Libertad Aurelio Del Cerro",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Bittersweet",
+    "Berry",
+    "Cinnamon",
+    "Chocolate"
+   ],
+   "score": 88.0,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-libertad-aurelio-del-cerro-8792",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Michicoy Finca Rosma",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate",
+    "Dried Apple",
+    "Aromatic Spices",
+    "Raw Sugar"
+   ],
+   "score": 87.9,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-michicoy-finca-rosma-8429",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Michicoy Finca Rosma Lot 1",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Raw Sugar",
+    "Baking Spices",
+    "Chocolate Raisin",
+    "Marzipan"
+   ],
+   "score": 88.0,
+   "arrival": "Sep 2026",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-michicoy-finca-rosma-lot-1-8902",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Patzun Finca La Florida",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Marzipan",
+    "Dark Chocolate",
+    "Lemon Bar",
+    "Fragrant Sweetness"
+   ],
+   "score": 87.3,
+   "arrival": "Sep 2026",
+   "price_per_lb": 9.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-patzun-finca-la-florida-8897",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala San Diego Buena Vista Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Fragrant Sweetness",
+    "Cane Juice",
+    "Fudge",
+    "Caramel"
+   ],
+   "score": 87.0,
+   "arrival": "Jun 2026",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-san-diego-buena-vista-bourbon-8694",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala San Martin Jilotepeque",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Chocolate Bar",
+    "Torched Sugar"
+   ],
+   "score": 87.0,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-san-martin-jilotepeque-8408",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Turbala Finca Alonzo",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Green Apple",
+    "Dried Tamarind",
+    "Honey"
+   ],
+   "score": 88.3,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-turbala-finca-alonzo-8316",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Aler Villatoro",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Honey",
+    "Fruit Tea",
+    "Dark Cocoa",
+    "Caramel"
+   ],
+   "score": 89.8,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-aler-villatoro-8437",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Aler Villatoro",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Dark Chocolate",
+    "Marzipan",
+    "Brown Sugar"
+   ],
+   "score": 87.2,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-aler-villatoro-8790",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Axel Palacios",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Apple Juice",
+    "Blackberry Tea",
+    "Brown Sugar"
+   ],
+   "score": 88.0,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-axel-palacios-8427",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Axel Palacios",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Dried Fruits",
+    "Cocoa",
+    "Chocolate"
+   ],
+   "score": 87.5,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-axel-palacios-8787",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Bojonalito",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate",
+    "Cinnamon",
+    "Almond"
+   ],
+   "score": 88.3,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.3,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-bojonalito-8431",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Miriam Gomez",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [],
+   "score": 87.2,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-miriam-gomez-8428",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate",
+    "Almond",
+    "Body"
+   ],
+   "score": 87.0,
+   "arrival": "Aug 2024",
+   "price_per_lb": 7.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-peaberry-8055",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul Rosalio Villatoro",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate",
+    "Almond",
+    "Body",
+    "Balanced"
+   ],
+   "score": 86.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-rosalio-villatoro-8789",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Xinabajul San Pedro Necta",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Balanced",
+    "Cocoa",
+    "Caramel",
+    "Syrupy"
+   ],
+   "score": 87.4,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-xinabajul-san-pedro-necta-8430",
+   "url_verified": false
+  },
+  {
+   "lot": "Honduras Anibal Erazo Pacas",
+   "roaster": "Coffee Shrub",
+   "origin": "Honduras",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Syrupy",
+    "Almond",
+    "Dried Fruit"
+   ],
+   "score": 86.5,
+   "arrival": "Feb 2025",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/honduras-anibal-erazo-pacas-8219",
+   "url_verified": false
+  },
+  {
+   "lot": "Honduras El Cedral Lourdes Figueroa",
+   "roaster": "Coffee Shrub",
+   "origin": "Honduras",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Wild Berry",
+    "Dark Cocoa",
+    "Thick Body"
+   ],
+   "score": 86.5,
+   "arrival": "Dec 2025",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/honduras-el-cedral-lourdes-figueroa-8552",
+   "url_verified": false
+  },
+  {
+   "lot": "Honduras Honey Process Sara Chinchilla",
+   "roaster": "Coffee Shrub",
+   "origin": "Honduras",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Wild Berry",
+    "Dark Cocoa",
+    "Thick Body",
+    "Rustic Bittering"
+   ],
+   "score": 88.1,
+   "arrival": "Feb 2025",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/honduras-honey-process-sara-chinchilla-8218",
+   "url_verified": false
+  },
+  {
+   "lot": "India Monsoon Malabar",
+   "roaster": "Coffee Shrub",
+   "origin": "India",
+   "process": "Special Process (See Review)",
+   "tasting_notes": [
+    "Rustic Bittering",
+    "Low Acid",
+    "Earth-toned",
+    "Bittersweet"
+   ],
+   "score": 85.0,
+   "arrival": "Mar 2025",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/india-monsoon-malabar-8237",
+   "url_verified": false
+  },
+  {
+   "lot": "India Pearl Mountain Estate Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "India",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Bittersweet",
+    "Praline Nut",
+    "Burnt Sugar",
+    "Cocoa"
+   ],
+   "score": 86.6,
+   "arrival": "Apr 2025",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/india-pearl-mountain-estate-peaberry-8265",
+   "url_verified": false
+  },
+  {
+   "lot": "India Ratnagiri Estate AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Cocoa",
+    "Roasted Almond",
+    "Dense Body"
+   ],
+   "score": 86.3,
+   "arrival": "Apr 2025",
+   "price_per_lb": 8.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/india-ratnagiri-estate-ab-8266",
+   "url_verified": false
+  },
+  {
+   "lot": "Indonesia Nusantara SWP Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Swiss Water Decaf",
+   "tasting_notes": [
+    "Malted Caramel",
+    "Pungent Spices",
+    "Cocoa"
+   ],
+   "score": 86.8,
+   "arrival": "Jan 2024",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/indonesia-nusantara-swp-decaf-7855",
+   "url_verified": false
+  },
+  {
+   "lot": "Java Sunda Wet Hulled Laspada",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Malted Caramel",
+    "Pungent Spices",
+    "Cocoa",
+    "Toasted Barley"
+   ],
+   "score": 87.1,
+   "arrival": "Oct 2025",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/java-sunda-wet-hulled-laspada-8486",
+   "url_verified": false
+  },
+  {
+   "lot": "Java Sunda Wet Hulled Siki Alit",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Toasted Barley",
+    "Eucalyptus",
+    "Thick Body",
+    "Fermented Berry"
+   ],
+   "score": 86.8,
+   "arrival": "Jan 2025",
+   "price_per_lb": 8.2,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/java-sunda-wet-hulled-siki-alit-8186",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Dry Process Nyeri Burumani",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Fermented Berry",
+    "Cider",
+    "Cocoa"
+   ],
+   "score": 90.4,
+   "arrival": "Jul 2025",
+   "price_per_lb": 10.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-dry-process-nyeri-burumani-8354",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Dry Process Nyeri Gaikundo",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Fruit Liqueor",
+    "Pungent Spice",
+    "Rustic Chocolate",
+    "Date Sugar"
+   ],
+   "score": 89.3,
+   "arrival": "Jul 2026",
+   "price_per_lb": 10.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-dry-process-nyeri-gaikundo-8779",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kiambu Fram Farm AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Date Sugar",
+    "Black Currant",
+    "Darjeeling Tea",
+    "Cranberry"
+   ],
+   "score": 91.0,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kiambu-fram-farm-ab-8748",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kiambu Fram Farm Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Cranberry",
+    "Mulling Spices",
+    "Burnt Sugar",
+    "Maple"
+   ],
+   "score": 91.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 375.0,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kiambu-fram-farm-peaberry-8749",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kiambu Spike AA Lot 2",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Maple",
+    "Cranberry",
+    "Tannic Tea"
+   ],
+   "score": 90.2,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kiambu-spike-aa-8744",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kiambu Spike AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Molasses",
+    "Hibiscus",
+    "Black Tea"
+   ],
+   "score": 88.1,
+   "arrival": "Jul 2024",
+   "price_per_lb": 8.1,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kiambu-spike-ab-8007",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kiambu Spike AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Molasses",
+    "Hibiscus",
+    "Black Tea",
+    "Orange"
+   ],
+   "score": 90.5,
+   "arrival": "May 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kiambu-spike-ab-8632",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kirinyaga Kiangoi AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Orange",
+    "Grapefruit",
+    "Clove",
+    "Raw Sugars"
+   ],
+   "score": 91.5,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kirinyaga-kiangoi-aa-8371",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kirinyaga Kiri AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Raw Sugars",
+    "Grapefruit",
+    "Bright Acidity",
+    "Date Sugar"
+   ],
+   "score": 91.2,
+   "arrival": "May 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kirinyaga-kiri-ab-8630",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Meru Kinjo AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Date Sugar",
+    "Canned Plum",
+    "Moderate Acidity",
+    "Black Currant"
+   ],
+   "score": 88.5,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-meru-kinjo-ab-8773",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Muranga Kangunu Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Black Currant",
+    "Baking Spice",
+    "Lemon Rind"
+   ],
+   "score": 89.6,
+   "arrival": "May 2025",
+   "price_per_lb": 9.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-muranga-kangunu-peaberry-8305",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Muranga Ndiara AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Black Currant",
+    "Grapefruit",
+    "Cinnamon Stick"
+   ],
+   "score": 89.8,
+   "arrival": "Jul 2024",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-muranga-ndiara-aa-8010",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Chinga Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Black Currant",
+    "Grapefruit",
+    "Cinnamon Stick",
+    "Turbinado Sugar"
+   ],
+   "score": 92.2,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-chinga-peaberry-8355",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Gaikundo AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Turbinado Sugar",
+    "Grapefruit",
+    "Rose Hips Tea",
+    "Candied Sweetness"
+   ],
+   "score": 90.6,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-gaikundo-aa-8769",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Gathaithi Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Candied Sweetness",
+    "Orange",
+    "Bright toned",
+    "Black Plum"
+   ],
+   "score": 91.9,
+   "arrival": "May 2026",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-gathaithi-peaberry-8628",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Gatugi AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Black Plum",
+    "Tamarind Sauce",
+    "Lime Zest",
+    "Brown Sugar"
+   ],
+   "score": 88.2,
+   "arrival": "Oct 2024",
+   "price_per_lb": 8.1,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-gatugi-ab-8116",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Gichathaini AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Stone Fruit",
+    "Hops",
+    "Honey"
+   ],
+   "score": 91.5,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-gichathaini-ab-8386",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Gititu AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Honey",
+    "Passionfruit",
+    "Tea",
+    "Unrefined Sugar"
+   ],
+   "score": 91.7,
+   "arrival": "May 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-gititu-ab-8637",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Igutha AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Unrefined Sugar",
+    "Orange",
+    "Earl Grey",
+    "Demerara Sugar"
+   ],
+   "score": 90.6,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-igutha-ab-8750",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Kaiguri AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Demerara Sugar",
+    "Ginger Snaps",
+    "Black Tea",
+    "Pink Grapefruit"
+   ],
+   "score": 90.1,
+   "arrival": "Jul 2026",
+   "price_per_lb": 10.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-kaiguri-aa-8770",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Kamoini AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Pink Grapefruit",
+    "Meyer Lemon",
+    "Black Tea"
+   ],
+   "score": 92.0,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-kamoini-aa-8360",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Kamoini AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [],
+   "score": 90.9,
+   "arrival": "Jul 2025",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-kamoini-ab-8362",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Karuthi AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Sweet Citrus",
+    "Orange Soda",
+    "Apricot"
+   ],
+   "score": 91.7,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-karuthi-aa-8363",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Kiamabara AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Sweet Citrus",
+    "Orange Soda",
+    "Apricot",
+    "Pomegranate"
+   ],
+   "score": 91.5,
+   "arrival": "May 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-kiamabara-ab-8636",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Mutheka AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Pomegranate",
+    "Brown Sugar",
+    "Apple",
+    "Spiced Sweetness"
+   ],
+   "score": 90.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-mutheka-ab-8774",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Rukira AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Spiced Sweetness",
+    "Orange",
+    "Tannic Tea",
+    "Grape"
+   ],
+   "score": 92.2,
+   "arrival": "Aug 2026",
+   "price_per_lb": 10.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-rukira-aa-8768",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Othaya Gatuyaini AB",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Grape",
+    "Darjeeling",
+    "Wild Flowers",
+    "Brown Sugar"
+   ],
+   "score": 92.7,
+   "arrival": "Jul 2025",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-othaya-gatuyaini-ab-8356",
+   "url_verified": false
+  },
+  {
+   "lot": "Laos Paksong Hills Catigua Variety",
+   "roaster": "Coffee Shrub",
+   "origin": "Laos",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Baked Apple",
+    "Green Herb",
+    "Malt Syrup"
+   ],
+   "score": 86.3,
+   "arrival": "Jun 2025",
+   "price_per_lb": 8.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/laos-paksong-hills-catigua-variety-8309",
+   "url_verified": false
+  },
+  {
+   "lot": "Mexico Chiapas La Ramona",
+   "roaster": "Coffee Shrub",
+   "origin": "Mexico",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Malt Syrup",
+    "Toffee Almond",
+    "Cocoa",
+    "Molasses"
+   ],
+   "score": 86.5,
+   "arrival": "Sep 2026",
+   "price_per_lb": 7.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/mexico-chiapas-la-ramona-8817",
+   "url_verified": false
+  },
+  {
+   "lot": "Mexico Organic Chiapas WP Decaf",
+   "roaster": "Coffee Shrub",
+   "origin": "Mexico",
+   "process": "Water Process Decaf",
+   "tasting_notes": [
+    "Molasses",
+    "Chocolate",
+    "Crowd-pleasing",
+    "Clean Sweetness"
+   ],
+   "score": 86.4,
+   "arrival": "Jul 2026",
+   "price_per_lb": 9.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/mexico-organic-chiapas-wp-decaf-8703",
+   "url_verified": false
+  },
+  {
+   "lot": "Mexico Organic Granjeros de Chiapas",
+   "roaster": "Coffee Shrub",
+   "origin": "Mexico",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Clean Sweetness",
+    "Praline Nut",
+    "Cacao",
+    "Raw Sugar"
+   ],
+   "score": 86.7,
+   "arrival": "Apr 2025",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/mexico-organic-granjeros-de-chiapas-8255",
+   "url_verified": false
+  },
+  {
+   "lot": "Mexico Tenejapa Valle de Jovel",
+   "roaster": "Coffee Shrub",
+   "origin": "Mexico",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Raw Sugar",
+    "Dark Cocoa",
+    "Walnut Oil",
+    "Cocoa"
+   ],
+   "score": 86.8,
+   "arrival": "Sep 2026",
+   "price_per_lb": 8.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/mexico-tenejapa-valle-de-jovel-8816",
+   "url_verified": false
+  },
+  {
+   "lot": "Nicaragua Dipilto Monte Libano",
+   "roaster": "Coffee Shrub",
+   "origin": "Nicaragua",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Cocoa",
+    "Walnut",
+    "Burnt Sugar",
+    "Dried Berry"
+   ],
+   "score": 86.5,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/nicaragua-dipilto-monte-libano-8721",
+   "url_verified": false
+  },
+  {
+   "lot": "Nicaragua Dry Process Maracaturra",
+   "roaster": "Coffee Shrub",
+   "origin": "Nicaragua",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Dried Berry",
+    "Fermented Fruit",
+    "Tannic",
+    "Caramel"
+   ],
+   "score": 88.0,
+   "arrival": "Aug 2025",
+   "price_per_lb": 9.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/nicaragua-dry-process-maracaturra-8453",
+   "url_verified": false
+  },
+  {
+   "lot": "Nicaragua Maracaturra Los Medios",
+   "roaster": "Coffee Shrub",
+   "origin": "Nicaragua",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Citrus",
+    "Roasted Barley",
+    "Caramel"
+   ],
+   "score": 87.5,
+   "arrival": "Aug 2025",
+   "price_per_lb": 8.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/nicaragua-maracaturra-los-medios-8449",
+   "url_verified": false
+  },
+  {
+   "lot": "Nicaragua Maracaturra Los Medios",
+   "roaster": "Coffee Shrub",
+   "origin": "Nicaragua",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Lemongrass",
+    "Basil",
+    "Praline Almond"
+   ],
+   "score": 87.6,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/nicaragua-maracaturra-los-medios-8725",
+   "url_verified": false
+  },
+  {
+   "lot": "Nicaragua Ojo de Agua",
+   "roaster": "Coffee Shrub",
+   "origin": "Nicaragua",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Praline Almond",
+    "Vanilla",
+    "Cocoa",
+    "Milk Chocolate"
+   ],
+   "score": 86.9,
+   "arrival": "Aug 2025",
+   "price_per_lb": 8.3,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/nicaragua-ojo-de-agua-8445",
+   "url_verified": false
+  },
+  {
+   "lot": "Nicaragua Ojo de Agua",
+   "roaster": "Coffee Shrub",
+   "origin": "Nicaragua",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Milk Chocolate",
+    "Brown Sugar",
+    "Apple",
+    "Balanced Sweetness"
+   ],
+   "score": 87.2,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/nicaragua-ojo-de-agua-8723",
+   "url_verified": false
+  },
+  {
+   "lot": "Papua New Guinea Korgua Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Papua New Guinea",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Balanced Sweetness",
+    "Graham Cracker",
+    "Tamarind",
+    "Chocolate"
+   ],
+   "score": 87.3,
+   "arrival": "Oct 2026",
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/papua-new-guinea-korgua-peaberry-8942",
+   "url_verified": false
+  },
+  {
+   "lot": "Papua New Guinea Kuta Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Papua New Guinea",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate",
+    "Caramelized Sugar",
+    "Vanilla",
+    "Mid-toned"
+   ],
+   "score": 86.9,
+   "arrival": "Oct 2026",
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/papua-new-guinea-kuta-peaberry-8941",
+   "url_verified": false
+  },
+  {
+   "lot": "Peru Chirinos Las Pirias",
+   "roaster": "Coffee Shrub",
+   "origin": "Peru",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Mid-toned",
+    "Raw Sugars",
+    "Snickerdoodle"
+   ],
+   "score": 86.9,
+   "arrival": "Nov 2025",
+   "price_per_lb": 10.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/peru-chirinos-las-pirias-8499",
+   "url_verified": false
+  },
+  {
+   "lot": "Peru Huabal El Paraíso",
+   "roaster": "Coffee Shrub",
+   "origin": "Peru",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Chocolate",
+    "Caramel Apple",
+    "Creamy Body",
+    "Butter Pecan"
+   ],
+   "score": 86.7,
+   "arrival": "Nov 2025",
+   "price_per_lb": 10.3,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/peru-huabal-el-paraiso-8504",
+   "url_verified": false
+  },
+  {
+   "lot": "Peru Huabal San Pablo",
+   "roaster": "Coffee Shrub",
+   "origin": "Peru",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Butter Pecan",
+    "Dark Chocolate",
+    "Satiny",
+    "Milk Chocolate"
+   ],
+   "score": 87.4,
+   "arrival": "Jan 2025",
+   "price_per_lb": 8.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/peru-huabal-san-pablo-8201",
+   "url_verified": false
+  },
+  {
+   "lot": "Peru Productores de Jaén",
+   "roaster": "Coffee Shrub",
+   "origin": "Peru",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Milk Chocolate",
+    "Cashey",
+    "Cinnamon",
+    "Dark Cocoa"
+   ],
+   "score": 86.5,
+   "arrival": "Nov 2025",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/peru-productores-de-jaen-8502",
+   "url_verified": false
+  },
+  {
+   "lot": "Peru Productores del Diamante",
+   "roaster": "Coffee Shrub",
+   "origin": "Peru",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Dark Cocoa",
+    "Almond Granola",
+    "Dried Apple",
+    "Blueberry"
+   ],
+   "score": 86.5,
+   "arrival": "Nov 2025",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/peru-productores-del-diamante-8497",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Dry Process Kivu Kageyo",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Blueberry",
+    "Tropical Mango",
+    "Strawberry Jam",
+    "Molasses"
+   ],
+   "score": 91.0,
+   "arrival": "Nov 2024",
+   "price_per_lb": 8.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-dry-process-kivu-kageyo-8141",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Dry Process Macuba",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Molasses",
+    "Plum Wine",
+    "Bittersweet Cacao"
+   ],
+   "score": 88.5,
+   "arrival": "Dec 2024",
+   "price_per_lb": 8.75,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-dry-process-macuba-8168",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Dry Process Tumba",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Rooibos Tea",
+    "Whole Spice",
+    "Orange"
+   ],
+   "score": 90.5,
+   "arrival": "Jan 2026",
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-dry-process-tumba-8580",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Milles Collines Peaberry Lot 2",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Rooibos Tea",
+    "Whole Spice",
+    "Orange",
+    "Caramel"
+   ],
+   "score": 90.0,
+   "arrival": "Dec 2024",
+   "price_per_lb": 8.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-milles-collines-peaberry-lot-2-8176",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Milles Collines Peaberry Lot 2",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Caramel",
+    "Brisk Tea",
+    "Cinnamon Sauce",
+    "Maple"
+   ],
+   "score": 88.5,
+   "arrival": "Jan 2026",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-milles-collines-peaberry-lot-2-8582",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Nyamasheke Karambi",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Maple",
+    "Buckwheat",
+    "Lemon Juice",
+    "Butterscotch"
+   ],
+   "score": 89.1,
+   "arrival": "Dec 2024",
+   "price_per_lb": 7.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-nyamasheke-karambi-8171",
+   "url_verified": false
+  },
+  {
+   "lot": "Rwanda Nyamasheke Nyungwe",
+   "roaster": "Coffee Shrub",
+   "origin": "Rwanda",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Butterscotch",
+    "Black Tea",
+    "All Spice",
+    "Stout Beer"
+   ],
+   "score": 90.2,
+   "arrival": "Nov 2024",
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/rwanda-nyamasheke-nyungwe-8139",
+   "url_verified": false
+  },
+  {
+   "lot": "Sulawesi Honey Enrekang Angin Angin",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Stout Beer",
+    "Burnt Sugars",
+    "Drinking Cocoa"
+   ],
+   "score": 88.1,
+   "arrival": "Jun 2025",
+   "price_per_lb": 10.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sulawesi-honey-enrekang-angin-angin-8333",
+   "url_verified": false
+  },
+  {
+   "lot": "Sulawesi Wet Hulled Toraja Pango Pango",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Bittersweet Chocolate",
+    "Pungent Roast Tones",
+    "Thick Body"
+   ],
+   "score": 87.7,
+   "arrival": "Dec 2025",
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sulawesi-wet-hulled-toraja-pango-pango-8568",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Anaerobic Washed Bebesen Aulia",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Anaerobic Fermentation",
+   "tasting_notes": [
+    "Bittersweet Chocolate",
+    "Pungent Roast Tones",
+    "Thick Body",
+    "Pungent Spices"
+   ],
+   "score": 87.4,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-anaerobic-washed-bebesen-aulia-8839",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Dry Process Kerinci Cooperative",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Pungent Spices",
+    "Stewed Fruits",
+    "Big Body",
+    "Fermented Banana"
+   ],
+   "score": 88.7,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-dry-process-kerinci-cooperative-8334",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Dry Process Ribang Gayo",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Fermented Banana",
+    "Spiced Rum",
+    "Burnt Sugars",
+    "Brown Rice Syrup"
+   ],
+   "score": 89.5,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-dry-process-ribang-gayo-8331",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Giling Basah Sesongot",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Brown Rice Syrup",
+    "Bittersweet",
+    "Earth Tones",
+    "Palm Sugar"
+   ],
+   "score": 87.3,
+   "arrival": "Oct 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-giling-basah-sesongot-8832",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Honey Process Kerinci Pendekar",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Palm Sugar",
+    "Barley Malt",
+    "Chocolate Orange",
+    "Dark Cocoa"
+   ],
+   "score": 87.9,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-honey-process-kerinci-pendekar-8324",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Lintong Sigumpar Village",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Dark Cocoa",
+    "Tobacco",
+    "Heavy Body",
+    "Rustic Sweetness"
+   ],
+   "score": 86.8,
+   "arrival": "Jun 2025",
+   "price_per_lb": 9.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-lintong-sigumpar-village-8321",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Organic Wet Hulled Aceh Tengah",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Rustic Sweetness",
+    "Tobacco",
+    "Aromatic Wood"
+   ],
+   "score": 86.7,
+   "arrival": "Apr 2025",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-organic-wet-hulled-aceh-tengah-8253",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Wet Hulled Aceh Tengah",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Rustic Sweetness",
+    "Bittersweet",
+    "Alder Incense",
+    "Bittersweet"
+   ],
+   "score": 86.7,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-wet-hulled-aceh-tengah-8780",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Wet Hulled Aulia Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Bittersweet",
+    "Earth-Toned",
+    "Herbaceous",
+    "Cocoa Nibs"
+   ],
+   "score": 87.0,
+   "arrival": "Oct 2026",
+   "price_per_lb": 9.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-wet-hulled-aulia-peaberry-8833",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Wet Hulled Pegasing Syahruna",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Cocoa Nibs",
+    "Woody Spices",
+    "Immense Body",
+    "Rice Syrup"
+   ],
+   "score": 87.0,
+   "arrival": "Jun 2025",
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-wet-hulled-pegasing-syahruna-8325",
+   "url_verified": false
+  },
+  {
+   "lot": "Sumatra Wet Hulled Ribang Gayo",
+   "roaster": "Coffee Shrub",
+   "origin": "Indonesia",
+   "process": "Wet Hulled (Giling Basah)",
+   "tasting_notes": [
+    "Rice Syrup",
+    "Pungent Spice",
+    "Bittering Chocolate",
+    "Balanced"
+   ],
+   "score": 87.5,
+   "arrival": "Oct 2026",
+   "price_per_lb": 9.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sumatra-wet-hulled-ribang-gayo-8838",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s 10 Speed Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Balanced",
+    "Bright Accents",
+    "Versatile",
+    "Dark Chocolate"
+   ],
+   "score": 88.2,
+   "arrival": null,
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-10-speed-blend-7834",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Altiplano Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Dark Chocolate",
+    "Syrupy",
+    "Citrus Hint",
+    "Low Toned"
+   ],
+   "score": 87.6,
+   "arrival": null,
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-altiplano-blend-4840",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Espresso Monkey Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Various Process Methods",
+   "tasting_notes": [
+    "Low Toned",
+    "Dark Chocolate",
+    "Rustic Fruit",
+    "Syrupy Sweetness"
+   ],
+   "score": 88.0,
+   "arrival": null,
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-espresso-monkey-blend-2653",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Ethiopiques Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Syrupy Sweetness",
+    "Candied Citrus",
+    "Dark Chocolate",
+    "Dark Berry"
+   ],
+   "score": 89.6,
+   "arrival": null,
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-ethiopiques-blend-4839",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Ethiopiques Version 2.0",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Various Process Methods",
+   "tasting_notes": [
+    "Dark Berry",
+    "Creamy Chocolate",
+    "Long Finish",
+    "Creamy Body"
+   ],
+   "score": 90.4,
+   "arrival": null,
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-ethiopiques-version-2-6113",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Liquid Amber Espresso Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Various Process Methods",
+   "tasting_notes": [
+    "Creamy Body",
+    "Pungent Cocoa",
+    "Caramel",
+    "Bittersweet Cocoa"
+   ],
+   "score": 86.6,
+   "arrival": null,
+   "price_per_lb": 8.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-liquid-amber-espresso-blend-2655",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Moka Kadir Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Bittersweet Cocoa",
+    "Rustic Sweetness",
+    "Dried Fruit",
+    "Classic Balance"
+   ],
+   "score": 88.2,
+   "arrival": null,
+   "price_per_lb": 9.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-moka-kadir-blend-4463",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s New Classic Espresso",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Various Process Methods",
+   "tasting_notes": [
+    "Classic Balance",
+    "Opaque Body",
+    "Chocolate Almond",
+    "Chocolate Orange"
+   ],
+   "score": 88.7,
+   "arrival": null,
+   "price_per_lb": 8.95,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-new-classic-espresso-2933",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Polar Expresso Holiday Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Various Process Methods",
+   "tasting_notes": [
+    "Chocolate Orange",
+    "Berry-toned",
+    "Creamy Texture",
+    "Balanced Bittersweets"
+   ],
+   "score": 90.6,
+   "arrival": null,
+   "price_per_lb": 9.4,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-polar-expresso-holiday-blend-7421",
+   "url_verified": false
+  },
+  {
+   "lot": "Sweet Maria&#39;s Strange Beasts Espresso Blend",
+   "roaster": "Coffee Shrub",
+   "origin": null,
+   "process": "Various Process Methods",
+   "tasting_notes": [
+    "Balanced Bittersweets",
+    "Baked Goods",
+    "Molasses",
+    "Syrupy Sweet"
+   ],
+   "score": 87.5,
+   "arrival": null,
+   "price_per_lb": 8.65,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/sweet-marias-strange-beasts-espresso-blend-8701",
+   "url_verified": false
+  },
+  {
+   "lot": "Tanzania Mbozi Mbewe Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Tanzania",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Syrupy Sweet",
+    "Honey",
+    "Lemon Tea",
+    "Blackstrap Molasses"
+   ],
+   "score": 88.2,
+   "arrival": "Apr 2026",
+   "price_per_lb": 8.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/tanzania-mbozi-mbewe-peaberry-8624",
+   "url_verified": false
+  },
+  {
+   "lot": "Uganda Dry Process Bugoye Muramba",
+   "roaster": "Coffee Shrub",
+   "origin": "Uganda",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Blackstrap Molasses",
+    "Dried Prune",
+    "Rustic Cocoa",
+    "Toffee"
+   ],
+   "score": 87.8,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/uganda-dry-process-bugoye-muramba-8711",
+   "url_verified": false
+  },
+  {
+   "lot": "Uganda Kapchorwa Kabeywa",
+   "roaster": "Coffee Shrub",
+   "origin": "Uganda",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Toffee",
+    "Ripe Lemon",
+    "Structured Flavors",
+    "Dark Cocoa"
+   ],
+   "score": 88.0,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/uganda-kapchorwa-kabeywa-8712",
+   "url_verified": false
+  },
+  {
+   "lot": "Uganda Yellow Honey Kabeywa",
+   "roaster": "Coffee Shrub",
+   "origin": "Uganda",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Dark Cocoa",
+    "Molasses",
+    "Corn Silk Tea",
+    "Rustic Sweetness"
+   ],
+   "score": 86.7,
+   "arrival": "Jul 2026",
+   "price_per_lb": 8.15,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/uganda-yellow-honey-kabeywa-8714",
+   "url_verified": false
+  },
+  {
+   "lot": "Yemen Khulani Amer",
+   "roaster": "Coffee Shrub",
+   "origin": "Yemen",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Rustic Sweetness",
+    "Freeze Dried Fruit",
+    "Earthy Aroma",
+    "Baking Spice"
+   ],
+   "score": 87.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 12.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/yemen-khulani-amer-8733",
+   "url_verified": false
+  },
+  {
+   "lot": "Yemen Mokha Haimi",
+   "roaster": "Coffee Shrub",
+   "origin": "Yemen",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Baking Spice",
+    "Bittersweet",
+    "Earth Tones"
+   ],
+   "score": 88.3,
+   "arrival": "Aug 2026",
+   "price_per_lb": 12.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/yemen-mokha-haimi-8735",
+   "url_verified": false
+  },
+  {
+   "lot": "Yemen Mokha Hajjah",
+   "roaster": "Coffee Shrub",
+   "origin": "Yemen",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Caramel",
+    "Rye Bread",
+    "Pungent Cocoa",
+    "Earth-toned"
+   ],
+   "score": 87.2,
+   "arrival": "Aug 2026",
+   "price_per_lb": 12.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/yemen-mokha-hajjah-8734",
+   "url_verified": false
+  },
+  {
+   "lot": "Yemen Mokha Sanani",
+   "roaster": "Coffee Shrub",
+   "origin": "Yemen",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Earth-toned",
+    "Bittersweet",
+    "Thick Body"
+   ],
+   "score": 87.8,
+   "arrival": "Aug 2026",
+   "price_per_lb": 12.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/yemen-mokha-sanani-8736",
+   "url_verified": false
+  },
+  {
+   "lot": "96B Champagne Yeast Fermented Excelsa Natural",
+   "roaster": "Crop to Cup",
+   "origin": "Philippines",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.38,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/96b-champagne-yeast-fermented-excelsa-natural/",
+   "sku": "INV05388",
+   "url_verified": false
+  },
+  {
+   "lot": "96B Liberica Project, Liberica Anaerobic Natural (60 KG)",
+   "roaster": "Crop to Cup",
+   "origin": "Philippines",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 13.5,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/96b-hoang-luan-liberica-anaerobic-natural-30-kg-tariff-eligible-est-0-73usd-lb-tariff-not-applied/",
+   "sku": "INV04215",
+   "url_verified": false
+  },
+  {
+   "lot": "96B Liberica Project, Liberica Black Honey (30 KG)",
+   "roaster": "Crop to Cup",
+   "origin": "Philippines",
+   "process": "Honey",
+   "tasting_notes": [],
+   "price_per_lb": 14.06,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/96b-hoang-luan-liberica-black-honey-20-kg-tariff-eligible-est-0-73usd-lb-tariff-not-applied/",
+   "sku": "INV04216",
+   "url_verified": false
+  },
+  {
+   "lot": "AA Gondo Factory, Lot 11",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.54,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aa-gondo-factory-lot-11/",
+   "sku": "INV01753",
+   "url_verified": false
+  },
+  {
+   "lot": "AA Kagumoini, Lot 16",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.36,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aa-kagumoini-lot-16/",
+   "sku": "INV01756",
+   "url_verified": false
+  },
+  {
+   "lot": "AA Malaki Estate, Lot 12",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.86,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aa-malaki-estate-lot-12/",
+   "sku": "INV01766",
+   "url_verified": false
+  },
+  {
+   "lot": "AA Malaki Estate, Lot 19",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.75,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aa-malaki-estate-lot-19/",
+   "sku": "INV01765",
+   "url_verified": false
+  },
+  {
+   "lot": "AA New Ngariama 2021",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.68,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aa-new-ngariama-2021/",
+   "sku": "INV01751",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative 2022",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.01,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-2022/",
+   "sku": "INV01786",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative 2022 B",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.02,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-2022-b/",
+   "sku": "INV01925",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative Cluster Groups, Washed A",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.59,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-cluster-groups-washed-a/",
+   "sku": "INV03202",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative Cluster Groups, Washed B",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.6,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-cluster-groups-washed-b/",
+   "sku": "INV03429",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative, Kesevaka Cluster, Washed",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 3.15,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-kesevaka-cluster-washed/",
+   "sku": "INV02747",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative, Sakasaka Cluster, Washed",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.4,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-sakasaka-cluster-washed/",
+   "sku": "INV02746",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Cooperative, Washed",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 3.33,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-cooperative-washed/",
+   "sku": "INV02460",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Highlands Select, Washed Lot 5",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.26,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-highlands-select-washed-lot-5/",
+   "sku": "INV03206",
+   "url_verified": false
+  },
+  {
+   "lot": "AAK Highlands Select, Washed, Lot 4",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.37,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aak-highlands-select-washed-lot-4/",
+   "sku": "INV03205",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Giakanja, Lot 13",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.34,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-giakanja-lot-13/",
+   "sku": "INV01768",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Githongo 2021",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.73,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-githongo-2021/",
+   "sku": "INV01749",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Gondo Factory, Lot 11",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.4,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-gondo-factory-lot-11/",
+   "sku": "INV01755",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Kagumoini, Lot 16",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.64,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-kagumoini-lot-16/",
+   "sku": "INV01757",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Kahunyo 2021",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.62,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-kahunyo-2021/",
+   "sku": "INV01752",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Kanake, week 14",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.51,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-kanake-week-14/",
+   "sku": "INV01748",
+   "url_verified": false
+  },
+  {
+   "lot": "AB Malaki Estate, Lot 19",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.33,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ab-malaki-estate-lot-19/",
+   "sku": "INV01764",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulrherman Ababulgu, Agaro, Washed, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.28,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulrherman-ababulgu-agaro-washed-g1/",
+   "sku": "INV02778",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulrherman Ababulgu, Washed, Lot 02, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.13,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulrherman-ababulgu-washed-lot-02-g1/",
+   "sku": "INV03642",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulrherman Ababulgu, Washed, Lot 03, G2",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.82,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulrherman-ababulgu-washed-lot-03-g2/",
+   "sku": "INV03713",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif Kossa Geshe Avocado G2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 4.75,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-avocado-g2-org/",
+   "sku": "INV03702",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif Kossa Geshe Botto G2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 4.75,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-botto-g2-org/",
+   "sku": "INV03701",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif Kossa Geshe Outgrowers G2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 4.3,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-outgrowers-g2-org/",
+   "sku": "INV03700",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Estate, G2, Organic Natural Lot 2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 4.69,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-estate-g2-natural-lot-2-org/",
+   "sku": "INV02993",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Estate, Limu Kossa, Organic Natural, Bag Ferment, Grade 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.18,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-estate-limu-kossa-natural-bag-ferment-grade-1-org/",
+   "sku": "INV01980",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Estate, Limu Kossa, Organic Natural, Grade 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.44,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-estate-limu-kossa-natural-grade-1-org/",
+   "sku": "INV01991",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Estate, Limu Kossa, Organic Natural, Pyramid Dried, Grade 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.18,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-estate-limu-kossa-natural-dried-to-30-on-raised-bed-pile-dried-to-11-grade-1-org/",
+   "sku": "INV01979",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Estate, Limu Kossa, Organic Natural, Special Process, Grade 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.0,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-estate-limu-kossa-natural-special-process-grade-1-org/",
+   "sku": "INV02389",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Estate, Limu Kossa, Organic Natural, Special Process, Grade 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.0,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-estate-limu-kossa-natural-special-process-grade-1-org-2/",
+   "sku": "INV02665",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe Outgrowers, Natural, G2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 3.95,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-outgrowers-natural-g2-org/",
+   "sku": "INV03153",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe, Anaerobic Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.3,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-anaerobic-natural-g1-org/",
+   "sku": "INV02781",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.5,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-natural-g1-org/",
+   "sku": "INV02780",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe, Variety Separation 74112, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.43,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-variety-separation-74112-natural-g1-org/",
+   "sku": "INV02785",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe, Variety Separation 74140, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.43,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-variety-separation-74140-natural-g1-org/",
+   "sku": "INV02784",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdulwahid Sherif, Kossa Geshe, Variety Separation 74165, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.43,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdulwahid-sherif-kossa-geshe-variety-separation-74165-natural-g1-org/",
+   "sku": "INV02783",
+   "url_verified": false
+  },
+  {
+   "lot": "Abdurezak Mohamadami, Gera, Washed, G2",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.96,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abdurezak-mohamadami-gera-washed-g2/",
+   "sku": "INV04920",
+   "url_verified": false
+  },
+  {
+   "lot": "Abo Hussein, Agaro, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.72,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abo-hussein-agaro-natural-g1-org/",
+   "sku": "INV02777",
+   "url_verified": false
+  },
+  {
+   "lot": "Abo Hussein, Agaro, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Kenya",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.32,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/abo-hussein-agaro-natural-g1/",
+   "sku": "INV05143",
+   "url_verified": false
+  },
+  {
+   "lot": "Admasu Arago, Shantawane, Natural",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.72,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/admasu-arago-shantawane-natural/",
+   "sku": "INV02859",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Bekele Belacho, Bombe, Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Honey",
+   "tasting_notes": [],
+   "price_per_lb": 11.05,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afcti-bekele-belacho-bombe-honey-g1/",
+   "sku": "INV02949",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Bekele Kachara, Murago, Natural, G1, Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 9.03,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afden-bekele-kachara-murago-natural-g1-lot-1/",
+   "sku": "INV02935",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Bekele Yutute, Murago, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 9.03,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afcti-bekele-yutute-karamo-natural-g1/",
+   "sku": "INV02950",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Mate Matiwos Lot 2, Keramo, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 9.14,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afden-mate-matiwos-lot-1-karamo-natural-g1/",
+   "sku": "INV02939",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Mate Matiwos, Keramo, Black Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 11.05,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/mate-matiwos-karamo-black-honey-g1/",
+   "sku": "INV02994",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Mate Matiwos, White Honey, Washed, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 10.81,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afden-mate-matiwos-karamo-washed-g1/",
+   "sku": "INV02942",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Nguisse Nare, Kokose, Anaerobic Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 10.49,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afcti-nguisse-nare-kokose-anaerobic-natural-g1/",
+   "sku": "INV02951",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Nguisse Nare, Murago, Natural, G1 Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 9.03,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afcti-nguisse-nare-murago-natural-g1-lot-1/",
+   "sku": "INV02952",
+   "url_verified": false
+  },
+  {
+   "lot": "AFCTI Tuke Yute, Sidama Keramo, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 9.03,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afcti-tuke-yute-sidama-keramo-natural-g1/",
+   "sku": "INV02957",
+   "url_verified": false
+  },
+  {
+   "lot": "AFDEN Tuke Yute, Sidama Keramo, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 8.63,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afden-tuke-yute-sidama-keramo-natural-g1/",
+   "sku": "INV02940",
+   "url_verified": false
+  },
+  {
+   "lot": "AFYOW Bekele Kachara, Murago, Anaerobic Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 10.25,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afyow-bekele-kachara-murago-anaerobic-natural-g1/",
+   "sku": "INV02933",
+   "url_verified": false
+  },
+  {
+   "lot": "AFYOW Bekele Kachara, Murago, Natural, G1, Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 8.79,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afyow-bekele-yutute-karamo-natural-g1/",
+   "sku": "INV02932",
+   "url_verified": false
+  },
+  {
+   "lot": "AFYOW Mate Matiwos, Karamo, Anaerobic, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 10.25,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afyow-mate-matiwos-karamo-anaerobic-g1/",
+   "sku": "INV02934",
+   "url_verified": false
+  },
+  {
+   "lot": "Al Shariqa Farmers",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 15.73,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/al-shariqa-farmers/",
+   "sku": "INV01820",
+   "url_verified": false
+  },
+  {
+   "lot": "Alex Perez, Caturra Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.43,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/alex-perez-caturra-washed/",
+   "sku": "INV05588",
+   "url_verified": false
+  },
+  {
+   "lot": "Ali Sultan Lot 13",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 15.74,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ali-sultan/",
+   "sku": "INV01821",
+   "url_verified": false
+  },
+  {
+   "lot": "Alo Coffee, Bombe Site Outgrowers, Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/alo-coffee-bombe-site-outgrowers-honey-g1/",
+   "sku": "INV03742",
+   "url_verified": false
+  },
+  {
+   "lot": "Alo Coffee, Bona Zuria Site Outgrowers, Red Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.42,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/alo-coffee-bona-zuria-site-outgrowers-red-honey-g1/",
+   "sku": "INV03743",
+   "url_verified": false
+  },
+  {
+   "lot": "Alo Coffee, Bona Zuria Site Outgrowers, Washed, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.83,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/alo-coffee-bona-zuria-site-outgrowers-washed-g1/",
+   "sku": "INV03744",
+   "url_verified": false
+  },
+  {
+   "lot": "Ana Cecillia Veloso, Sao Luiz Estate Red Catuai Natural 1499",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.27,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ana-cecillia-veloso-sao-luiz-estate-red-catuai-natural-1499/",
+   "sku": "INV03466",
+   "url_verified": false
+  },
+  {
+   "lot": "Andrea Arriaga Bonilla, Totutla Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.98,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/andrea-arriaga-bonilla-totutla-washed/",
+   "sku": "INV04257",
+   "url_verified": false
+  },
+  {
+   "lot": "Antonio Zaragoza, Totutla Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.91,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/antonio-zaragoza-totutla-washed-tariff-eligible-est-0-41usd-lb-tariff-not-applied/",
+   "sku": "INV04310",
+   "url_verified": false
+  },
+  {
+   "lot": "Antony Vasquez Don Vasquez Marshell Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.82,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/antony-vasquez-don-vasquez-marshell-washed-m1071-tariff-eligible-est-0-61usd-lb-tariff-not-applied/",
+   "sku": "INV04455",
+   "url_verified": false
+  },
+  {
+   "lot": "Antony Vasquez Don Vasquez Marshell Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.19,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/antony-vasquez-don-vasquez-marshell-washed-m1071-tariff-eligible-0-72usd-lb-tariff-not-applied-tariff-eligible-est-0-61usd-lb-tariff-not-applied/",
+   "sku": "INV04466",
+   "url_verified": false
+  },
+  {
+   "lot": "APG Totutla Cherry Project, Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.28,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/apg-totutla-cherry-project-lot-1/",
+   "sku": "INV04251",
+   "url_verified": false
+  },
+  {
+   "lot": "Arcenio Hernandez, Finca los Pinos",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 3.23,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/arcenio-hernandez-finca-los-pinos/",
+   "sku": "INV01534",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle Merly Leon G1 Washed Organic, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.37,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-merly-leon-g1-washed-organic-org-tariff-eligible-est-0-42usd-lb-tariff-not-applied/",
+   "sku": "INV04590",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle Norbil Perez G1 Washed Organic, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.38,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-norbil-perez-g1-washed-organic-org-tariff-eligible-est-0-42usd-lb-tariff-not-applied/",
+   "sku": "INV04591",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle Rogel Segovia G1 Typica Washed",
+   "roaster": "Crop to Cup",
+   "origin": "Nicaragua",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.39,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-rogel-segovia-g1-typica-washed-tariff-eligible-est-0-42usd-lb-tariff-not-applied/",
+   "sku": "INV04589",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Arnulfo Cueva G1 Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.78,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-arnulfo-cueva-g1-washed-tariff-eligible-est-0-66usd-lb-tariff-not-applied/",
+   "sku": "INV04414",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Elmer Pérez Caturra Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.88,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-elmer-perez-caturra-washed-tariff-eligible-est-0-56usd-lb-tariff-not-applied/",
+   "sku": "INV04663",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Gran Amoju Cutervo Organic Washed Decaf, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.78,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-cutervo-organic-washed-decaf-org/",
+   "sku": "INV04459",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Gran Amoju Organic Decaf, Lot 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.9,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-organic-decaf-lot-1-org/",
+   "sku": "INV05223",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Gran Amoju Organic Decaf, Lot 2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.72,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-organic-decaf-lot-2-org/",
+   "sku": "INV05224",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Gran Amoju Washed Lot 4, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.26,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-washed-lot-4-org/",
+   "sku": "INV05226",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, José Guevara Typica Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.7,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-jose-guevara-typica-washed-tariff-eligible-est-0-56usd-lb-tariff-not-applied/",
+   "sku": "INV04664",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, José Guevara Typica Washed, EU",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.09,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-jose-guevara-typica-washed-eu/",
+   "sku": "INV04725",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Juan Cruz G1 Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.57,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-juan-cruz-g1-washed-tariff-eligible-est-0-69usd-lb-tariff-not-applied/",
+   "sku": "INV04415",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Mestiza Callayuc Washed Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.83,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-mestiza-callayuc-washed-lot-1-tariff-eligible-est-0-39usd-lb-tariff-not-applied/",
+   "sku": "INV04411",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, Mestiza Callayuc Washed Lot 1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.51,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-mestiza-callayuc-washed-lot-1-org/",
+   "sku": "INV05219",
+   "url_verified": false
+  },
+  {
+   "lot": "Aromas del Valle, San Ignacio Washed, Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.58,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-san-ignacio-washed-lot-1/",
+   "sku": "INV04410",
+   "url_verified": false
+  },
+  {
+   "lot": "Arsi Mewa G1, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 4.56,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/arsi-mewa-g1-org/",
+   "sku": "INV01734",
+   "url_verified": false
+  },
+  {
+   "lot": "Arsi Refisa G2-, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Fully Washed",
+   "tasting_notes": [],
+   "price_per_lb": 3.07,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/arsi-refisa-g2-org/",
+   "sku": "INV01509",
+   "url_verified": false
+  },
+  {
+   "lot": "Arsi Refissa Ibrahim G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 4.44,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/arsi-refissa-ibrahim-g1/",
+   "sku": "INV01728",
+   "url_verified": false
+  },
+  {
+   "lot": "Artemira S240064",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.47,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/artemira-s240064/",
+   "sku": "INV03405",
+   "url_verified": false
+  },
+  {
+   "lot": "Artemira S240066",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.01,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/artemira-s240066/",
+   "sku": "INV03407",
+   "url_verified": false
+  },
+  {
+   "lot": "Artemira S240069",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.59,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/artemira-s240069/",
+   "sku": "INV03410",
+   "url_verified": false
+  },
+  {
+   "lot": "Artemira S240070",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.16,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/artemira-s240070/",
+   "sku": "INV03411",
+   "url_verified": false
+  },
+  {
+   "lot": "Ashinafi Gitana, Idedo, Washed, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.93,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ashinafi-gitana-idedo-washed-g1/",
+   "sku": "INV02779",
+   "url_verified": false
+  },
+  {
+   "lot": "Asmamaw Woldermariam, Bita Site, Washed, G2",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.53,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/asmamaw-woldermariam-bita-site-washed-g2/",
+   "sku": "INV03715",
+   "url_verified": false
+  },
+  {
+   "lot": "Asmamo Weldemariem, Keffa, Washed, Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.94,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/asmamo-weldemariem-keffa-washed-grade-1/",
+   "sku": "INV02774",
+   "url_verified": false
+  },
+  {
+   "lot": "Ayele Tulu, Bona Zuria Outgrowers, Anaerobic, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.67,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ayele-tulu-anaerobic-g1/",
+   "sku": "INV03644",
+   "url_verified": false
+  },
+  {
+   "lot": "Ayele Tulu, Bona Zuria Outgrowers, Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Honey",
+   "tasting_notes": [],
+   "price_per_lb": 7.67,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ayele-tulu-honey-g1/",
+   "sku": "INV03643",
+   "url_verified": false
+  },
+  {
+   "lot": "Ayele Tulu, Bona Zuria Outgrowers, Washed, G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 6.84,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ayele-tulu-washed-g1/",
+   "sku": "INV03645",
+   "url_verified": false
+  },
+  {
+   "lot": "Ayele Tulu, Buno Zura, Washed , G1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 5.59,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/ayele-tulu-buno-zura-washed-g1/",
+   "sku": "INV02825",
+   "url_verified": false
+  },
+  {
+   "lot": "Bani Ahlas Farmers Lot 32",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 11.66,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bani-ahlas-farmers/",
+   "sku": "INV01817",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Badigalo, Natural, G1 (30KG)",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 16.63,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-badigalo-natural-g1-30kg/",
+   "sku": "INV05297",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Bombe Duwancho Outgrowers, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.7,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-bombe-duwancho-outgrowers-natural-g1-tariff-eligible-0-64usd-lb-tariff-not-applied/",
+   "sku": "INV03891",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Bombe, Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.74,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-bombe-honey-g1/",
+   "sku": "INV02791",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Bombe, Natural, Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.53,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-bombe-natural-grade-1/",
+   "sku": "INV02092",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Bombe, Washed Experimental Yeast, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.74,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-bombe-washed-experimental-yeast-g1/",
+   "sku": "INV02790",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Gonjobe, Natural, G1 (30KG)",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 16.63,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-gonjobe-natural-g1-30kg/",
+   "sku": "INV05298",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Kokose Outgrowers, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.2,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-kokose-lots-1-and-2-natural-g1/",
+   "sku": "INV03590",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Kokose, Anaerobic Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.2,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-lots-tbd-anaerobic-natural-g1/",
+   "sku": "INV03593",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Kokose, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.5,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-kokose-natural-g1/",
+   "sku": "INV02792",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Kokose, Natural, Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.79,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-kokose-natural-grade-1/",
+   "sku": "INV02221",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Kokose, Natural, Grade 1 B",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.79,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-kokose-natural-grade-1-b/",
+   "sku": "INV02440",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Murago Outgrowers, Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 11.06,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-murago-lots-tbd-natural-g1/",
+   "sku": "INV03589",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Murago, White Honey Washed, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Honey",
+   "tasting_notes": [],
+   "price_per_lb": 8.81,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-murago-white-honey-washed-g1/",
+   "sku": "INV03591",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Shantawane Outgrowers, Lots TBD, Natural, G2",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.63,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-shantawane-lots-tbd-natural-g2/",
+   "sku": "INV03592",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Sidama Bensa, Natural G2, Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.72,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-sidama-bensa-natural-g2/",
+   "sku": "INV02841",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Sidama Bensa, Natural G2, Lot 2",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.72,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-sidama-bensa-natural-g2-lot-2/",
+   "sku": "INV02868",
+   "url_verified": false
+  },
+  {
+   "lot": "Basha Bekele, Sidama, Bombe, Natural G1, Lot 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 6.5,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/basha-bekele-sidama-bombe-natural-g1-lot-1/",
+   "sku": "INV02842",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Anaerobic Natural, Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Anerobic Natural",
+   "tasting_notes": [],
+   "price_per_lb": 8.26,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-anaerobic-natural-grade-1/",
+   "sku": "INV02098",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Honey, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.84,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-honey-g1/",
+   "sku": "INV02794",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Lactic Natural, Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 8.26,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-lactic-natural-grade-1/",
+   "sku": "INV02097",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Natural (Shade Drying Exp), Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.41,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-natural-shade-drying-exp-grade-1/",
+   "sku": "INV02100",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Washed Experimental Yeast, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.74,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-washed-experimental-yeast-g1/",
+   "sku": "INV02793",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Kokose, Anaerobic Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.63,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-kokose-anaerobic-natural-g1/",
+   "sku": "INV02795",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Kokose, Natural, G1, Lot 01",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.72,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-kokose-natural-g1-lot-01/",
+   "sku": "INV02824",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Kokose, Natural, G1, Lot 01",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.97,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/afden-bekele-belacho-kokose-natural-g1-lot-01/",
+   "sku": "INV02937",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Kokose, Natural, Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 5.45,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-kokose-natural-grade-1/",
+   "sku": "INV02099",
+   "url_verified": false
+  }
+ ]
+}
