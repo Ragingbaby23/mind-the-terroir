@@ -2,8 +2,8 @@
  "meta": {
   "project": "Mind the Terroir",
   "version": "0.3",
-  "updated_at": "2026-11-12T02:34:15+00:00",
-  "note": "beans per roaster: Archers 194, Aviary 1, Prodigal 12, Sey 10, Tanat 2"
+  "updated_at": "2026-11-12T09:13:05+00:00",
+  "note": "beans per roaster: Archers 196, Aviary 1, Prodigal 12, Sey 10, Tanat 2"
  },
  "roasters": [
   {
@@ -2671,6 +2671,63 @@
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Chevas0712Box-01.png?v=1755182102"
   },
   {
+   "id": "archers-panama-cuatro-caminos-catuai-rojo",
+   "roaster": "Archers",
+   "name": "Cuatro Caminos Catuai Rojo Natural",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 45.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-cuatro-caminos-catuai-rojo",
+   "url_verified": true,
+   "last_updated": "2026-11-12",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminos-CatuaiRojoBlackBag.png?v=1794466350"
+  },
+  {
+   "id": "archers-panama-cuatro-caminos-geisha-horqueta-2",
+   "roaster": "Archers",
+   "name": "Cuatro Caminos Geisha Natural H2",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 130.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-cuatro-caminos-geisha-horqueta-2",
+   "url_verified": true,
+   "last_updated": "2026-11-12",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminos-Geisha-Horqueta2Box.png?v=1794467466"
+  },
+  {
+   "id": "archers-panama-cuatro-caminos-geisha-jaramillo",
+   "roaster": "Archers",
+   "name": "Cuatro Caminos Geisha Natural Jaramillo",
+   "origin": "Panama",
+   "process_variety": "Natural",
+   "tasting_notes": [],
+   "price": {
+    "amount": 130.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/panama-cuatro-caminos-geisha-jaramillo",
+   "url_verified": true,
+   "last_updated": "2026-11-12",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminos-Geisha-JaramilloBox.png?v=1794465594"
+  },
+  {
    "id": "archers-panama-cuatro-caminos-h2-geisha-natural",
    "roaster": "Archers",
    "name": "Cuatro Caminos H2 Geisha Natural",
@@ -3942,25 +3999,6 @@
    "url_verified": true,
    "last_updated": "2026-11-12",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HiUCoffee-LosLajonesGW-lot8ABBox-01.png?v=1772960094"
-  },
-  {
-   "id": "archers-panama-lost-origin-don-benjie-geisha-yeast-inoculation",
-   "roaster": "Archers",
-   "name": "Lost Origin Don Benjie Geisha  Yeast Inoculation",
-   "origin": "Panama",
-   "process_variety": "",
-   "tasting_notes": [],
-   "price": {
-    "amount": 173.0,
-    "currency": "AED",
-    "from": true
-   },
-   "availability": "available",
-   "is_new": false,
-   "url": "https://archerscoffee.com/products/panama-lost-origin-don-benjie-geisha-yeast-inoculation",
-   "url_verified": true,
-   "last_updated": "2026-11-12",
-   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LostOriginDonBenjieBox-01.png?v=1752563537"
   },
   {
    "id": "archers-panama-lost-origin-la-estrella-yeast-inoculation-for-release",
