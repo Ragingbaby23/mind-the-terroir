@@ -2,8 +2,8 @@
  "meta": {
   "project": "Mind the Terroir",
   "version": "0.3",
-  "updated_at": "2026-11-12T09:13:05+00:00",
-  "note": "beans per roaster: Archers 196, Aviary 1, Prodigal 12, Sey 10, Tanat 2"
+  "updated_at": "2026-11-12T19:30:43+00:00",
+  "note": "beans per roaster: Archers 196, Aviary 1, Prodigal 12, Sey 9, Tanat 2"
  },
  "roasters": [
   {
@@ -456,29 +456,6 @@
    "url_verified": true,
    "last_updated": "2026-11-12",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026Chelbessa_2NdSelection-Ethiopia.png?v=1793843452"
-  },
-  {
-   "id": "sey-2026-sike-bokasso-white-honey-ethiopia",
-   "roaster": "Sey",
-   "name": "2026 Sike Bokasso, White Honey",
-   "origin": "Ethiopia",
-   "process_variety": "Honey",
-   "tasting_notes": [
-    "melon",
-    "candied peach",
-    "star fruit"
-   ],
-   "price": {
-    "amount": 25.5,
-    "currency": "USD",
-    "from": true
-   },
-   "availability": "available",
-   "is_new": true,
-   "url": "https://www.seycoffee.com/products/2026-sike-bokasso-white-honey-ethiopia",
-   "url_verified": true,
-   "last_updated": "2026-11-12",
-   "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026SikeBokasso-Ethiopia_462d645b-48cd-4b0d-8ac1-3cdfdefaf348.png?v=1793842906"
   },
   {
    "id": "sey-2026-elpidio-tabares-la-soledad-colombia",
