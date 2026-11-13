@@ -2,8 +2,8 @@
  "meta": {
   "project": "Mind the Terroir",
   "version": "0.3",
-  "updated_at": "2026-11-12T19:30:43+00:00",
-  "note": "beans per roaster: Archers 196, Aviary 1, Prodigal 12, Sey 9, Tanat 2"
+  "updated_at": "2026-11-13T19:30:44+00:00",
+  "note": "beans per roaster: Archers 198, Aviary 1, Prodigal 12, Sey 9, Tanat 2"
  },
  "roasters": [
   {
@@ -408,7 +408,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-tamiru-tadesse-tesema-safo-washed-ethiopia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026TamiruTadesseTesema_Safo_Washed-Ethiopia.png?v=1794436821"
   },
   {
@@ -431,7 +431,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-harold-ortiz-ceron-finca-la-cava-chiroso-colombia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026HaroldOrtizCeron_FincaLaCava_Chiroso-Colombia.png?v=1794436537"
   },
   {
@@ -454,7 +454,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-chelbessa-2nd-selection-ethiopia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026Chelbessa_2NdSelection-Ethiopia.png?v=1793843452"
   },
   {
@@ -477,7 +477,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-elpidio-tabares-la-soledad-colombia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026ElpidioTabares_LaSoledad-Colombia.png?v=1793842748"
   },
   {
@@ -500,7 +500,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-eulises-fabian-quilindo-el-higueron-colombia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026EulisesFabianQuilindo_ElHigueron-Colombia.png?v=1793842472"
   },
   {
@@ -523,7 +523,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-kanzu-lot-16-rwanda",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026Kanzu_Lot_16-Rwanda.png?v=1793842206"
   },
   {
@@ -546,7 +546,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-luz-stella-rivera-el-oregon-colombia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026LuzStellaRivera_ElOregon-Colombia.png?v=1792619957"
   },
   {
@@ -569,7 +569,7 @@
    "is_new": true,
    "url": "https://www.seycoffee.com/products/2026-harold-ortiz-ceron-finca-la-cava-pink-bourbon-colombia",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/files/2026HaroldOrtizCeron_FincaLaCava_PinkBourbon-Colombia.png?v=1794436300"
   },
   {
@@ -592,7 +592,7 @@
    "is_new": false,
    "url": "https://www.seycoffee.com/products/huila-decaffeinated",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0002/6352/0281/products/Huila.png?v=1656557473"
   },
   {
@@ -611,7 +611,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/benchmark",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Blends-Benchmark.png?v=1682934294"
   },
   {
@@ -630,7 +630,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/best-of-panama-santamaria-coffee-estate-mr-luis-gn-12",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BestOfPanama-SantamariaGN-12UPBox-01_8008053a-076e-4421-a621-18cf673aa038.png?v=1764400473"
   },
   {
@@ -649,7 +649,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/bittersweet",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Bittersweet.png?v=1683704863"
   },
   {
@@ -668,7 +668,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/brazil-fazenda-ip-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-BrazilFazendaIP.png?v=1715758626"
   },
   {
@@ -687,7 +687,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/brazil-fazenda-um-supreme-pulp-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BrazilFazendaUmBlackBag.png?v=1755269721"
   },
   {
@@ -706,7 +706,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/brazil-santa-ines",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-BrazilSantaInes.png?v=1715758890"
   },
   {
@@ -725,7 +725,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/brazil-santuario-sul-sudan-rume-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Brazil-SantuarioSulSundanRumeWashedBag.png?v=1765550277"
   },
   {
@@ -744,7 +744,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-aroma-nativo-pink-bouron-efm-lot-1289",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ColombiaAromaNativoEFMLot1289BlackBag.png?v=1779970741"
   },
   {
@@ -763,7 +763,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-aroma-nativo-bourbon-aji-hydro-honey-lot-396",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Colombia_Aji_HH_Lot_396_Black_Bag.png?v=1779967131"
   },
   {
@@ -782,7 +782,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-cafe-granja-la-esperanza-cerro-azul-geisha-hybrid-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CGLE_Cerro_Azul_Hybrid_Washed_Box_1.png?v=1778330399"
   },
   {
@@ -801,7 +801,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-caturra-chiroso-finca-el-paraiso",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Caturra-Chiroso-Finca-El-Paraiso.png?v=1684499802"
   },
   {
@@ -820,7 +820,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-clearpath-coffee-finca-capilla-de-rosario-lychee-cf",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Clearpath-LycheeBlackbag_1.png?v=1783517078"
   },
   {
@@ -839,7 +839,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-condor-decaf",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ColombiaCondorDecaf.png?v=1715671033"
   },
   {
@@ -858,7 +858,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-anaya-watermelon-cf",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CotaCoffee-Co-fermentWatermelonBlackBag.png?v=1787988014"
   },
   {
@@ -877,7 +877,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-kodu-coconut-cf",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Cota_Coffee_-_Co-ferment_Coconut_Black_Bag.png?v=1784017635"
   },
   {
@@ -896,7 +896,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-rio-negro-pink-bourbon-zest-life",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Cota_Coffee_-_Pink_bourbon_Zest_Life_Black_Bag.png?v=1788163500"
   },
   {
@@ -915,7 +915,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-cota-coffee-finca-rio-negro-tropical-popsicle",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CotaCoffee-TropicalPopsicleBlackbag_1.png?v=1783498126"
   },
   {
@@ -934,7 +934,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-finca-el-paraiso-villa-rosita",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Villa_Rosita_Black_Bag_2026.png?v=1771580560"
   },
   {
@@ -953,7 +953,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-finca-el-porvenir-geisha-honey-drd",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ElPorvenir-GeishaHoneyDRDBox.png?v=1782380172"
   },
   {
@@ -972,7 +972,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-finca-el-porvenir-geisha-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/El_Porvenir_-_Geisha_Washed_Box.png?v=1782380588"
   },
   {
@@ -991,7 +991,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-inmaculada-coffee-sudan-rume-signature-lot-t895",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/InmaculadaT895Box-01_b7327496-46c3-425d-ac0d-e66fc4328a9a.png?v=1755332722"
   },
   {
@@ -1010,7 +1010,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-letty-finca-el-paraiso",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Colombia-Finca-El-Paraiso-Letty.png?v=1719815345"
   },
   {
@@ -1029,7 +1029,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-luna-finca-el-paraiso",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Colombia-Finca-El-Paraiso-Luna.png?v=1719815554"
   },
   {
@@ -1048,7 +1048,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-mandela-vieux",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CGLE_Mandela_La_Esperanza_Box.png?v=1728570826"
   },
   {
@@ -1067,7 +1067,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/colombia-nogales-coffee-farm-typica-low-caffeine",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Colombia_Typica_Nogales_Coffee_Farm_Black_Bag.png?v=1767684720"
   },
   {
@@ -1086,7 +1086,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/filter-bundle-d-1",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CompetitionBundle-D.png?v=1773741400"
   },
   {
@@ -1105,7 +1105,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/costa-rica-cafe-rivense-black-honey",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CafeRivenseBlackHoneyBag.png?v=1758026235"
   },
   {
@@ -1124,7 +1124,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/costa-rica-el-jardin-anaerobic",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Artboard_2_1.png?v=1718275452"
   },
   {
@@ -1143,7 +1143,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/costa-rica-hacienda-copey-itadaki-geisha-honey-lot-182",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HaciendaCopey-Honey182Box.png?v=1780126423"
   },
   {
@@ -1162,7 +1162,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/costa-rica-hacienda-copey-itadaki-geisha-washed-lot-177",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_Copey_-_Washed_177_Box.png?v=1780126777"
   },
   {
@@ -1181,7 +1181,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/finca-del-putushio-typica-mejorado-rt",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Del_Putushio_Black_Bag.png?v=1740475857"
   },
   {
@@ -1200,7 +1200,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ecuador-sidra-wave-washed-finca-soledad",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaSoledadSidraWave200g.png?v=1715673410"
   },
   {
@@ -1219,7 +1219,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ecuador-typica-mejorado-wave-natural-finca-soledad",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/TypicaMejorado200g.png?v=1719040185"
   },
   {
@@ -1238,7 +1238,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/el-salvador-finca-el-cerro-pacas-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaelCerroPacasWashedWhiteBag.png?v=1749221445"
   },
   {
@@ -1257,7 +1257,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-mewa-village",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EthiopiaAloMewaVillageWhiteBag.png?v=1758366586"
   },
   {
@@ -1276,7 +1276,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/ethiopia-alo-chilaka-station-natural-anaerobic-cool-dry-archers-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_AloChilakaStationNaturalAnaerobicBox.png?v=1793349315"
   },
   {
@@ -1295,7 +1295,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-dume-station-natural-mini",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_DumeNaturalMiniBox.png?v=1792998463"
   },
   {
@@ -1314,7 +1314,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-rf8-archers-ep-cold-ferment-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_RF8NaturalColdFermentBox-01.png?v=1771407136"
   },
   {
@@ -1333,7 +1333,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-safo-station-washed-zero-mini",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_SafoStationWashedZerominiBox.png?v=1792995945"
   },
   {
@@ -1352,7 +1352,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-alo-coffee-wrf8-archers-ep-cold-ferment-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloVillage_WRF8WashedColdFermentBox-01.png?v=1771408208"
   },
   {
@@ -1371,7 +1371,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-alo-village-archers-lot-1-sfw",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloChilakastationArchersLot1-SFWBox-01.png?v=1771581646"
   },
   {
@@ -1390,7 +1390,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-alo-village-archers-lot-2-dfw",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloChilakastationArchersLot2-DFWBox-01.png?v=1771585298"
   },
   {
@@ -1409,7 +1409,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-alo-village-washed-peaberry",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AloPeaberryWashed-01_c.png?v=1740578867"
   },
   {
@@ -1428,7 +1428,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-banko-chelchele-chelbesa-natural-1",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EDNChelbesa2025WhiteBag.png?v=1754999618"
   },
   {
@@ -1447,7 +1447,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-benti-nenka-guji-hambela",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BentiNenkaBlackBag.png?v=1788418059"
   },
   {
@@ -1466,7 +1466,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-cold-ferment-honey-archers-lot-ep",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/DayeBensaColdFermentHoneyBox_eecaf67b-f87f-4196-9568-291bbb595717.png?v=1775208441"
   },
   {
@@ -1485,7 +1485,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-cold-ferment-hybrid-washed-archers-lot-ep",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/DayeBensaColdFermentHybridWashedBox.png?v=1775542865"
   },
   {
@@ -1504,7 +1504,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-cold-ferment-natural-archers-lot-ep",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/DayeBensaColdFermentNaturalBox.png?v=1775039093"
   },
   {
@@ -1523,7 +1523,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-hamasho-natural-archers-lot-0126",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HamashoNaturalLot0126BlackBag.png?v=1790363058"
   },
   {
@@ -1542,7 +1542,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-korma-kontoma-murago-natural-mini",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/kormaKontomaNaturalMiniBlackBag.png?v=1790333372"
   },
   {
@@ -1561,7 +1561,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-daye-bensa-rumudamo-dfw-archers-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/RumadamoDFW-ArchersLotBlackBAg.png?v=1775543330"
   },
   {
@@ -1580,7 +1580,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elora-station-natural-cold-ferment-archers-ep",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraStation_NaturalColdFermentBox-01.png?v=1765792004"
   },
   {
@@ -1599,7 +1599,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elora-station-washed-cold-ferment-archers-ep",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EthiopiaEltoEloraStationBox-01_aeafa7be-2ccf-4b60-afa1-73567ab3d3a4.png?v=1765790959"
   },
   {
@@ -1618,7 +1618,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-cold-ferment-natural-cf8",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraColdFermentNaturalCF8-DRDBox.png?v=1788849183"
   },
   {
@@ -1637,7 +1637,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-honey-mosto-ferment-drd",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraMostoFerment-DRDBox_74a67d0a-301d-4ac4-bf13-55584664e13f.png?v=1788850467"
   },
   {
@@ -1656,7 +1656,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-honey-cf5",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraRiverFlowHoneyCF5Box-01.png?v=1765627986"
   },
   {
@@ -1675,7 +1675,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-natural-cf8",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraRiverFlowNaturalCF8Box-01.png?v=1765626437"
   },
   {
@@ -1694,7 +1694,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-natural-rf10",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraRiverflowNaturalRF10-DRDBox.png?v=1788848052"
   },
   {
@@ -1713,7 +1713,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-washed-cf10",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraRiverFlowWashedCF10Box-01.png?v=1765610040"
   },
   {
@@ -1732,7 +1732,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-elora-station-river-flow-washed-wrf8",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EloraRiverflowWashedWRF8-DRDBox.png?v=1788849528"
   },
   {
@@ -1751,7 +1751,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-elora-station-classic-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_EloraClassicWashedBlackBag_c7da58e6-2472-4838-8dc3-f10ef74426e0.png?v=1765696254"
   },
   {
@@ -1770,7 +1770,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-kokose-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EltoKokoseLot2BlackBag.png?v=1789996861"
   },
   {
@@ -1789,7 +1789,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-sama-honey",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_SamaHoneyBlackBag.png?v=1765630062"
   },
   {
@@ -1808,7 +1808,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-elto-coffee-sama-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elto_SamaWashedBlackBag.png?v=1765628644"
   },
   {
@@ -1827,7 +1827,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-hamasho-village-asefa-dukamo-station-honey-archers-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Honey_89.png?v=1759301676"
   },
   {
@@ -1846,7 +1846,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-hamasho-village-natural-archers-lot-2025",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Natural_89.png?v=1759301676"
   },
   {
@@ -1865,7 +1865,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-hamasho-village-washed-archers-lot-2025",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Washed89.png?v=1759301791"
   },
   {
@@ -1884,7 +1884,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopian-oboleyan-coffee-hambela-benti-nenka-classic-natural-lot-2",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hambella_Benti_Nenka_Natural_Black_Bag.png?v=1787209325"
   },
   {
@@ -1903,7 +1903,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-oboleyan-coffee-hambela-dimtu-haro-highborn-project-classic-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hambela_Dimtu_Haro_-_Highborn_Natural_Black_Bag.png?v=1787209326"
   },
   {
@@ -1922,7 +1922,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-oboleyan-coffee-hambela-dimtu-haro-highborn-project-natural-anaerobic",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HambellaDimtuHaro-HighbornNaturalAnaerobicBox.png?v=1787209344"
   },
   {
@@ -1941,7 +1941,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/ethiopia-rumudamo-anaerobic-mini-archers-lot-0102-26",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/RumudamoNaturalanaerobicminiBox.png?v=1790362095"
   },
   {
@@ -1960,7 +1960,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/filter-bundle-b-non-comp-copy",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FilterBundle-B.png?v=1773742278"
   },
   {
@@ -1979,7 +1979,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/finca-la-pradera-cf-lychee-copy",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaElInjertoMalawiGeishaBlackBag.png?v=1741769807"
   },
   {
@@ -1998,7 +1998,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/guatemala-finca-la-serrania-kimono-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Kimono_natural_black_bag.png?v=1778848739"
   },
   {
@@ -2017,7 +2017,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/guatemala-guatemala-finca-santa-rita",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Guatemala_FInca_Santa_Rita_White_Bag_2.png?v=1772959273"
   },
   {
@@ -2036,7 +2036,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/honduras-finca-cascaritas-lot-19",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HondurasCascaritasLot19.png?v=1721027381"
   },
   {
@@ -2055,7 +2055,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/honduras-finca-mira-flores-lot-22",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HondurasMiraFloresLot22.png?v=1721027384"
   },
   {
@@ -2074,7 +2074,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/indonesia-central-sumatera-bener-kelipah-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/IndonesiaBenerKelipahWhiteBag.png?v=1740407105"
   },
   {
@@ -2093,7 +2093,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/kenya-karimikui-aa",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/karimikuiwhitebag.png?v=1719297403"
   },
   {
@@ -2112,7 +2112,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/kenya-rui-ruiru-aa-natural-anaerobic",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/KenyaRuiruiruBlackBag.png?v=1779178520"
   },
   {
@@ -2131,7 +2131,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/microlot-bundle-c",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MicroLotBundle-C.png?v=1773739765"
   },
   {
@@ -2150,7 +2150,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/milk-based",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilkBasedWhiteBag.png?v=1791372554"
   },
   {
@@ -2169,7 +2169,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-auromar-malla-geisha-washed-peaberry",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaAuromarGWPeaberryBox-01.png?v=1751022113"
   },
   {
@@ -2188,7 +2188,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-mil-cumbres-claus-gn-lot-2702",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbresClausGNLot2702Box-01.png?v=1750946983"
   },
   {
@@ -2207,7 +2207,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-abu-coffee-geisha-washed-lot-2690",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Abucoffee_Abu2690.png?v=1740577786"
   },
   {
@@ -2226,7 +2226,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-abu-coffee-gw-lot-2610",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Abu2610Box-01.png?v=1751187055"
   },
   {
@@ -2245,7 +2245,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-abu-coffee-geisha-washed-lot-3365",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Abu3365box-01_91634088-219f-4cfe-99cb-87ffda3b6db7.png?v=1769608736"
   },
   {
@@ -2264,7 +2264,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-adaura-coffee-finca-lorayne-geisha-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AdauraFincaLorayneGWBox-01.png?v=1751969538"
   },
   {
@@ -2283,7 +2283,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-adaura-coffee-geisha-washed-jer-drd",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Adaura_Finca_Lorayne_Geisha_Washed_Jer_Box.png?v=1779107869"
   },
   {
@@ -2302,7 +2302,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-adaura-coffee-geisha-washed-peaberry",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AdauraFincaLorayneGeishaPeaberryWashedBox.png?v=1776944396"
   },
   {
@@ -2321,7 +2321,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-adaura-coffee-washed-ferment-mosto-2025",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Lorayne_Washed_Ferment_Mosto.png?v=1759844852"
   },
   {
@@ -2340,7 +2340,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-altieri-coffee-alessa-020425",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffee-GN-DFM-ALESSA-020425Box-01_ea0017fc-4f1b-48fb-aba9-357172e9a09f.png?v=1768135532"
   },
   {
@@ -2359,7 +2359,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-altieri-coffee-alessa-190325-cold-dry-ferment",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffee-GN-DFC-ALESSA-190325Box-01.png?v=1768112358"
   },
   {
@@ -2378,7 +2378,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-altieri-coffee-chombi-080425-river-flow-7",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffee-GN-RFF7-CHOMBI-080425Box-01.png?v=1768140650"
   },
   {
@@ -2397,7 +2397,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-ale-241223-gw-altieri-coffee",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltieriCoffeeALE241223GWBox.png?v=1729783220"
   },
   {
@@ -2416,7 +2416,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-auction-lot-finca-sophia-estacion-sfa-09-geisha-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EstacionSFA09.png?v=1774167085"
   },
   {
@@ -2435,7 +2435,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-auction-lot-finca-sophia-estacion-sfa-10-geisha-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EstacionSFA10_6225845f-4cef-4dd1-a642-93f9dd038f9c.png?v=1774167940"
   },
   {
@@ -2454,7 +2454,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-auction-lot-lamastus-family-estate-falda-honey-pa2105",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lamastus_Axis_Of_Elevation_-_Falda_Honey_1800_UP_Box-01.png?v=1765887985"
   },
   {
@@ -2473,7 +2473,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-sakura-geisha-washed-bambito-estate",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/BambitoSakuraBox.png?v=1729784296"
   },
   {
@@ -2492,7 +2492,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-black-moon-farm-geisha-natural-anaerobic-lot-15",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Blackmoon-GeishaAnaerobicNaturalLot15Box-01.png?v=1768910330"
   },
   {
@@ -2511,7 +2511,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-black-moon-farm-geisha-washed-lot-26",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Blackmoon-GeishaWashedLot26Box-01.png?v=1768909480"
   },
   {
@@ -2530,7 +2530,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-carmen-estate-geisha-washed-lot-6",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CarmenEstateLot6Box.png?v=1774763878"
   },
   {
@@ -2549,7 +2549,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/carmen-estate-geisha-washed-lot-8",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CarmenEstateLot8Box-01.png?v=1740056687"
   },
   {
@@ -2568,7 +2568,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/chevas-coffee-estate-geisha-choclo-lot-128",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasCoffeeChocloLot128Box-01.png?v=1740579843"
   },
   {
@@ -2587,7 +2587,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-chevas-limited-el-choclo-gw-venus",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasVenusBox.png?v=1777045988"
   },
   {
@@ -2606,7 +2606,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-chevas-limited-choclo-lot-3045-geisha-honey-cold-room",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasChoclo3045Box-01.png?v=1755180810"
   },
   {
@@ -2625,7 +2625,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-chevas-limited-geisha-washed-drd-lot-5250",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ChevasLimited5250Box-01.png?v=1756911406"
   },
   {
@@ -2644,7 +2644,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-chevas-limited-gn-plano-lot-0712",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Chevas0712Box-01.png?v=1755182102"
   },
   {
@@ -2663,7 +2663,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/panama-cuatro-caminos-catuai-rojo",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminos-CatuaiRojoBlackBag.png?v=1794466350"
   },
   {
@@ -2682,7 +2682,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/panama-cuatro-caminos-geisha-horqueta-2",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminos-Geisha-Horqueta2Box.png?v=1794467466"
   },
   {
@@ -2701,7 +2701,7 @@
    "is_new": true,
    "url": "https://archerscoffee.com/products/panama-cuatro-caminos-geisha-jaramillo",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminos-Geisha-JaramilloBox.png?v=1794465594"
   },
   {
@@ -2720,7 +2720,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-cuatro-caminos-h2-geisha-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CuatroCaminosH2GNBox-01.png?v=1759574664"
   },
   {
@@ -2739,7 +2739,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-el-burro-geisha-0402-natural-lot-16",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LamastusElBurroGW0402Lot16Box-01_7c658efd-ac5c-4b79-b41a-f7b8c33ccdb4.png?v=1750957906"
   },
   {
@@ -2758,7 +2758,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-elida-estate-geisha-loma-2501",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ElidaGeishaLoma2501.png?v=1694785451"
   },
   {
@@ -2777,7 +2777,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-elida-estate-geisha-plano-2801",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ElidaGeishaPlano2801.png?v=1694595649"
   },
   {
@@ -2796,7 +2796,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-emporio-geisha-popo-natural-lot-22a",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EmporioEstateLot22ABox-01_b148c111-f019-4b06-a2c8-a3358971d94b.png?v=1740035229"
   },
   {
@@ -2815,7 +2815,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-alto-bambito-geisha-honey",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Alto_Bambito_-_Geisha_Honey.png?v=1783837948"
   },
   {
@@ -2834,7 +2834,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-alto-bambito-geisha-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AltoBambito-GeishaWashedUP.png?v=1783779331"
   },
   {
@@ -2853,7 +2853,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/finca-auromar-catalina-geisha-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/CatalinaGeishaBox-01.png?v=1740057503"
   },
   {
@@ -2872,7 +2872,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-auromar-firestone-geisha-washed-copy",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FirestoneBox-01.png?v=1740058300"
   },
   {
@@ -2891,7 +2891,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-chrysalis-archers-exclusive-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahChrysalisMockUp-01_1.png?v=1736524194"
   },
   {
@@ -2910,7 +2910,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-synergy-archers-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahSynergyMockUp-01_1.png?v=1736524355"
   },
   {
@@ -2929,7 +2929,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-enigma-finca-deborah",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahEnigmaBox-01.png?v=1772631653"
   },
   {
@@ -2948,7 +2948,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-interstellar-finca-deborah",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahInterstellarBox.png?v=1729783568"
   },
   {
@@ -2967,7 +2967,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-nirvana",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaDeborahNirvanaBox-01.png?v=1772630793"
   },
   {
@@ -2986,7 +2986,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-terroir-finca-deborah",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Terroir_1.png?v=1742549870"
   },
   {
@@ -3005,7 +3005,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-el-pergamino-geisha-natural-lot-2425",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_El_Pergamino_GN_Lot_2425_Box.png?v=1774444747"
   },
   {
@@ -3024,7 +3024,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-el-pergamino-geisha-washed-lot-31325",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaElPergaminoGWLot31325Box.png?v=1774445395"
   },
   {
@@ -3043,7 +3043,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/finca-hartmann-geisha-washed-lot-68",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HartmannLot68Box-01_ed994706-99da-4b9e-87e3-7d2ea46db742.png?v=1741698494"
   },
   {
@@ -3062,7 +3062,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-lorayne-adaura-absolu",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/AdauraAbsolu-01.png?v=1759841317"
   },
   {
@@ -3081,7 +3081,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-geisha-washed-gw208",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaLosCenizos-GeishaWashedGW208Belt-01.png?v=1761649606"
   },
   {
@@ -3100,7 +3100,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gnf-281-niko-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Los_Cenizos_-_GNF_281_-_Niko_Lot_UP_Box.png?v=1786445926"
   },
   {
@@ -3119,7 +3119,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gn-060-planta-lot-10",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaLosCenizosPlantaLot10Box-01.png?v=1750924253"
   },
   {
@@ -3138,7 +3138,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gnf-261-lulu-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Los_Cenizos_-_GNF261_-_Lulu_lot_UP_Box.png?v=1786445926"
   },
   {
@@ -3157,7 +3157,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-los-cenizos-gw268-malagutetto-lot",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Los_Cenizos_-_GW268_-_Malaguetto_Lot_UP_Box.png?v=1786445926"
   },
   {
@@ -3176,7 +3176,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-nahaliel-geisha-washed-lot-030425",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/UltraPremiumFincaNahaliel-GeishaLot030425-01.png?v=1764494526"
   },
   {
@@ -3195,7 +3195,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-nuguo-geisha-washed-lot-841",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Nuguo_-_Geisha_Washed_lot_841_Box.png?v=1785312742"
   },
   {
@@ -3214,7 +3214,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-ponderosa-geisha-natural-ox-lactic",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Ponderosa_OX_Lactic_Box-19.png?v=1741338892"
   },
   {
@@ -3233,7 +3233,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-ponderosa-geisha-natural-ox-lactic-copy",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FincaPonderosaSFDRDBox-01.png?v=1740053287"
   },
   {
@@ -3252,7 +3252,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-finca-sophia-gn-lot-fs135a25-heritage-collection",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Finca_Sophia_Geisha_Natural_-_FS135A25_Box_0633a7ae-58e3-4f4c-bdb2-3fbd416930fa.png?v=1782976918"
   },
   {
@@ -3268,10 +3268,10 @@
     "from": true
    },
    "availability": "available",
-   "is_new": true,
+   "is_new": false,
    "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-honey-anaerobic-lot-26-059",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26059_Box.png?v=1791881848"
   },
   {
@@ -3290,7 +3290,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-honey-lot-25064",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Flying_Puma_-_Geisha_Honey_FPNLG25064-01.png?v=1772270159"
   },
   {
@@ -3306,10 +3306,10 @@
     "from": true
    },
    "availability": "available",
-   "is_new": true,
+   "is_new": false,
    "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-hybrid-washed-lot-26-018",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26018_Box.png?v=1791879297"
   },
   {
@@ -3325,10 +3325,10 @@
     "from": true
    },
    "availability": "available",
-   "is_new": true,
+   "is_new": false,
    "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-hybrid-washed-lot-26-049",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26049_Box.png?v=1791881349"
   },
   {
@@ -3344,10 +3344,10 @@
     "from": true
    },
    "availability": "available",
-   "is_new": true,
+   "is_new": false,
    "url": "https://archerscoffee.com/products/panama-flying-pumas-geisha-natural-cold-ferment-lot-26-051",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/FPNLG26051_Box.png?v=1791882371"
   },
   {
@@ -3366,7 +3366,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-flying-pumas-natural-cold-ferment-lot-25059",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Flying_Puma_-GEISHA_COLD_FERMENT_FPNL_G25059-01.png?v=1772270826"
   },
   {
@@ -3385,7 +3385,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-gato-grande-cold-ferment-natural",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/gatograndenaturalbox-01_1.png?v=1758287923"
   },
   {
@@ -3404,7 +3404,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-guarumo-coffee-farm-geisha-natural-lot-17125",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Guarumolot07125Box.png?v=1776084295"
   },
   {
@@ -3423,7 +3423,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-mario-arriba-4-nb",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Mario_Arriba_4_NB_Box.png?v=1785510019"
   },
   {
@@ -3442,7 +3442,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/hacienda-la-esmeralda-tomaco-4-anc",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/EsmeraldaTumaco.png?v=1740581126"
   },
   {
@@ -3461,7 +3461,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-buenos-aires-4nc",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HLEBenosAires4NCBox.png?v=1784017785"
   },
   {
@@ -3480,7 +3480,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-cabana-arriba-8nb",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Cabana_Arriba_8_NB_Box.png?v=1785509760"
   },
   {
@@ -3499,7 +3499,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-el-velo-farm-higo-4fb",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Higo_4_FB_Box_9bdb3ad8-d391-4e27-baae-e9c0c8cb582c.png?v=1785508914"
   },
   {
@@ -3518,7 +3518,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-fundador-8-nb",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Fundador_8_NB_Box.png?v=1785510360"
   },
   {
@@ -3537,7 +3537,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-hacienda-la-esmeralda-porton-5-anb",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hacienda_La_Esmeralda_-_Porton_5_ANB_Box.png?v=1785510434"
   },
   {
@@ -3556,7 +3556,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/hartmann-reserve-geisha-washed-2224",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hartmann2224Box-01_8553b175-a422-4f54-88d0-a7d54f478c53.png?v=1741698282"
   },
   {
@@ -3575,7 +3575,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/hartmann-reserve-geisha-washed-31124",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Hartmann31124Box-01_70f37d35-8ff2-46e3-b0a8-ad53d2ce9281.png?v=1741698424"
   },
   {
@@ -3594,7 +3594,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-family-hacienda-lot-26-127",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonGeishaNatural26-127Box.png?v=1789388938"
   },
   {
@@ -3613,7 +3613,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-family-los-alpes-lot-26-20",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonGeishaNatural26-20Box.png?v=1789476908"
   },
   {
@@ -3632,7 +3632,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-family-lot-alpes-lot-26-68",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonGeishaNatural26-68Box.png?v=1789389532"
   },
   {
@@ -3651,7 +3651,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-family-geisha-washed-los-alpes-lot-407",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Losalpes407BoxMockUp-01_6a664e84-55a7-4cdf-b4b8-2b0a423b1a3b.png?v=1739021491"
   },
   {
@@ -3670,7 +3670,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-family-geisha-honey-los-alpes-lot-503",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Losalpes503BoxMockUp-01_9cb0ea2d-959d-401a-ba0d-f037b47d9a0c.png?v=1739021532"
   },
   {
@@ -3689,7 +3689,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-x-gw-26-191",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonXGW26-191Box.png?v=1789370037"
   },
   {
@@ -3708,7 +3708,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-x-los-alpes-gn-lot-4",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonXLot4Box.png?v=1776583694"
   },
   {
@@ -3727,7 +3727,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-janson-x-geisha-lot-815",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/JansonXLot815Box.png?v=1776583202"
   },
   {
@@ -3746,7 +3746,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-kotowa-coffee-las-brujas-lot-6934",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/KotowaLasBrujasLot6934Box.png?v=1773819129"
   },
   {
@@ -3765,7 +3765,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-elida-geisha-natural-loma-centro-0124",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elidageisha_ElidaGeisha0124.png?v=1740580001"
   },
   {
@@ -3784,7 +3784,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-elida-geisha-washed-torre-0324",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Elidageisha_ElidaGeisha0324.png?v=1740580310"
   },
   {
@@ -3803,7 +3803,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lamastus-family-elida-geisha-vuelta-gn-lot-0325",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Vuelta_Box-01.png?v=1770538176"
   },
   {
@@ -3822,7 +3822,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lerida-coffee-esplendorosa-estate-geisha-natural-lot-0690",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_-_Geisha_Natural_0690_Box.png?v=1787571976"
   },
   {
@@ -3841,7 +3841,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-honey-lot-07901-cold-room-drying",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida-_Geisha_Honey_07901_Box.png?v=1787571977"
   },
   {
@@ -3860,7 +3860,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-natural-lot-0746-cold-room-drying",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_-_Geisha_Natural_0746_Box.png?v=1787571977"
   },
   {
@@ -3879,7 +3879,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-natural-waterfall-lot-0486",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_Estate_-_Geisha_Waterfall_Natural_Lot_0486_Box.png?v=1778162618"
   },
   {
@@ -3898,7 +3898,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lerida-coffee-estate-geisha-washed-lot-0774-cold-room-drying",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lerida_-_Geisha_Washed_0774_Box.png?v=1787571977"
   },
   {
@@ -3917,7 +3917,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-long-board-misty-mountain-geisha-washed-16b",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LongBoardMistyMountainMockup-01.png?v=1736415330"
   },
   {
@@ -3936,7 +3936,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-los-lajones-bambu-geisha-washed-lot-20c",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LosLajonesBambu20CBox-01.png?v=1740037324"
   },
   {
@@ -3955,7 +3955,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-los-lajones-bambu-geisha-washed-lot-26c",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LosLajonesBambu26CBox-01.png?v=1740038672"
   },
   {
@@ -3974,7 +3974,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-los-lajones-bambo-geisha-washed-lot-8-ab",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/HiUCoffee-LosLajonesGW-lot8ABBox-01.png?v=1772960094"
   },
   {
@@ -3993,7 +3993,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lost-origin-la-estrella-yeast-inoculation-for-release",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/LostOriginLaEstrellaBox-01.png?v=1762348411"
   },
   {
@@ -4012,7 +4012,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-mi-finquita-hartman-reserve-gn-wineglobe-lot-10325",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MiFinquitaWineglobe10325Box.png?v=1776148769"
   },
   {
@@ -4031,7 +4031,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/mi-finquita-lot-cima",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MiFInquitaCIMABox-01.png?v=1740053660"
   },
   {
@@ -4050,7 +4050,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-michella-estate-typica-washed-finca-lerida",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Archers-Coffee-Panama-Michella-Estate-Typica-Lerida.png?v=1716895836"
   },
   {
@@ -4069,7 +4069,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-mil-cumbres-gil-gw-lot-2",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbresGILGWLot2Box-01.png?v=1750948900"
   },
   {
@@ -4088,7 +4088,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-mil-cumbres-lot-omo-0702-geisha-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbresLotOMO0702Box.png?v=1729784144"
   },
   {
@@ -4107,7 +4107,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-mil-cumbres-omo-gn-lot-1201",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/MilCumbres1201Box-01.png?v=1750944052"
   },
   {
@@ -4126,7 +4126,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-project-hachi-rocky-mountain-hatsuko",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ProjectHachiHatsukoBox-01.png?v=1751179344"
   },
   {
@@ -4145,7 +4145,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-santamaria-estate-geisha-df-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/SantamariaGeishaDFWashedBlackBox-01.png?v=1750928256"
   },
   {
@@ -4164,7 +4164,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-santamaria-estate-geisha-honey",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Santamaria_Geisha_Honey_Box-01.png?v=1752229907"
   },
   {
@@ -4183,7 +4183,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-santamaria-estate-geisha-washed-lot-7",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/SantamariaGWBox.png?v=1773751171"
   },
   {
@@ -4202,7 +4202,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-spectrum",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ArchersCoffeeSavageCoffeesSpectrum.png?v=1695978195"
   },
   {
@@ -4221,7 +4221,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-symbiosis",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ArchersCoffeeIrisEstateSymbiosis.png?v=1695978186"
   },
   {
@@ -4240,7 +4240,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-symmetry",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/ArchersCoffeeIrisEstateSymmetry.png?v=1695978151"
   },
   {
@@ -4259,7 +4259,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-teirra-blanca-c2-geisha-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/TierraC5WashedBox-01.png?v=1756472771"
   },
   {
@@ -4278,8 +4278,46 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/panama-lost-origin-altieri-coffee-chombi-yeast-inoculation-for-release",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Lost_Origin_Chombi_UP_Box-01_1.png?v=1762349221"
+  },
+  {
+   "id": "archers-philippines-boy-javier-bukidnon-liberica",
+   "roaster": "Archers",
+   "name": "Philippines - Boy Javier Bukidnon - Liberica",
+   "origin": "",
+   "process_variety": "Honey",
+   "tasting_notes": [],
+   "price": {
+    "amount": 135.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/philippines-boy-javier-bukidnon-liberica",
+   "url_verified": true,
+   "last_updated": "2026-11-13",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/PhilippinesBukidnon-LibericaBlackBag.png?v=1794580444"
+  },
+  {
+   "id": "archers-south-africa-sukkot-coffee-coffea-racemosa",
+   "roaster": "Archers",
+   "name": "South Africa - Sukkot Coffee Coffea Racemosa",
+   "origin": "",
+   "process_variety": "Washed",
+   "tasting_notes": [],
+   "price": {
+    "amount": 230.0,
+    "currency": "AED",
+    "from": true
+   },
+   "availability": "available",
+   "is_new": true,
+   "url": "https://archerscoffee.com/products/south-africa-sukkot-coffee-coffea-racemosa",
+   "url_verified": true,
+   "last_updated": "2026-11-13",
+   "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/South_Africa_UP_50g_Box.png?v=1794577825"
   },
   {
    "id": "archers-usa-california-frinj-coffee-vedder-ranch-geisha-classic-washed",
@@ -4297,7 +4335,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/usa-california-frinj-coffee-vedder-ranch-geisha-classic-washed",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Ultra_Premium_Vedder_Ranch_-_CA_Geisha_Box.png?v=1781334483"
   },
   {
@@ -4316,7 +4354,7 @@
    "is_new": false,
    "url": "https://archerscoffee.com/products/yemen-east-haraz-wadi-al-salon",
    "url_verified": true,
-   "last_updated": "2026-11-12",
+   "last_updated": "2026-11-13",
    "image": "https://cdn.shopify.com/s/files/1/0260/4302/3426/files/Yemen_Wadi_Al_Sallol_Box_1.png?v=1784020365"
   }
  ]

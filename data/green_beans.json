@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-12T19:31:28",
+  "updated_at": "2026-11-13T19:31:30",
   "note": "Green beans: beans mentah per lb, untuk roaster",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -4963,6 +4963,18 @@
    "url_verified": false
   },
   {
+   "lot": "Aromas del Valle, San Ignacio Washed Organic Lot 2, ORG",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 4.91,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/aromas-del-valle-san-ignacio-washed-organic-lot-2-org/",
+   "sku": "INV05229",
+   "url_verified": false
+  },
+  {
    "lot": "Aromas del Valle, San Ignacio Washed, Lot 1",
    "roaster": "Crop to Cup",
    "origin": null,
@@ -5452,18 +5464,6 @@
    "currency": "USD",
    "url": "https://www.croptocup.com/product/afden-bekele-belacho-kokose-natural-g1-lot-01/",
    "sku": "INV02937",
-   "url_verified": false
-  },
-  {
-   "lot": "Bekele Belacho, Kokose, Natural, Grade 1",
-   "roaster": "Crop to Cup",
-   "origin": "Ethiopia",
-   "process": "Natural",
-   "tasting_notes": [],
-   "price_per_lb": 5.45,
-   "currency": "USD",
-   "url": "https://www.croptocup.com/product/bekele-belacho-kokose-natural-grade-1/",
-   "sku": "INV02099",
    "url_verified": false
   }
  ]
