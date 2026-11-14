@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-13T19:31:30",
+  "updated_at": "2026-11-14T19:31:29",
   "note": "Green beans: beans mentah per lb, untuk roaster",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -386,8 +386,8 @@
    "origin": "Colombia",
    "process": "Honey Process",
    "tasting_notes": [
-    "Barley Malt Syrup",
-    "Green Apple",
+    "Molasses",
+    "Rustic Fruit",
     "Cocoa"
    ],
    "score": 87.4,
@@ -395,6 +395,24 @@
    "price_per_lb": 10.15,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/colombia-honey-aponte-sonia-janamejoy-8520",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Honey Process Aponte",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Molasses",
+    "Rustic Fruit",
+    "Cocoa",
+    "Barley Malt Syrup"
+   ],
+   "score": 87.6,
+   "arrival": "Oct 2026",
+   "price_per_lb": 9.35,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-honey-process-aponte-8988",
    "url_verified": false
   },
   {
@@ -512,13 +530,31 @@
     "Chocolate Malt",
     "Brown Sugar",
     "Carob",
-    "Maple"
+    "Date"
    ],
    "score": 87.0,
    "arrival": "Mar 2025",
    "price_per_lb": 9.6,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/colombia-samaria-farm-ea-decaf-8234",
+   "url_verified": false
+  },
+  {
+   "lot": "Congo Organic Dry Process Kahondo",
+   "roaster": "Coffee Shrub",
+   "origin": "Congo",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Date",
+    "Cocoa",
+    "Cedar",
+    "Maple"
+   ],
+   "score": 87.5,
+   "arrival": "Oct 2026",
+   "price_per_lb": 8.45,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/congo-organic-dry-process-kahondo-8830",
    "url_verified": false
   },
   {
@@ -584,13 +620,31 @@
     "Balanced",
     "Walnut",
     "Semi-Sweet Cocoa",
-    "Mulled Wine"
+    "Dried Stone Fruit"
    ],
    "score": 86.8,
    "arrival": "Jul 2025",
    "price_per_lb": 8.85,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/costa-rica-don-mayo-la-loma-8346",
+   "url_verified": false
+  },
+  {
+   "lot": "Costa Rica Dry Process El Coyote Villalobos",
+   "roaster": "Coffee Shrub",
+   "origin": "Costa Rica",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Dried Stone Fruit",
+    "Rustic Sugars",
+    "Winey Accents",
+    "Mulled Wine"
+   ],
+   "score": 88.2,
+   "arrival": "Oct 2026",
+   "price_per_lb": 11.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/costa-rica-dry-process-el-coyote-villalobos-8763",
    "url_verified": false
   },
   {
@@ -655,8 +709,7 @@
    "tasting_notes": [
     "Unsulfured Apricot",
     "Pungent Bittersweetness",
-    "Winey Accents",
-    "Corn Syrup"
+    "Winey Accents"
    ],
    "score": 87.5,
    "arrival": "Jul 2026",
@@ -709,7 +762,8 @@
    "tasting_notes": [
     "Chocolate",
     "Toasted Coconut",
-    "Silky Body"
+    "Silky Body",
+    "Brown Sugar"
    ],
    "score": 87.1,
    "arrival": "Aug 2026",
@@ -922,13 +976,31 @@
    "tasting_notes": [
     "Milk Chocolate",
     "Hazelnut",
-    "Versatile"
+    "Versatile",
+    "Milk Chocolate"
    ],
    "score": 86.9,
    "arrival": "Jun 2026",
    "price_per_lb": 8.15,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/el-salvador-san-miguel-bourbon-8675",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Santa Ana Malacara Bourbon",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Milk Chocolate",
+    "Almond",
+    "Balanced"
+   ],
+   "score": 87.1,
+   "arrival": "Oct 2026",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-santa-ana-malacara-bourbon-8994",
    "url_verified": false
   },
   {
@@ -990,8 +1062,7 @@
    "tasting_notes": [
     "Red Honey",
     "Peach",
-    "Cocoa",
-    "Berry-toned"
+    "Cocoa"
    ],
    "score": 90.9,
    "arrival": "Aug 2026",
@@ -1062,7 +1133,8 @@
    "tasting_notes": [
     "Plum",
     "Raspberry Tea",
-    "Bittering Spices"
+    "Bittering Spices",
+    "Dried Peach"
    ],
    "score": 92.8,
    "arrival": "Sep 2025",
@@ -1409,7 +1481,11 @@
    "roaster": "Coffee Shrub",
    "origin": "Ethiopia",
    "process": "Wet Process (Washed)",
-   "tasting_notes": [],
+   "tasting_notes": [
+    "Pineapple",
+    "Marmalade",
+    "Lavender"
+   ],
    "score": 89.3,
    "arrival": "Sep 2024",
    "price_per_lb": 8.25,
@@ -1687,8 +1763,7 @@
    "tasting_notes": [
     "Sorghum",
     "Tobacco",
-    "Body",
-    "Floral"
+    "Body"
    ],
    "score": 86.9,
    "arrival": "Jan 2025",
@@ -1759,7 +1834,8 @@
    "tasting_notes": [
     "Caramel",
     "Hazelnut Chocolate",
-    "Well Balanced"
+    "Well Balanced",
+    "Cane Sugar"
    ],
    "score": 86.8,
    "arrival": "Jul 2026",
@@ -2044,8 +2120,7 @@
    "tasting_notes": [
     "Chocolate",
     "Dried Apple",
-    "Aromatic Spices",
-    "Raw Sugar"
+    "Aromatic Spices"
    ],
    "score": 87.9,
    "arrival": "Aug 2025",
@@ -2116,7 +2191,8 @@
    "tasting_notes": [
     "Caramel",
     "Chocolate Bar",
-    "Torched Sugar"
+    "Torched Sugar",
+    "Honey"
    ],
    "score": 87.0,
    "arrival": "Jul 2025",
@@ -2464,7 +2540,8 @@
    "tasting_notes": [
     "Fermented Berry",
     "Cider",
-    "Cocoa"
+    "Cocoa",
+    "Fruit Liqueor"
    ],
    "score": 90.4,
    "arrival": "Jul 2025",
@@ -2747,8 +2824,7 @@
    "tasting_notes": [
     "Brown Sugar",
     "Stone Fruit",
-    "Hops",
-    "Honey"
+    "Hops"
    ],
    "score": 91.5,
    "arrival": "Jun 2025",
@@ -3100,8 +3176,7 @@
    "tasting_notes": [
     "Praline Almond",
     "Vanilla",
-    "Cocoa",
-    "Milk Chocolate"
+    "Cocoa"
    ],
    "score": 86.9,
    "arrival": "Aug 2025",
@@ -3172,7 +3247,8 @@
    "tasting_notes": [
     "Mid-toned",
     "Raw Sugars",
-    "Snickerdoodle"
+    "Snickerdoodle",
+    "Chocolate"
    ],
    "score": 86.9,
    "arrival": "Nov 2025",
@@ -3455,8 +3531,7 @@
    "tasting_notes": [
     "Fermented Banana",
     "Spiced Rum",
-    "Burnt Sugars",
-    "Brown Rice Syrup"
+    "Burnt Sugars"
    ],
    "score": 89.5,
    "arrival": "Jun 2025",
@@ -3527,7 +3602,8 @@
    "tasting_notes": [
     "Rustic Sweetness",
     "Tobacco",
-    "Aromatic Wood"
+    "Aromatic Wood",
+    "Rustic Sweetness"
    ],
    "score": 86.7,
    "arrival": "Apr 2025",
@@ -3814,8 +3890,7 @@
    "tasting_notes": [
     "Blackstrap Molasses",
     "Dried Prune",
-    "Rustic Cocoa",
-    "Toffee"
+    "Rustic Cocoa"
    ],
    "score": 87.8,
    "arrival": "Jul 2026",
@@ -3886,7 +3961,8 @@
    "tasting_notes": [
     "Baking Spice",
     "Bittersweet",
-    "Earth Tones"
+    "Earth Tones",
+    "Caramel"
    ],
    "score": 88.3,
    "arrival": "Aug 2026",
