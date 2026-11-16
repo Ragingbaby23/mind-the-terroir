@@ -1,5 +1,15 @@
 # Progress Log - Mind the Terroir
 
+## Session 6 - 2026-11-15 — v2.0: SECTION TERPISAH + FILTER/SORT
+- DONE (v2.0): situs kini DUA SECTION terpisah penuh — "Roasted Beans" (220) dan "Green Beans" (354), masing-masing header besar + counter live + divider; section kosong auto-sembunyi pas difilter.
+- DONE (v2.0): filter/sort client-side — dropdown Section (all/roasted/green), Roaster, Origin (gabungan kedua dataset), Sort (Featured / Name A–Z / Price ↑↓ / Cupping score ↓ / Newest). Filter = AND; search tetap jalan bareng filter.
+- KEPUTUSAN: sort harga roasted campur mata uang (USD/EUR/AED) -> pakai konversi KIRA-KIRA ke USD (RATE_TO_USD di generate.py) CUMA buat urutan; harga tampil tetap mata uang asli; footer diberi disclaimer. Lot "Contact seller" (data-price kosong) selalu di ujung sort harga (Infinity).
+- CARA KERJA SORT: tiap kartu bawa data-attrs (data-sec/idx/name/roaster/origin/price/score/new/search); JS sort lalu re-append ke grid masing-masing section (appendChild = reorder DOM).
+- BUG FIX: data-search & semua atribut kartu kini di-escape (html.escape) — nama bean/notes dengan apostrof sebelumnya bisa merusak HTML. NOTES: escape per item SEBELUM join pakai &bull; (escape hasil join = double-escape, entity jadi tampil literal — ketahuan pas review sendiri).
+- VERIFIKASI: browser test full (default 574, green-only 354 & section roasted hilang, Archers 197, Ethiopia 44+73, price-up min $5.72 duluan, score-down 94.0 duluan, newest 6 NEW duluan, search 'Crop to Cup' 128). False alarm sekali: filter Ethiopia "0 green" ternyata filter roaster Archers masih nyangkut (AND behavior BENAR) — tes salah, bukan kode. Live: HTTP 200, kedua section + sort terkonfirmasi di curl.
+- COSMETIC: dropdown dikasih label jelas ("Section: all", "Roaster: all", dst) — sebelumnya tiga "All" polos ambigu.
+- Cron harian tak tersentuh (generate.py dipanggil update_all.sh, wrapper .hermes/scripts/ tidak berubah).
+
 ## Session 5 - 2026-11-12 — CRON HARIAN (v1.0 SELESAI)
 - DONE (v1.0): cron harian `mind-the-terroir daily update` (job 7adae107f6bc) — jam 02:30 WIB (Asia/Jakarta), mode no_agent (script murni, tanpa LLM), deliver ringkasan 2 baris ke chat Telegram; gagal -> alert + cuplikan log.
 - DONE: pipeline scripts/update_all.sh teruji full-auto 3x (exit 0): fetch roasted+green -> guard rails (roasted<20/green<100=ABORT tanpa deploy) -> render -> commit main -> deploy gh-pages -> verifikasi live. Rotasi lineup terlihat nyata: 218 -> 219 -> 221 roasted.
