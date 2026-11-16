@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-16T07:28:44",
+  "updated_at": "2026-11-16T19:31:52",
   "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -144,31 +144,13 @@
     "Honey Nut",
     "Sesame",
     "Cocoa",
-    "Complex Sugars"
+    "Juicy"
    ],
    "score": 86.8,
    "arrival": "Mar 2025",
    "price_per_lb": 7.85,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/brazil-pulp-natural-condado-sao-jose-8225",
-   "url_verified": false
-  },
-  {
-   "lot": "Burundi Colline Masenga",
-   "roaster": "Coffee Shrub",
-   "origin": "Burundi",
-   "process": "Wet Process (Washed)",
-   "tasting_notes": [
-    "Complex Sugars",
-    "Delicate Acidity",
-    "Baking Spices",
-    "Juicy"
-   ],
-   "score": 89.2,
-   "arrival": "May 2026",
-   "price_per_lb": 9.05,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/burundi-colline-masenga-8658",
    "url_verified": false
   },
   {
@@ -355,7 +337,8 @@
    "tasting_notes": [
     "Crowd Pleasing",
     "Raw Sugar",
-    "Semi-Sweet Chocolate"
+    "Semi-Sweet Chocolate",
+    "Pie Filling"
    ],
    "score": 87.3,
    "arrival": "Oct 2026",
@@ -443,31 +426,13 @@
     "Red Berries",
     "Pomegranate",
     "Spiced Cider",
-    "Cocoa"
+    "Raw Sugar Cane"
    ],
    "score": 88.5,
    "arrival": "Oct 2025",
    "price_per_lb": 10.15,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/colombia-huila-la-argentina-8484",
-   "url_verified": false
-  },
-  {
-   "lot": "Colombia Huila La Argentina",
-   "roaster": "Coffee Shrub",
-   "origin": "Colombia",
-   "process": "Wet Process (Washed)",
-   "tasting_notes": [
-    "Cocoa",
-    "Burnt Sugar",
-    "Malted Grain",
-    "Raw Sugar Cane"
-   ],
-   "score": 86.3,
-   "arrival": "Aug 2026",
-   "price_per_lb": 8.5,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/colombia-huila-la-argentina-8809",
    "url_verified": false
   },
   {
@@ -710,7 +675,8 @@
    "tasting_notes": [
     "Unsulfured Apricot",
     "Pungent Bittersweetness",
-    "Winey Accents"
+    "Winey Accents",
+    "Corn Syrup"
    ],
    "score": 87.5,
    "arrival": "Jul 2026",
@@ -745,8 +711,7 @@
    "tasting_notes": [
     "Brightly Sweet",
     "Graham Cracker",
-    "Black Tea",
-    "Chocolate"
+    "Black Tea"
    ],
    "score": 87.2,
    "arrival": "Aug 2026",
@@ -1063,7 +1028,8 @@
    "tasting_notes": [
     "Red Honey",
     "Peach",
-    "Cocoa"
+    "Cocoa",
+    "Berry-toned"
    ],
    "score": 90.9,
    "arrival": "Aug 2026",
@@ -1098,8 +1064,7 @@
    "tasting_notes": [
     "Fresh Mango",
     "Chai Spice",
-    "Artisinal Chocolate",
-    "Blueberry"
+    "Artisinal Chocolate"
    ],
    "score": 93.0,
    "arrival": "July 2026",
@@ -1289,33 +1254,15 @@
    "origin": "Ethiopia",
    "process": "Dry Process (Natural)",
    "tasting_notes": [
-    "Bright Fruits",
-    "Citron",
-    "Aromatic Sweetness"
+    "Dark Berries",
+    "Dried Peach",
+    "Chocolate Truffle"
    ],
    "score": 91.5,
    "arrival": "Oct 2025",
    "price_per_lb": 9.95,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-hambela-goro-8536",
-   "url_verified": false
-  },
-  {
-   "lot": "Ethiopia Dry Process Kercha Haruse",
-   "roaster": "Coffee Shrub",
-   "origin": "Ethiopia",
-   "process": "Dry Process (Natural)",
-   "tasting_notes": [
-    "Bright Fruits",
-    "Citron",
-    "Aromatic Sweetness",
-    "Dark Berries"
-   ],
-   "score": 92.6,
-   "arrival": "Jul 2026",
-   "price_per_lb": 9.65,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/ethiopia-dry-process-kercha-haruse-8647",
    "url_verified": false
   },
   {
@@ -1764,7 +1711,8 @@
    "tasting_notes": [
     "Sorghum",
     "Tobacco",
-    "Body"
+    "Body",
+    "Floral"
    ],
    "score": 86.9,
    "arrival": "Jan 2025",
@@ -1817,8 +1765,7 @@
    "tasting_notes": [
     "Balanced",
     "Candied Nut",
-    "Cinnamon Cocoa",
-    "Caramel"
+    "Cinnamon Cocoa"
    ],
    "score": 87.5,
    "arrival": "Jul 2025",
@@ -2121,7 +2068,8 @@
    "tasting_notes": [
     "Chocolate",
     "Dried Apple",
-    "Aromatic Spices"
+    "Aromatic Spices",
+    "Raw Sugar"
    ],
    "score": 87.9,
    "arrival": "Aug 2025",
@@ -2174,8 +2122,7 @@
    "tasting_notes": [
     "Fragrant Sweetness",
     "Cane Juice",
-    "Fudge",
-    "Caramel"
+    "Fudge"
    ],
    "score": 87.0,
    "arrival": "Jun 2026",
@@ -2523,8 +2470,7 @@
    "tasting_notes": [
     "Toasted Barley",
     "Eucalyptus",
-    "Thick Body",
-    "Fermented Berry"
+    "Thick Body"
    ],
    "score": 86.8,
    "arrival": "Jan 2025",
@@ -2754,31 +2700,13 @@
     "Black Currant",
     "Grapefruit",
     "Cinnamon Stick",
-    "Turbinado Sugar"
+    "Candied Sweetness"
    ],
    "score": 92.2,
    "arrival": "Jul 2025",
    "price_per_lb": 9.35,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/kenya-nyeri-chinga-peaberry-8355",
-   "url_verified": false
-  },
-  {
-   "lot": "Kenya Nyeri Gaikundo AA",
-   "roaster": "Coffee Shrub",
-   "origin": "Kenya",
-   "process": "Wet Process Kenya Type",
-   "tasting_notes": [
-    "Turbinado Sugar",
-    "Grapefruit",
-    "Rose Hips Tea",
-    "Candied Sweetness"
-   ],
-   "score": 90.6,
-   "arrival": "Aug 2026",
-   "price_per_lb": 9.85,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/kenya-nyeri-gaikundo-aa-8769",
    "url_verified": false
   },
   {
@@ -2825,7 +2753,8 @@
    "tasting_notes": [
     "Brown Sugar",
     "Stone Fruit",
-    "Hops"
+    "Hops",
+    "Honey"
    ],
    "score": 91.5,
    "arrival": "Jun 2025",
@@ -2861,31 +2790,13 @@
     "Unrefined Sugar",
     "Orange",
     "Earl Grey",
-    "Demerara Sugar"
+    "Pink Grapefruit"
    ],
    "score": 90.6,
    "arrival": "Aug 2026",
    "price_per_lb": 9.5,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/kenya-nyeri-igutha-ab-8750",
-   "url_verified": false
-  },
-  {
-   "lot": "Kenya Nyeri Kaiguri AA",
-   "roaster": "Coffee Shrub",
-   "origin": "Kenya",
-   "process": "Wet Process Kenya Type",
-   "tasting_notes": [
-    "Demerara Sugar",
-    "Ginger Snaps",
-    "Black Tea",
-    "Pink Grapefruit"
-   ],
-   "score": 90.1,
-   "arrival": "Jul 2026",
-   "price_per_lb": 10.15,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/kenya-nyeri-kaiguri-aa-8770",
    "url_verified": false
   },
   {
@@ -2962,31 +2873,13 @@
     "Pomegranate",
     "Brown Sugar",
     "Apple",
-    "Spiced Sweetness"
+    "Grape"
    ],
    "score": 90.8,
    "arrival": "Aug 2026",
    "price_per_lb": 9.45,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/kenya-nyeri-mutheka-ab-8774",
-   "url_verified": false
-  },
-  {
-   "lot": "Kenya Nyeri Rukira AA",
-   "roaster": "Coffee Shrub",
-   "origin": "Kenya",
-   "process": "Wet Process Kenya Type",
-   "tasting_notes": [
-    "Spiced Sweetness",
-    "Orange",
-    "Tannic Tea",
-    "Grape"
-   ],
-   "score": 92.2,
-   "arrival": "Aug 2026",
-   "price_per_lb": 10.35,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/kenya-nyeri-rukira-aa-8768",
    "url_verified": false
   },
   {
@@ -3177,7 +3070,8 @@
    "tasting_notes": [
     "Praline Almond",
     "Vanilla",
-    "Cocoa"
+    "Cocoa",
+    "Milk Chocolate"
    ],
    "score": 86.9,
    "arrival": "Aug 2025",
@@ -3195,31 +3089,13 @@
     "Milk Chocolate",
     "Brown Sugar",
     "Apple",
-    "Balanced Sweetness"
+    "Chocolate"
    ],
    "score": 87.2,
    "arrival": "Jul 2026",
    "price_per_lb": 8.35,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/nicaragua-ojo-de-agua-8723",
-   "url_verified": false
-  },
-  {
-   "lot": "Papua New Guinea Korgua Peaberry",
-   "roaster": "Coffee Shrub",
-   "origin": "Papua New Guinea",
-   "process": "Wet Process (Washed)",
-   "tasting_notes": [
-    "Balanced Sweetness",
-    "Graham Cracker",
-    "Tamarind",
-    "Chocolate"
-   ],
-   "score": 87.3,
-   "arrival": "Oct 2026",
-   "price_per_lb": 8.45,
-   "currency": "USD",
-   "url": "https://www.sweetmarias.com/products/papua-new-guinea-korgua-peaberry-8942",
    "url_verified": false
   },
   {
@@ -3302,8 +3178,7 @@
    "tasting_notes": [
     "Milk Chocolate",
     "Cashey",
-    "Cinnamon",
-    "Dark Cocoa"
+    "Cinnamon"
    ],
    "score": 86.5,
    "arrival": "Nov 2025",
@@ -3532,7 +3407,8 @@
    "tasting_notes": [
     "Fermented Banana",
     "Spiced Rum",
-    "Burnt Sugars"
+    "Burnt Sugars",
+    "Brown Rice Syrup"
    ],
    "score": 89.5,
    "arrival": "Jun 2025",
@@ -3657,8 +3533,7 @@
    "tasting_notes": [
     "Cocoa Nibs",
     "Woody Spices",
-    "Immense Body",
-    "Rice Syrup"
+    "Immense Body"
    ],
    "score": 87.0,
    "arrival": "Jun 2025",
@@ -3891,7 +3766,8 @@
    "tasting_notes": [
     "Blackstrap Molasses",
     "Dried Prune",
-    "Rustic Cocoa"
+    "Rustic Cocoa",
+    "Toffee"
    ],
    "score": 87.8,
    "arrival": "Jul 2026",
@@ -6099,6 +5975,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026空运 哥斯达黎加 沃庄园 Lot 61 瑰夏 黑蜜处理 SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Costa Rica",
+   "process": "Geisha · Black honey",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥430 / pack",
+   "price_cny": 430.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/T2pabXN6R1M1VzE4QVFUMndzSHVCQT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运 哥斯达黎加 沃庄园 Lot 64 瑰夏 日晒 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Costa Rica",
@@ -6219,7 +6110,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运 巴拿马 飞豹庄园 捷豹/豹猫/小狮 瑰夏",
+   "lot": "2026空运 巴拿马 飞豹庄园 捷豹/豹\u0000猫/小狮 瑰夏",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
    "process": "Geisha",
@@ -6279,18 +6170,18 @@
    "url_verified": false
   },
   {
-   "lot": "2026 洪都拉斯 甜橙 蜂鸟庄园 伦皮拉 日晒 SHG",
+   "lot": "2026 洪都拉斯 甜橙庄园 红卡杜艾 水洗 SHG",
    "roaster": "Ecofarm 意可坊",
    "origin": "Honduras",
-   "process": "Lempira · Natural",
+   "process": "Catuai · Washed",
    "tasting_notes": [],
    "score": null,
    "arrival": null,
    "price_per_lb": null,
-   "price_display": "¥130 / pack",
-   "price_cny": 130.0,
+   "price_display": "¥109 / pack",
+   "price_cny": 109.0,
    "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/UkdqdjAyU2lYckZYZU9FNE1XL2xVQT09.htm",
+   "url": "https://www.taobao.com/list/item/aW5EeENNZ3Y1YnJoQ2NqSGtXRVh0Zz09.htm",
    "url_verified": false
   },
   {
@@ -6336,21 +6227,6 @@
    "price_cny": 790.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/VkphM1QrR0IwaVc4emF0YndqUktBUT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026空运哥伦比亚希望庄园单一系列 晴天 MC4600瑰夏水洗",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Colombia",
-   "process": "Geisha · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥510 / pack",
-   "price_cny": 510.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/aEJ4c2ZwelV4SmtUbUtPbmFWTEs4dz09.htm",
    "url_verified": false
   },
   {
