@@ -1,5 +1,15 @@
 # Progress Log - Mind the Terroir
 
+## Session 7 - 2026-11-16 — v2.1: ECOFARM 意可坊 (sumber green #3, dari China)
+- Riset (research/ghands.md + sesi ini): GHands = trader WeChat-only, katalog tak bisa diambil dari luar China (Sogou captcha, XHS blok IP, Douyin search login-wall). Ecofarm 意可坊 = Nanjing Eco Farm Trading Co. (founder Catherine Gu/顾沁如, buyer BOP) — PUNYA toko Taobao publik tanpa login: taobao.com/list/dianpu/415487444.
+- DONE (v2.1): scripts/fetch_ecofarm.py — 56 lot green Ecofarm (Panama 15, Ethiopia 14, Kenya 6, Colombia 4, CR 3, Honduras 3, Brazil 2, Nicaragua 1, China 1, 7 blend espresso). Harga CNY per pack (berat pack tak terlihat — halaman produk & halaman 2 toko = login wall) -> field baru price_display "¥X / pack", price_per_lb=null (jujur, jangan nebak berat). Origin/process/varietas diparse dari judul Mandarin (CN_ORIGIN/CN_VARIETY/CN_PROCESS, cek panjang-dulu).
+- DATA MODEL: green lot kini boleh bawa price_display (teks harga apa adanya); renderer green card pakai price_per_lb -> "$X/lb", else price_display -> teks, else "Contact seller". data-price sort attr tetap hanya per-lb (Ecofarm sort harga = nempel di ujung; per-pack vs per-lb memang nggak comparable).
+- INTEGRASI CRON: update_all.sh kini panggil fetch_ecofarm.py sebelum green_beans.py; green_beans.py merge data/ecofarm_beans.json kalau ada (fetch gagal -> lanjut data lama). Wrapper /root/.hermes/scripts/mtt-update-all.sh SUDAH di-cp ulang (aturan: salinan, bukan symlink).
+- BUG: regex href Taobao paksa `\.htm"` padahal href bawa `?spm=...` -> 0 hasil dengan halaman sehat. Fix: `[^"]+` + split('?'). LESSON: kalau regex 0 hasil tapi retry-check item-title lolos, bedakan "halaman shell" vs "regex salah" — print count struktur dulu.
+- Taobao quirk: fetch polos kadang balas shell SPA kosong (transient) -> fetch_with_retry 4x backoff, deteksi `item-title >= 5`.
+- VERIFIKASI: local browser (total 630, green 410, filter roaster Ecofarm=56 kartu ¥, 0 contact-seller, name-sort OK) + live HTTP 200 (410 green, ¥105/¥96/¥100 kebaca).
+- STATUS SITE: 630 kartu = 220 roasted + 410 green (Shrub 222 + C2C 132 + Ecofarm 56).
+
 ## Session 6 - 2026-11-15 — v2.0: SECTION TERPISAH + FILTER/SORT
 - DONE (v2.0): situs kini DUA SECTION terpisah penuh — "Roasted Beans" (220) dan "Green Beans" (354), masing-masing header besar + counter live + divider; section kosong auto-sembunyi pas difilter.
 - DONE (v2.0): filter/sort client-side — dropdown Section (all/roasted/green), Roaster, Origin (gabungan kedua dataset), Sort (Featured / Name A–Z / Price ↑↓ / Cupping score ↓ / Newest). Filter = AND; search tetap jalan bareng filter.
