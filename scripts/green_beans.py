@@ -187,19 +187,33 @@ if __name__ == "__main__":
     print("== Crop to Cup")
     c2c = parse_crop_to_cup()
 
+    lots = shrub + c2c
+
+    # ---------- 3. ECOFARM 意可坊 (merge dari data/ecofarm_beans.json) ----------
+    # Di-fetch script terpisah (fetch_ecofarm.py, sumber Taobao) supaya cron bisa
+    # jalan-in keduanya berurutan; file hilang/gagal fetch -> lanjut tanpa Ecofarm.
+    eco_path = ROOT / "data" / "ecofarm_beans.json"
+    if eco_path.exists():
+        eco = json.loads(eco_path.read_text(encoding="utf-8"))["lots"]
+        lots += eco
+        print(f"== Ecofarm 意可坊: +{len(eco)} lot (merge dari ecofarm_beans.json)")
+
     data = {
         "meta": {
             "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
-            "note": "Green beans: beans mentah per lb, untuk roaster",
-            "sources": ["sweetmarias.com (Coffee Shrub)", "croptocup.com"],
+            "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
+            "sources": ["sweetmarias.com (Coffee Shrub)", "croptocup.com",
+                        "taobao.com 意可坊咖啡 (Ecofarm)"],
         },
-        "lots": shrub + c2c,
+        "lots": lots,
     }
     OUT.write_text(json.dumps(data, indent=1, ensure_ascii=False) + "\n",
                    encoding="utf-8")
     with_price = sum(1 for l in data["lots"] if l["price_per_lb"])
-    print(f"\nTotal: {len(data['lots'])} lot ({with_price} dengan harga publik)")
+    print(f"\nTotal: {len(data['lots'])} lot ({with_price} per-lb + "
+          f"{sum(1 for l in data['lots'] if l.get('price_display'))} per-pack)")
     print("Row terakhir tiap sumber:")
-    for src in ("Coffee Shrub", "Crop to Cup"):
-        last = [l for l in data["lots"] if l["roaster"] == src][-1]
-        print(" ", json.dumps(last, ensure_ascii=False)[:160])
+    for src in ("Coffee Shrub", "Crop to Cup", "Ecofarm 意可坊"):
+        rows = [l for l in data["lots"] if l["roaster"] == src]
+        if rows:
+            print(" ", json.dumps(rows[-1], ensure_ascii=False)[:160])

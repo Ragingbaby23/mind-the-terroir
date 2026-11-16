@@ -21,7 +21,8 @@ python3 scripts/fetch_roasters.py >>"$LOG" 2>&1 || say "PERINGATAN: fetch_roaste
 say "isi foto produk yang kurang..."
 python3 scripts/fetch_images.py >>"$LOG" 2>&1 || say "PERINGATAN: fetch_images gagal (lanjut)"
 
-say "fetch green beans (Coffee Shrub + Crop to Cup, replace)..."
+say "fetch green beans (Coffee Shrub + Crop to Cup, replace + merge Ecofarm)..."
+python3 scripts/fetch_ecofarm.py >>"$LOG" 2>&1 || say "PERINGATAN: fetch_ecofarm gagal (lanjut dengan data lama)"
 python3 scripts/green_beans.py >>"$LOG" 2>&1 || say "PERINGATAN: green_beans gagal (lanjut dengan data lama)"
 
 # ---------- 2. GUARD RAILS ----------
@@ -30,7 +31,7 @@ GREEN=$(python3 -c "import json;print(len(json.load(open('data/green_beans.json'
 say "jumlah: roasted=$ROASTED green=$GREEN"
 
 if [ "$ROASTED" -lt 20 ] || [ "$GREEN" -lt 100 ]; then
-    say "ABORT: jumlah tidak wajar (biasanya roasted ~218, green ~350). Kemungkinan sumber down / struktur berubah. TIDAK deploy; cek $LOG"
+    say "ABORT: jumlah tidak wajar (biasanya roasted ~220, green ~410). Kemungkinan sumber down / struktur berubah. TIDAK deploy; cek $LOG"
     exit 1
 fi
 

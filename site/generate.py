@@ -209,7 +209,10 @@ if green:
         score = (f"<span class='score'>{score_val}</span>"
                  if g.get("score") else "<span class='na'>no score</span>")
         price = (f"${g['price_per_lb']:.2f}/lb"
-                 if g.get("price_per_lb") else "<p class='contact'>Contact seller for price</p>")
+                 if g.get("price_per_lb")
+                 else (f"{esc(g['price_display'])}"
+                       if g.get("price_display")
+                       else "<p class='contact'>Contact seller for price</p>"))
         price_attr = f"{g['price_per_lb']:.2f}" if g.get("price_per_lb") else ""
         arrival = f" <span class='na'>(arr. {esc(g['arrival'])})</span>" if g.get("arrival") else ""
         search_text = " ".join(filter(None, [
