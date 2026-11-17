@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-16T19:31:52",
+  "updated_at": "2026-11-17T19:32:07",
   "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -5525,21 +5525,6 @@
    "url_verified": false
   },
   {
-   "lot": "25/26 巴西 达特拉 美景 阿卡伊&IAC-125RN 半日晒 16/18",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Brazil",
-   "process": "Pulped natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥96 / pack",
-   "price_cny": 96.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/RTVNK2xtNTFpeThpa3I1b1FrY3ZyZz09.htm",
-   "url_verified": false
-  },
-  {
    "lot": "25/26巴西 达特拉 日出 红卡杜艾&IAC-125RN 半日晒16/18",
    "roaster": "Ecofarm 意可坊",
    "origin": "Brazil",
@@ -5642,21 +5627,6 @@
    "price_cny": 685.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/T1VqUktzSTJ4QUlOaHJjOFF5aWZOUT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026海运埃塞 西达摩 星彩 甄选批次 74110&74158 水洗G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74158 · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥170 / pack",
-   "price_cny": 170.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/TTJ1MWkwbGVQa1ZjWmJaZXZKdHpSUT09.htm",
    "url_verified": false
   },
   {
@@ -5810,6 +5780,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026肯尼亚 佳琪莎 SL28&SL34&鲁伊鲁11 水洗 AA",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Kenya",
+   "process": "SL28 · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥150 / pack",
+   "price_cny": 150.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/cU5qc0VIc1o4MFdTcDFJSjNXSUFnQT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运巴拿马Hiu安波里奥 Popo 1196瑰夏厌氧蜜处理SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -5837,21 +5822,6 @@
    "price_cny": 160.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/OGx0ME1hcXNOa0dwS1drTGcyZkNFZz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026海运 埃塞俄比亚 古伎 燃情琥珀 74110 厌氧日晒 G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74110 · Anaerobic natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥160 / pack",
-   "price_cny": 160.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/TnEvWGtBQWR0MHR2L2lSYXJ6Uk1idz09.htm",
    "url_verified": false
   },
   {
@@ -6110,7 +6080,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运 巴拿马 飞豹庄园 捷豹/豹\u0000猫/小狮 瑰夏",
+   "lot": "2026空运 巴拿马 飞豹庄园 捷豹/豹猫/小狮 瑰夏",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
    "process": "Geisha",
@@ -6185,6 +6155,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026 洪都拉斯 甜橙 蜂鸟庄园 伦皮拉 日晒 SHG",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Honduras",
+   "process": "Lempira · Natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥130 / pack",
+   "price_cny": 130.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/UkdqdjAyU2lYckZYZU9FNE1XL2xVQT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 洪都拉斯 花园庄园 Ihcafe 90 日晒 SHG",
    "roaster": "Ecofarm 意可坊",
    "origin": "Honduras",
@@ -6227,6 +6212,21 @@
    "price_cny": 790.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/VkphM1QrR0IwaVc4emF0YndqUktBUT09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026空运哥伦比亚希望庄园单一系列 晴天 MC4600瑰夏水洗",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Colombia",
+   "process": "Geisha · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥510 / pack",
+   "price_cny": 510.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/aEJ4c2ZwelV4SmtUbUtPbmFWTEs4dz09.htm",
    "url_verified": false
   },
   {
