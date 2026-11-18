@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-17T19:32:07",
+  "updated_at": "2026-11-18T19:32:00",
   "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -2790,13 +2790,31 @@
     "Unrefined Sugar",
     "Orange",
     "Earl Grey",
-    "Pink Grapefruit"
+    "Brown Sugar"
    ],
    "score": 90.6,
    "arrival": "Aug 2026",
    "price_per_lb": 9.5,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/kenya-nyeri-igutha-ab-8750",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Nyeri Igutha Peaberry",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Brown Sugar",
+    "Dr Pepper",
+    "Lemon",
+    "Pink Grapefruit"
+   ],
+   "score": 91.5,
+   "arrival": "Aug 2026",
+   "price_per_lb": 377.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-nyeri-igutha-peaberry-8751",
    "url_verified": false
   },
   {
@@ -3160,8 +3178,7 @@
    "tasting_notes": [
     "Butter Pecan",
     "Dark Chocolate",
-    "Satiny",
-    "Milk Chocolate"
+    "Satiny"
    ],
    "score": 87.4,
    "arrival": "Jan 2025",
@@ -3178,7 +3195,8 @@
    "tasting_notes": [
     "Milk Chocolate",
     "Cashey",
-    "Cinnamon"
+    "Cinnamon",
+    "Dark Cocoa"
    ],
    "score": 86.5,
    "arrival": "Nov 2025",
@@ -3515,8 +3533,7 @@
    "tasting_notes": [
     "Bittersweet",
     "Earth-Toned",
-    "Herbaceous",
-    "Cocoa Nibs"
+    "Herbaceous"
    ],
    "score": 87.0,
    "arrival": "Oct 2026",
@@ -3533,7 +3550,8 @@
    "tasting_notes": [
     "Cocoa Nibs",
     "Woody Spices",
-    "Immense Body"
+    "Immense Body",
+    "Rice Syrup"
    ],
    "score": 87.0,
    "arrival": "Jun 2025",
@@ -4724,6 +4742,18 @@
    "url_verified": false
   },
   {
+   "lot": "Antony Vasquez, Marshell Washed",
+   "roaster": "Crop to Cup",
+   "origin": null,
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.77,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/antony-vasquez-marshell-washed/",
+   "sku": "INV05572",
+   "url_verified": false
+  },
+  {
    "lot": "APG Totutla Cherry Project, Lot 1",
    "roaster": "Crop to Cup",
    "origin": null,
@@ -4825,7 +4855,7 @@
    "origin": null,
    "process": "Washed",
    "tasting_notes": [],
-   "price_per_lb": 5.9,
+   "price_per_lb": 5.85,
    "currency": "USD",
    "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-organic-decaf-lot-1-org/",
    "sku": "INV05223",
@@ -4837,7 +4867,7 @@
    "origin": null,
    "process": "Washed",
    "tasting_notes": [],
-   "price_per_lb": 5.72,
+   "price_per_lb": 5.67,
    "currency": "USD",
    "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-organic-decaf-lot-2-org/",
    "sku": "INV05224",
@@ -4849,7 +4879,7 @@
    "origin": null,
    "process": "Washed",
    "tasting_notes": [],
-   "price_per_lb": 5.26,
+   "price_per_lb": 5.21,
    "currency": "USD",
    "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-washed-lot-4-org/",
    "sku": "INV05226",
@@ -4921,7 +4951,7 @@
    "origin": null,
    "process": "Washed",
    "tasting_notes": [],
-   "price_per_lb": 4.91,
+   "price_per_lb": 4.86,
    "currency": "USD",
    "url": "https://www.croptocup.com/product/aromas-del-valle-san-ignacio-washed-organic-lot-2-org/",
    "sku": "INV05229",
@@ -5408,18 +5438,6 @@
    "url_verified": false
   },
   {
-   "lot": "Bekele Belacho, Kokose, Natural, G1, Lot 01",
-   "roaster": "Crop to Cup",
-   "origin": "Ethiopia",
-   "process": "Natural",
-   "tasting_notes": [],
-   "price_per_lb": 5.97,
-   "currency": "USD",
-   "url": "https://www.croptocup.com/product/afden-bekele-belacho-kokose-natural-g1-lot-01/",
-   "sku": "INV02937",
-   "url_verified": false
-  },
-  {
    "lot": "果加拼配 Fruity Blend",
    "roaster": "Ecofarm 意可坊",
    "origin": null,
@@ -5825,6 +5843,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026海运 埃塞俄比亚 古伎 燃情琥珀 74110 厌氧日晒 G1",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Ethiopia",
+   "process": "74110 · Anaerobic natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥160 / pack",
+   "price_cny": 160.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/TnEvWGtBQWR0MHR2L2lSYXJ6Uk1idz09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运巴拿马 芭芭拉 宝藏地块 Lot9 瑰夏 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -6152,21 +6185,6 @@
    "price_cny": 109.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/aW5EeENNZ3Y1YnJoQ2NqSGtXRVh0Zz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026 洪都拉斯 甜橙 蜂鸟庄园 伦皮拉 日晒 SHG",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Honduras",
-   "process": "Lempira · Natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥130 / pack",
-   "price_cny": 130.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/UkdqdjAyU2lYckZYZU9FNE1XL2xVQT09.htm",
    "url_verified": false
   },
   {

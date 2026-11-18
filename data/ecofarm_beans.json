@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-17T19:31:24",
+  "updated_at": "2026-11-18T19:31:14",
   "seller": "Nanjing Eco Farm Trading Co., Ltd. (南京意可坊进出口贸易有限公司)",
   "note": "Green beans per pack (bukan per lb) — harga Taobao apa adanya, CNY",
   "sources": [
@@ -414,6 +414,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026海运 埃塞俄比亚 古伎 燃情琥珀 74110 厌氧日晒 G1",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Ethiopia",
+   "process": "74110 · Anaerobic natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥160 / pack",
+   "price_cny": 160.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/TnEvWGtBQWR0MHR2L2lSYXJ6Uk1idz09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运巴拿马 芭芭拉 宝藏地块 Lot9 瑰夏 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -741,21 +756,6 @@
    "price_cny": 109.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/aW5EeENNZ3Y1YnJoQ2NqSGtXRVh0Zz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026 洪都拉斯 甜橙 蜂鸟庄园 伦皮拉 日晒 SHG",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Honduras",
-   "process": "Lempira · Natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥130 / pack",
-   "price_cny": 130.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/UkdqdjAyU2lYckZYZU9FNE1XL2xVQT09.htm",
    "url_verified": false
   },
   {
