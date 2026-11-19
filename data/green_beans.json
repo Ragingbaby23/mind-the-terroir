@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-18T19:32:00",
+  "updated_at": "2026-11-19T19:31:59",
   "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -300,15 +300,33 @@
    "origin": "Colombia",
    "process": "Wet Process (Washed)",
    "tasting_notes": [
-    "Salted Caramel",
-    "Black Tea",
-    "Citrus Rind"
+    "Panela",
+    "Apple Streusel",
+    "Syrupy"
    ],
    "score": 86.5,
    "arrival": "Jan 2026",
    "price_per_lb": 9.35,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/colombia-buesaco-alianza-granjeros-8598",
+   "url_verified": false
+  },
+  {
+   "lot": "Colombia Buesaco Puente Juanambú",
+   "roaster": "Coffee Shrub",
+   "origin": "Colombia",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Panela",
+    "Apple Streusel",
+    "Syrupy",
+    "Salted Caramel"
+   ],
+   "score": 87.0,
+   "arrival": "Nov 2026",
+   "price_per_lb": 9.05,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/colombia-buesaco-puente-juanambu-8989",
    "url_verified": false
   },
   {
@@ -337,8 +355,7 @@
    "tasting_notes": [
     "Crowd Pleasing",
     "Raw Sugar",
-    "Semi-Sweet Chocolate",
-    "Pie Filling"
+    "Semi-Sweet Chocolate"
    ],
    "score": 87.3,
    "arrival": "Oct 2026",
@@ -693,8 +710,7 @@
    "tasting_notes": [
     "Corn Syrup",
     "Dried Peach",
-    "Carob",
-    "Brightly Sweet"
+    "Carob"
    ],
    "score": 87.6,
    "arrival": "Jul 2026",
@@ -711,7 +727,8 @@
    "tasting_notes": [
     "Brightly Sweet",
     "Graham Cracker",
-    "Black Tea"
+    "Black Tea",
+    "Chocolate"
    ],
    "score": 87.2,
    "arrival": "Aug 2026",
@@ -817,13 +834,31 @@
     "Raw Sugar",
     "Tree Nut",
     "Dark Cocoa",
-    "Burnt Sugar"
+    "Molasses"
    ],
    "score": 86.5,
    "arrival": "Jun 2026",
    "price_per_lb": 7.95,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/el-salvador-atiquizaya-tabi-8676",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Dry Process El Carmen Pacamara",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Dry Process (Natural)",
+   "tasting_notes": [
+    "Molasses",
+    "Juniper Berry",
+    "Chocolate",
+    "Burnt Sugar"
+   ],
+   "score": 88.0,
+   "arrival": "Nov 2026",
+   "price_per_lb": 9.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-dry-process-el-carmen-pacamara-8993",
    "url_verified": false
   },
   {
@@ -1028,8 +1063,7 @@
    "tasting_notes": [
     "Red Honey",
     "Peach",
-    "Cocoa",
-    "Berry-toned"
+    "Cocoa"
    ],
    "score": 90.9,
    "arrival": "Aug 2026",
@@ -1064,7 +1098,8 @@
    "tasting_notes": [
     "Fresh Mango",
     "Chai Spice",
-    "Artisinal Chocolate"
+    "Artisinal Chocolate",
+    "Blueberry"
    ],
    "score": 93.0,
    "arrival": "July 2026",
@@ -1377,11 +1412,7 @@
    "roaster": "Coffee Shrub",
    "origin": "Ethiopia",
    "process": "Wet Process (Washed)",
-   "tasting_notes": [
-    "White Honey",
-    "Nectarine",
-    "Floral"
-   ],
+   "tasting_notes": [],
    "score": 92.0,
    "arrival": "Sep 2025",
    "price_per_lb": 9.15,
@@ -1729,14 +1760,31 @@
    "tasting_notes": [
     "Floral",
     "Simple Syrup",
-    "Citrus",
-    "Raw Sugar"
+    "Citrus"
    ],
    "score": 92.1,
    "arrival": "Jun 2026",
    "price_per_lb": 15.25,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/guatemala-acatenango-gesha-8695",
+   "url_verified": false
+  },
+  {
+   "lot": "Guatemala Acatenango Gesha 2",
+   "roaster": "Coffee Shrub",
+   "origin": "Guatemala",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Floral",
+    "Graham Cracker",
+    "Mandarin",
+    "Raw Sugar"
+   ],
+   "score": 90.8,
+   "arrival": "Jun 2026",
+   "price_per_lb": 15.25,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/guatemala-acatenango-gesha-2-8698",
    "url_verified": false
   },
   {
@@ -1765,7 +1813,8 @@
    "tasting_notes": [
     "Balanced",
     "Candied Nut",
-    "Cinnamon Cocoa"
+    "Cinnamon Cocoa",
+    "Caramel"
    ],
    "score": 87.5,
    "arrival": "Jul 2025",
@@ -2068,8 +2117,7 @@
    "tasting_notes": [
     "Chocolate",
     "Dried Apple",
-    "Aromatic Spices",
-    "Raw Sugar"
+    "Aromatic Spices"
    ],
    "score": 87.9,
    "arrival": "Aug 2025",
@@ -2122,7 +2170,8 @@
    "tasting_notes": [
     "Fragrant Sweetness",
     "Cane Juice",
-    "Fudge"
+    "Fudge",
+    "Caramel"
    ],
    "score": 87.0,
    "arrival": "Jun 2026",
@@ -2470,7 +2519,8 @@
    "tasting_notes": [
     "Toasted Barley",
     "Eucalyptus",
-    "Thick Body"
+    "Thick Body",
+    "Fermented Berry"
    ],
    "score": 86.8,
    "arrival": "Jan 2025",
@@ -2506,13 +2556,31 @@
     "Fruit Liqueor",
     "Pungent Spice",
     "Rustic Chocolate",
-    "Date Sugar"
+    "Agave Syrup"
    ],
    "score": 89.3,
    "arrival": "Jul 2026",
    "price_per_lb": 10.85,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/kenya-dry-process-nyeri-gaikundo-8779",
+   "url_verified": false
+  },
+  {
+   "lot": "Kenya Kiambu Fram Farm AA",
+   "roaster": "Coffee Shrub",
+   "origin": "Kenya",
+   "process": "Wet Process Kenya Type",
+   "tasting_notes": [
+    "Agave Syrup",
+    "Citrus",
+    "Spice Tea",
+    "Date Sugar"
+   ],
+   "score": 90.5,
+   "arrival": "Aug 2026",
+   "price_per_lb": 9.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/kenya-kiambu-fram-farm-aa-8747",
    "url_verified": false
   },
   {
@@ -2753,8 +2821,7 @@
    "tasting_notes": [
     "Brown Sugar",
     "Stone Fruit",
-    "Hops",
-    "Honey"
+    "Hops"
    ],
    "score": 91.5,
    "arrival": "Jun 2025",
@@ -3106,8 +3173,7 @@
    "tasting_notes": [
     "Milk Chocolate",
     "Brown Sugar",
-    "Apple",
-    "Chocolate"
+    "Apple"
    ],
    "score": 87.2,
    "arrival": "Jul 2026",
@@ -3178,7 +3244,8 @@
    "tasting_notes": [
     "Butter Pecan",
     "Dark Chocolate",
-    "Satiny"
+    "Satiny",
+    "Milk Chocolate"
    ],
    "score": 87.4,
    "arrival": "Jan 2025",
@@ -3461,8 +3528,7 @@
    "tasting_notes": [
     "Palm Sugar",
     "Barley Malt",
-    "Chocolate Orange",
-    "Dark Cocoa"
+    "Chocolate Orange"
    ],
    "score": 87.9,
    "arrival": "Jun 2025",
@@ -3533,7 +3599,8 @@
    "tasting_notes": [
     "Bittersweet",
     "Earth-Toned",
-    "Herbaceous"
+    "Herbaceous",
+    "Cocoa Nibs"
    ],
    "score": 87.0,
    "arrival": "Oct 2026",
@@ -3820,8 +3887,7 @@
    "tasting_notes": [
     "Dark Cocoa",
     "Molasses",
-    "Corn Silk Tea",
-    "Rustic Sweetness"
+    "Corn Silk Tea"
    ],
    "score": 86.7,
    "arrival": "Jul 2026",
@@ -5648,6 +5714,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026海运埃塞 西达摩 星彩 甄选批次 74110&74158 水洗G1",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Ethiopia",
+   "process": "74158 · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥170 / pack",
+   "price_cny": 170.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/TTJ1MWkwbGVQa1ZjWmJaZXZKdHpSUT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运 埃塞 瑰夏村 红标 班吉/盖丽/谢瓦-吉巴布 G1",
    "roaster": "Ecofarm 意可坊",
    "origin": "Ethiopia",
@@ -5840,21 +5921,6 @@
    "price_cny": 160.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/OGx0ME1hcXNOa0dwS1drTGcyZkNFZz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026海运 埃塞俄比亚 古伎 燃情琥珀 74110 厌氧日晒 G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74110 · Anaerobic natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥160 / pack",
-   "price_cny": 160.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/TnEvWGtBQWR0MHR2L2lSYXJ6Uk1idz09.htm",
    "url_verified": false
   },
   {
@@ -6173,6 +6239,36 @@
    "url_verified": false
   },
   {
+   "lot": "2026空运 巴拿马 芭芭拉庄园 薄雾 Lot11 瑰夏 水洗 SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Panama",
+   "process": "Geisha · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥620 / pack",
+   "price_cny": 620.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/aTJ2R2JtczR6azBnbjFpTkVuM0lhdz09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026空运 巴拿马 烈焰庄园 Malaguetto BW156波旁水洗SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Panama",
+   "process": "Bourbon · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥720 / pack",
+   "price_cny": 720.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/MVpvUkZYa1p2M05HM0pxZWJZdStYUT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 洪都拉斯 甜橙庄园 红卡杜艾 水洗 SHG",
    "roaster": "Ecofarm 意可坊",
    "origin": "Honduras",
@@ -6200,21 +6296,6 @@
    "price_cny": 125.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/QmNOWTFsazZLcXFkWU5WOCtuRUI4UT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026空运尼加拉瓜布宜诺斯艾利斯庄园马拉卡杜拉水洗 SHG",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Nicaragua",
-   "process": "Caturra · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥245 / pack",
-   "price_cny": 245.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NzlDWDZRKy9yNHliRTBheXhQSVFiUT09.htm",
    "url_verified": false
   },
   {
@@ -6248,6 +6329,21 @@
    "url_verified": false
   },
   {
+   "lot": "26空运哥伦比亚希望庄园 单一系列 玛格丽特 MC4601 希爪日晒",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Colombia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥490 / pack",
+   "price_cny": 490.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/YzlsUXhmVGpTMi9BQjFNeGVBWXpzUT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 巴拿马 哈特曼庄园 卡杜拉 日晒 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -6260,21 +6356,6 @@
    "price_cny": 140.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/RnFxYlJkbUF5a3lxUVBabCtWRXNJUT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "26空运哥伦比亚希望庄园竞赛系列蓝色山丘拿破仑MC4590瑰夏N",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Colombia",
-   "process": "Geisha",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥3290 / pack",
-   "price_cny": 3290.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NGZtK1NHL3lxeGNBZURpRE1wUVJFdz09.htm",
    "url_verified": false
   }
  ]

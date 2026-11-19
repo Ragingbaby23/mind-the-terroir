@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-18T19:31:14",
+  "updated_at": "2026-11-19T19:31:14",
   "seller": "Nanjing Eco Farm Trading Co., Ltd. (南京意可坊进出口贸易有限公司)",
   "note": "Green beans per pack (bukan per lb) — harga Taobao apa adanya, CNY",
   "sources": [
@@ -219,6 +219,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026海运埃塞 西达摩 星彩 甄选批次 74110&74158 水洗G1",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Ethiopia",
+   "process": "74158 · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥170 / pack",
+   "price_cny": 170.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/TTJ1MWkwbGVQa1ZjWmJaZXZKdHpSUT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运 埃塞 瑰夏村 红标 班吉/盖丽/谢瓦-吉巴布 G1",
    "roaster": "Ecofarm 意可坊",
    "origin": "Ethiopia",
@@ -411,21 +426,6 @@
    "price_cny": 160.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/OGx0ME1hcXNOa0dwS1drTGcyZkNFZz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026海运 埃塞俄比亚 古伎 燃情琥珀 74110 厌氧日晒 G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74110 · Anaerobic natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥160 / pack",
-   "price_cny": 160.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/TnEvWGtBQWR0MHR2L2lSYXJ6Uk1idz09.htm",
    "url_verified": false
   },
   {
@@ -744,6 +744,36 @@
    "url_verified": false
   },
   {
+   "lot": "2026空运 巴拿马 芭芭拉庄园 薄雾 Lot11 瑰夏 水洗 SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Panama",
+   "process": "Geisha · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥620 / pack",
+   "price_cny": 620.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/aTJ2R2JtczR6azBnbjFpTkVuM0lhdz09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026空运 巴拿马 烈焰庄园 Malaguetto BW156波旁水洗SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Panama",
+   "process": "Bourbon · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥720 / pack",
+   "price_cny": 720.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/MVpvUkZYa1p2M05HM0pxZWJZdStYUT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 洪都拉斯 甜橙庄园 红卡杜艾 水洗 SHG",
    "roaster": "Ecofarm 意可坊",
    "origin": "Honduras",
@@ -771,21 +801,6 @@
    "price_cny": 125.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/QmNOWTFsazZLcXFkWU5WOCtuRUI4UT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026空运尼加拉瓜布宜诺斯艾利斯庄园马拉卡杜拉水洗 SHG",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Nicaragua",
-   "process": "Caturra · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥245 / pack",
-   "price_cny": 245.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NzlDWDZRKy9yNHliRTBheXhQSVFiUT09.htm",
    "url_verified": false
   },
   {
@@ -819,6 +834,21 @@
    "url_verified": false
   },
   {
+   "lot": "26空运哥伦比亚希望庄园 单一系列 玛格丽特 MC4601 希爪日晒",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Colombia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥490 / pack",
+   "price_cny": 490.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/YzlsUXhmVGpTMi9BQjFNeGVBWXpzUT09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 巴拿马 哈特曼庄园 卡杜拉 日晒 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -831,21 +861,6 @@
    "price_cny": 140.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/RnFxYlJkbUF5a3lxUVBabCtWRXNJUT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "26空运哥伦比亚希望庄园竞赛系列蓝色山丘拿破仑MC4590瑰夏N",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Colombia",
-   "process": "Geisha",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥3290 / pack",
-   "price_cny": 3290.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NGZtK1NHL3lxeGNBZURpRE1wUVJFdz09.htm",
    "url_verified": false
   }
  ]
