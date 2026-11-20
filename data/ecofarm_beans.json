@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-19T19:31:14",
+  "updated_at": "2026-11-20T19:31:16",
   "seller": "Nanjing Eco Farm Trading Co., Ltd. (南京意可坊进出口贸易有限公司)",
   "note": "Green beans per pack (bukan per lb) — harga Taobao apa adanya, CNY",
   "sources": [
@@ -216,21 +216,6 @@
    "price_cny": 685.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/T1VqUktzSTJ4QUlOaHJjOFF5aWZOUT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026海运埃塞 西达摩 星彩 甄选批次 74110&74158 水洗G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74158 · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥170 / pack",
-   "price_cny": 170.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/TTJ1MWkwbGVQa1ZjWmJaZXZKdHpSUT09.htm",
    "url_verified": false
   },
   {
@@ -774,18 +759,18 @@
    "url_verified": false
   },
   {
-   "lot": "2026 洪都拉斯 甜橙庄园 红卡杜艾 水洗 SHG",
+   "lot": "2026海运埃塞 西尔西 加拉科尼 埃塞原生种日晒 G1",
    "roaster": "Ecofarm 意可坊",
-   "origin": "Honduras",
-   "process": "Catuai · Washed",
+   "origin": "Ethiopia",
+   "process": "Heirloom · Natural",
    "tasting_notes": [],
    "score": null,
    "arrival": null,
    "price_per_lb": null,
-   "price_display": "¥109 / pack",
-   "price_cny": 109.0,
+   "price_display": "¥120 / pack",
+   "price_cny": 120.0,
    "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/aW5EeENNZ3Y1YnJoQ2NqSGtXRVh0Zz09.htm",
+   "url": "https://www.taobao.com/list/item/bXlzcGdrYUFmKzJzeDR3Q3dCUENXUT09.htm",
    "url_verified": false
   },
   {
@@ -861,6 +846,21 @@
    "price_cny": 140.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/RnFxYlJkbUF5a3lxUVBabCtWRXNJUT09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026 巴拿马 哈特曼庄园 卡杜拉 水洗 SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Panama",
+   "process": "Caturra · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥120 / pack",
+   "price_cny": 120.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/QVR3aGJYTS9vSi81Tkg3L1prV1RPdz09.htm",
    "url_verified": false
   }
  ]
