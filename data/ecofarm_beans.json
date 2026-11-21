@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-20T19:31:16",
+  "updated_at": "2026-11-21T19:31:15",
   "seller": "Nanjing Eco Farm Trading Co., Ltd. (南京意可坊进出口贸易有限公司)",
   "note": "Green beans per pack (bukan per lb) — harga Taobao apa adanya, CNY",
   "sources": [
@@ -414,6 +414,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026海运 埃塞俄比亚 古伎 燃情琥珀 74110 厌氧日晒 G1",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Ethiopia",
+   "process": "74110 · Anaerobic natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥160 / pack",
+   "price_cny": 160.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/TnEvWGtBQWR0MHR2L2lSYXJ6Uk1idz09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运巴拿马 芭芭拉 宝藏地块 Lot9 瑰夏 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -426,21 +441,6 @@
    "price_cny": 780.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/TGVuNHJFWER3ZkFVM1ByV0RlWCt1Zz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026 哥伦比亚 西班牙庄园 瑰夏 双重发酵水洗",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Colombia",
-   "process": "Geisha · Double-ferment washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥280 / pack",
-   "price_cny": 280.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/K0R5ZnNxekRBSkxzZWh4S29qUjIwdz09.htm",
    "url_verified": false
   },
   {
@@ -621,21 +621,6 @@
    "price_cny": 92.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/K0hMRE1XVnROckJHNXJHOVVaUTBaZz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026哥斯达黎加 唐梅奥庄园 雪松地块 瑰夏 日晒 SHB",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Costa Rica",
-   "process": "Geisha · Natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥400 / pack",
-   "price_cny": 400.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/STlkeUJNblZWK2R5aldqQ3JuMlF6dz09.htm",
    "url_verified": false
   },
   {
@@ -861,6 +846,21 @@
    "price_cny": 120.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/QVR3aGJYTS9vSi81Tkg3L1prV1RPdz09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026空运哥斯达黎加 翡翠庄园 E-Z0743 瑰夏 白蜜 SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Costa Rica",
+   "process": "Geisha",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥480 / pack",
+   "price_cny": 480.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/ck0xaVZ2dExNTGJTay9HTXRtbjRlZz09.htm",
    "url_verified": false
   }
  ]
