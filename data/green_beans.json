@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-21T19:31:59",
+  "updated_at": "2026-11-22T19:31:58",
   "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -5464,42 +5464,6 @@
    "url_verified": false
   },
   {
-   "lot": "Bean Hunters, Blend Washed (63/AP 7)",
-   "roaster": "Crop to Cup",
-   "origin": null,
-   "process": "Washed",
-   "tasting_notes": [],
-   "price_per_lb": 7.63,
-   "currency": "USD",
-   "url": "https://www.croptocup.com/product/bean-hunters-blend-washed-63-ap-7/",
-   "sku": "INV05763",
-   "url_verified": false
-  },
-  {
-   "lot": "Bean Hunters, SL9 Washed (61/CH 24)",
-   "roaster": "Crop to Cup",
-   "origin": null,
-   "process": "Washed",
-   "tasting_notes": [],
-   "price_per_lb": 9.2,
-   "currency": "USD",
-   "url": "https://www.croptocup.com/product/bean-hunters-sl9-washed-61-ch-24/",
-   "sku": "INV05764",
-   "url_verified": false
-  },
-  {
-   "lot": "Bean Hunters, SL9 Washed, 30 KG (57/INK AP 11)",
-   "roaster": "Crop to Cup",
-   "origin": null,
-   "process": "Washed",
-   "tasting_notes": [],
-   "price_per_lb": 10.52,
-   "currency": "USD",
-   "url": "https://www.croptocup.com/product/bean-hunters-sl9-washed-30-kg-57-ink-ap-11/",
-   "sku": "INV05762",
-   "url_verified": false
-  },
-  {
    "lot": "Bekele Belacho, Bombe, Anaerobic Natural, Grade 1",
    "roaster": "Crop to Cup",
    "origin": "Ethiopia",
@@ -5533,6 +5497,42 @@
    "currency": "USD",
    "url": "https://www.croptocup.com/product/bekele-belacho-bombe-lactic-natural-grade-1/",
    "sku": "INV02097",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Natural (Shade Drying Exp), Grade 1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Natural",
+   "tasting_notes": [],
+   "price_per_lb": 7.41,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-natural-shade-drying-exp-grade-1/",
+   "sku": "INV02100",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Bombe, Washed Experimental Yeast, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 8.74,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-bombe-washed-experimental-yeast-g1/",
+   "sku": "INV02793",
+   "url_verified": false
+  },
+  {
+   "lot": "Bekele Belacho, Kokose, Anaerobic Natural, G1",
+   "roaster": "Crop to Cup",
+   "origin": "Ethiopia",
+   "process": "Washed",
+   "tasting_notes": [],
+   "price_per_lb": 7.63,
+   "currency": "USD",
+   "url": "https://www.croptocup.com/product/bekele-belacho-kokose-anaerobic-natural-g1/",
+   "sku": "INV02795",
    "url_verified": false
   },
   {
@@ -5701,21 +5701,6 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运 埃塞 西达摩 博雷塔 74158 日晒 G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74158 · Natural",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥190 / pack",
-   "price_cny": 190.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/L25CTGRvMUxibWRuT05EelpFaXVjUT09.htm",
-   "url_verified": false
-  },
-  {
    "lot": "2026空运 埃塞 西达摩 歌塔 74158 厌氧日晒 G1",
    "roaster": "Ecofarm 意可坊",
    "origin": "Ethiopia",
@@ -5806,7 +5791,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运巴拿马 达拉曼卡庄园 红宝石 瑰夏水洗SHB",
+   "lot": "2026空运巴拿马 达拉曼\u0000卡庄园 红宝石 瑰夏水洗SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
    "process": "Geisha · Washed",
@@ -6151,6 +6136,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026哥斯达黎加 唐梅奥庄园 雪松地块 瑰夏 日晒 SHB",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Costa Rica",
+   "process": "Geisha · Natural",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥400 / pack",
+   "price_cny": 400.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/STlkeUJNblZWK2R5aldqQ3JuMlF6dz09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026空运 巴拿马 阿布庄园 瑰夏",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -6241,7 +6241,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运 巴拿马 芭芭拉庄园 薄雾 Lot11 瑰夏 水洗 SHB",
+   "lot": "2026空\u0000\u0000运 巴拿马 芭芭拉庄园 薄雾 Lot11 瑰夏 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
    "process": "Geisha · Washed",
@@ -6283,6 +6283,21 @@
    "price_cny": 120.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/bXlzcGdrYUFmKzJzeDR3Q3dCUENXUT09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026 洪都拉斯 甜橙庄园 红卡杜艾 水洗 SHG",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Honduras",
+   "process": "Catuai · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥109 / pack",
+   "price_cny": 109.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/aW5EeENNZ3Y1YnJoQ2NqSGtXRVh0Zz09.htm",
    "url_verified": false
   },
   {
