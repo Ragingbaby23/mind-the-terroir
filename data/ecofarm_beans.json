@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-22T19:31:13",
+  "updated_at": "2026-11-23T19:31:13",
   "seller": "Nanjing Eco Farm Trading Co., Ltd. (南京意可坊进出口贸易有限公司)",
   "note": "Green beans per pack (bukan per lb) — harga Taobao apa adanya, CNY",
   "sources": [
@@ -144,21 +144,6 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运 埃塞 西达摩 博雷塔 74158 水洗 G1",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Ethiopia",
-   "process": "74158 · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥180 / pack",
-   "price_cny": 180.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/L1hoWW5OQUlTQlRYRDdNUE5oZTJEdz09.htm",
-   "url_verified": false
-  },
-  {
    "lot": "2026空运 埃塞 西达摩 波切萨 74112 日晒 G1",
    "roaster": "Ecofarm 意可坊",
    "origin": "Ethiopia",
@@ -197,8 +182,8 @@
    "score": null,
    "arrival": null,
    "price_per_lb": null,
-   "price_display": "¥685 / pack",
-   "price_cny": 685.0,
+   "price_display": "¥890 / pack",
+   "price_cny": 890.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/T1VqUktzSTJ4QUlOaHJjOFF5aWZOUT09.htm",
    "url_verified": false
@@ -264,7 +249,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运巴拿马 达拉曼\u0000卡庄园 红宝石 瑰夏水洗SHB",
+   "lot": "2026空运巴拿马 达拉曼卡庄园 红宝石 瑰夏水洗SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
    "process": "Geisha · Washed",
@@ -279,7 +264,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026肯尼亚 多多莫 SL28&鲁伊鲁 11&巴蒂安 水洗AB",
+   "lot": "2026\u0000\u0000肯尼亚 多多莫 SL28&鲁伊鲁 11&巴蒂安 水洗AB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Kenya",
    "process": "SL28 · Washed",
@@ -336,21 +321,6 @@
    "price_cny": 80.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/b1RwYnFkNG00bXc3ZDlzTktGeGJ3Zz09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026肯尼亚 咖穆古 SL28&鲁伊鲁11&巴蒂安 水洗AA",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Kenya",
-   "process": "SL28 · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥145 / pack",
-   "price_cny": 145.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NGZCRmtlZXVJT1V2bWZwTU5uYVRtdz09.htm",
    "url_verified": false
   },
   {
@@ -426,6 +396,21 @@
    "price_cny": 780.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/TGVuNHJFWER3ZkFVM1ByV0RlWCt1Zz09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026 哥伦比亚 西班牙庄园 瑰夏 双重发酵水洗",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Colombia",
+   "process": "Geisha · Double-ferment washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥280 / pack",
+   "price_cny": 280.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/K0R5ZnNxekRBSkxzZWh4S29qUjIwdz09.htm",
    "url_verified": false
   },
   {
@@ -714,7 +699,7 @@
    "url_verified": false
   },
   {
-   "lot": "2026空\u0000\u0000运 巴拿马 芭芭拉庄园 薄雾 Lot11 瑰夏 水洗 SHB",
+   "lot": "2026空运 巴拿马 芭芭拉庄园 薄雾 Lot11 瑰夏 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
    "process": "Geisha · Washed",
@@ -729,9 +714,9 @@
    "url_verified": false
   },
   {
-   "lot": "2026空运 巴拿马 烈焰庄园 Malaguetto BW156波旁水洗SHB",
+   "lot": "2026空运 巴\u0000\u0000拿马 烈焰庄园 Malaguetto BW156波旁水洗SHB",
    "roaster": "Ecofarm 意可坊",
-   "origin": "Panama",
+   "origin": null,
    "process": "Bourbon · Washed",
    "tasting_notes": [],
    "score": null,
@@ -786,6 +771,21 @@
    "price_cny": 125.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/QmNOWTFsazZLcXFkWU5WOCtuRUI4UT09.htm",
+   "url_verified": false
+  },
+  {
+   "lot": "2026空运尼加拉瓜布宜诺斯艾利斯庄园马拉卡杜拉水洗 SHG",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Nicaragua",
+   "process": "Caturra · Washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥245 / pack",
+   "price_cny": 245.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/NzlDWDZRKy9yNHliRTBheXhQSVFiUT09.htm",
    "url_verified": false
   },
   {
