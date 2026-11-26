@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-25T19:32:01",
+  "updated_at": "2026-11-26T19:32:03",
   "note": "Green beans: beans mentah, untuk roaster. Shrub/C2C per lb USD; Ecofarm per pack CNY",
   "sources": [
    "sweetmarias.com (Coffee Shrub)",
@@ -214,13 +214,31 @@
     "English Breakfast",
     "Citrus Zest",
     "Lemon",
-    "Honey"
+    "Muscovado Sugar"
    ],
    "score": 89.7,
    "arrival": "Feb 2025",
    "price_per_lb": 8.15,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/burundi-kabarore-commune-yandaro-8207",
+   "url_verified": false
+  },
+  {
+   "lot": "Burundi Kayanza Businde",
+   "roaster": "Coffee Shrub",
+   "origin": "Burundi",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Muscovado Sugar",
+    "Baking Spices",
+    "Bittersweet",
+    "Honey"
+   ],
+   "score": 88.6,
+   "arrival": "Nov 2026",
+   "price_per_lb": 8.55,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/burundi-kayanza-businde-8996",
    "url_verified": false
   },
   {
@@ -337,8 +355,7 @@
    "tasting_notes": [
     "Panela",
     "Apple Streusel",
-    "Syrupy",
-    "Salted Caramel"
+    "Syrupy"
    ],
    "score": 87.0,
    "arrival": "Nov 2026",
@@ -355,7 +372,8 @@
    "tasting_notes": [
     "Salted Caramel",
     "Black Tea",
-    "Citrus Rind"
+    "Citrus Rind",
+    "Crowd Pleasing"
    ],
    "score": 86.5,
    "arrival": "Dec 2024",
@@ -692,8 +710,7 @@
    "tasting_notes": [
     "Caramel",
     "Clove Spices",
-    "Baking Cocoa",
-    "Unsulfured Apricot"
+    "Baking Cocoa"
    ],
    "score": 87.5,
    "arrival": "Jul 2025",
@@ -710,7 +727,8 @@
    "tasting_notes": [
     "Unsulfured Apricot",
     "Pungent Bittersweetness",
-    "Winey Accents"
+    "Winey Accents",
+    "Corn Syrup"
    ],
    "score": 87.5,
    "arrival": "Jul 2026",
@@ -978,13 +996,31 @@
     "Balanced",
     "Brown Sugar",
     "Walnut",
-    "Milk Chocolate"
+    "Burnt Sugar"
    ],
    "score": 86.0,
    "arrival": "Jun 2026",
    "price_per_lb": 7.75,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/el-salvador-la-esperanza-bourbon-8678",
+   "url_verified": false
+  },
+  {
+   "lot": "El Salvador Red Honey Finca Cartagena",
+   "roaster": "Coffee Shrub",
+   "origin": "El Salvador",
+   "process": "Honey Process",
+   "tasting_notes": [
+    "Burnt Sugar",
+    "Dried Prune",
+    "Roasted Cacao",
+    "Milk Chocolate"
+   ],
+   "score": 86.9,
+   "arrival": "Nov 2026",
+   "price_per_lb": 8.85,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/el-salvador-red-honey-finca-cartagena-8995",
    "url_verified": false
   },
   {
@@ -1060,7 +1096,8 @@
    "tasting_notes": [
     "Red Honey",
     "Peach",
-    "Cocoa"
+    "Cocoa",
+    "Berry-toned"
    ],
    "score": 90.9,
    "arrival": "Aug 2026",
@@ -1377,8 +1414,7 @@
    "tasting_notes": [
     "Floral",
     "White Peach",
-    "Tea-Like",
-    "Nectarine"
+    "Tea-Like"
    ],
    "score": 93.3,
    "arrival": "Oct 2025",
@@ -1409,7 +1445,11 @@
    "roaster": "Coffee Shrub",
    "origin": "Ethiopia",
    "process": "Wet Process (Washed)",
-   "tasting_notes": [],
+   "tasting_notes": [
+    "White Honey",
+    "Nectarine",
+    "Floral"
+   ],
    "score": 92.0,
    "arrival": "Sep 2025",
    "price_per_lb": 9.15,
@@ -1721,8 +1761,7 @@
    "tasting_notes": [
     "Honey",
     "Peach",
-    "Gum Drop Candy",
-    "Sorghum"
+    "Gum Drop Candy"
    ],
    "score": 90.5,
    "arrival": "Nov 2024",
@@ -1757,7 +1796,8 @@
    "tasting_notes": [
     "Floral",
     "Simple Syrup",
-    "Citrus"
+    "Citrus",
+    "Floral"
    ],
    "score": 92.1,
    "arrival": "Jun 2026",
@@ -2078,8 +2118,7 @@
    "tasting_notes": [
     "Cinnamon",
     "Cocoa",
-    "Juicy",
-    "Bittersweet"
+    "Juicy"
    ],
    "score": 87.2,
    "arrival": "Aug 2025",
@@ -2114,7 +2153,8 @@
    "tasting_notes": [
     "Chocolate",
     "Dried Apple",
-    "Aromatic Spices"
+    "Aromatic Spices",
+    "Raw Sugar"
    ],
    "score": 87.9,
    "arrival": "Aug 2025",
@@ -2411,13 +2451,30 @@
     "Wild Berry",
     "Dark Cocoa",
     "Thick Body",
-    "Bittersweet"
+    "Malted Chocolate"
    ],
    "score": 88.1,
    "arrival": "Feb 2025",
    "price_per_lb": 8.95,
    "currency": "USD",
    "url": "https://www.sweetmarias.com/products/honduras-honey-process-sara-chinchilla-8218",
+   "url_verified": false
+  },
+  {
+   "lot": "Honduras La Campa Finca Los Reyes",
+   "roaster": "Coffee Shrub",
+   "origin": "Honduras",
+   "process": "Wet Process (Washed)",
+   "tasting_notes": [
+    "Malted Chocolate",
+    "Pistachio",
+    "Balanced"
+   ],
+   "score": 86.5,
+   "arrival": "Nov 2026",
+   "price_per_lb": 8.5,
+   "currency": "USD",
+   "url": "https://www.sweetmarias.com/products/honduras-la-campa-finca-los-reyes-8983",
    "url_verified": false
   },
   {
@@ -2464,7 +2521,8 @@
    "tasting_notes": [
     "Bittersweet",
     "Praline Nut",
-    "Burnt Sugar"
+    "Burnt Sugar",
+    "Cocoa"
    ],
    "score": 86.6,
    "arrival": "Apr 2025",
@@ -2761,11 +2819,7 @@
    "roaster": "Coffee Shrub",
    "origin": "Kenya",
    "process": "Wet Process (Washed)",
-   "tasting_notes": [
-    "Black Currant",
-    "Grapefruit",
-    "Cinnamon Stick"
-   ],
+   "tasting_notes": [],
    "score": 89.8,
    "arrival": "Jul 2024",
    "price_per_lb": 8.75,
@@ -2817,7 +2871,8 @@
    "tasting_notes": [
     "Black Plum",
     "Tamarind Sauce",
-    "Lime Zest"
+    "Lime Zest",
+    "Brown Sugar"
    ],
    "score": 88.2,
    "arrival": "Oct 2024",
@@ -3115,8 +3170,7 @@
    "tasting_notes": [
     "Dried Berry",
     "Fermented Fruit",
-    "Tannic",
-    "Caramel"
+    "Tannic"
    ],
    "score": 88.0,
    "arrival": "Aug 2025",
@@ -3169,7 +3223,8 @@
    "tasting_notes": [
     "Praline Almond",
     "Vanilla",
-    "Cocoa"
+    "Cocoa",
+    "Milk Chocolate"
    ],
    "score": 86.9,
    "arrival": "Aug 2025",
@@ -3468,11 +3523,7 @@
    "roaster": "Coffee Shrub",
    "origin": "Indonesia",
    "process": "Wet Hulled (Giling Basah)",
-   "tasting_notes": [
-    "Bittersweet Chocolate",
-    "Pungent Roast Tones",
-    "Thick Body"
-   ],
+   "tasting_notes": [],
    "score": 87.7,
    "arrival": "Dec 2025",
    "price_per_lb": 8.45,
@@ -3524,7 +3575,8 @@
    "tasting_notes": [
     "Fermented Banana",
     "Spiced Rum",
-    "Burnt Sugars"
+    "Burnt Sugars",
+    "Brown Rice Syrup"
    ],
    "score": 89.5,
    "arrival": "Jun 2025",
@@ -3829,8 +3881,7 @@
    "tasting_notes": [
     "Chocolate Orange",
     "Berry-toned",
-    "Creamy Texture",
-    "Balanced Bittersweets"
+    "Creamy Texture"
    ],
    "score": 90.6,
    "arrival": null,
@@ -3883,7 +3934,8 @@
    "tasting_notes": [
     "Blackstrap Molasses",
     "Dried Prune",
-    "Rustic Cocoa"
+    "Rustic Cocoa",
+    "Toffee"
    ],
    "score": 87.8,
    "arrival": "Jul 2026",
@@ -4989,7 +5041,7 @@
    "origin": null,
    "process": "Washed",
    "tasting_notes": [],
-   "price_per_lb": 5.67,
+   "price_per_lb": 5.72,
    "currency": "USD",
    "url": "https://www.croptocup.com/product/aromas-del-valle-gran-amoju-organic-decaf-lot-2-org/",
    "sku": "INV05224",
@@ -5941,6 +5993,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026 哥伦比亚 西班牙庄园 瑰夏 双重发酵水洗",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Colombia",
+   "process": "Geisha · Double-ferment washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥280 / pack",
+   "price_cny": 280.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/K0R5ZnNxekRBSkxzZWh4S29qUjIwdz09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 巴拿马 蕾莉达 米切拉庄园 #0625 卡杜艾 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -5971,9 +6038,9 @@
    "url_verified": false
   },
   {
-   "lot": "2026 巴拿马 芭芭拉庄园 宝藏地块 Lot1 卡杜艾 水洗 SHB",
+   "lot": "2026 巴\u0000\u0000拿马 芭芭拉庄园 宝藏地块 Lot1 卡杜艾 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
-   "origin": "Panama",
+   "origin": null,
    "process": "Catuai · Washed",
    "tasting_notes": [],
    "score": null,
@@ -6298,21 +6365,6 @@
    "price_cny": 125.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/QmNOWTFsazZLcXFkWU5WOCtuRUI4UT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026空运尼加拉瓜布宜诺斯艾利斯庄园马拉卡杜拉水洗 SHG",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Nicaragua",
-   "process": "Caturra · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥245 / pack",
-   "price_cny": 245.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NzlDWDZRKy9yNHliRTBheXhQSVFiUT09.htm",
    "url_verified": false
   },
   {

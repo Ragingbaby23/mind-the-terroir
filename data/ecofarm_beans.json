@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updated_at": "2026-11-25T19:31:16",
+  "updated_at": "2026-11-26T19:31:17",
   "seller": "Nanjing Eco Farm Trading Co., Ltd. (南京意可坊进出口贸易有限公司)",
   "note": "Green beans per pack (bukan per lb) — harga Taobao apa adanya, CNY",
   "sources": [
@@ -414,6 +414,21 @@
    "url_verified": false
   },
   {
+   "lot": "2026 哥伦比亚 西班牙庄园 瑰夏 双重发酵水洗",
+   "roaster": "Ecofarm 意可坊",
+   "origin": "Colombia",
+   "process": "Geisha · Double-ferment washed",
+   "tasting_notes": [],
+   "score": null,
+   "arrival": null,
+   "price_per_lb": null,
+   "price_display": "¥280 / pack",
+   "price_cny": 280.0,
+   "currency": "CNY",
+   "url": "https://www.taobao.com/list/item/K0R5ZnNxekRBSkxzZWh4S29qUjIwdz09.htm",
+   "url_verified": false
+  },
+  {
    "lot": "2026 巴拿马 蕾莉达 米切拉庄园 #0625 卡杜艾 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
    "origin": "Panama",
@@ -444,9 +459,9 @@
    "url_verified": false
   },
   {
-   "lot": "2026 巴拿马 芭芭拉庄园 宝藏地块 Lot1 卡杜艾 水洗 SHB",
+   "lot": "2026 巴\u0000\u0000拿马 芭芭拉庄园 宝藏地块 Lot1 卡杜艾 水洗 SHB",
    "roaster": "Ecofarm 意可坊",
-   "origin": "Panama",
+   "origin": null,
    "process": "Catuai · Washed",
    "tasting_notes": [],
    "score": null,
@@ -771,21 +786,6 @@
    "price_cny": 125.0,
    "currency": "CNY",
    "url": "https://www.taobao.com/list/item/QmNOWTFsazZLcXFkWU5WOCtuRUI4UT09.htm",
-   "url_verified": false
-  },
-  {
-   "lot": "2026空运尼加拉瓜布宜诺斯艾利斯庄园马拉卡杜拉水洗 SHG",
-   "roaster": "Ecofarm 意可坊",
-   "origin": "Nicaragua",
-   "process": "Caturra · Washed",
-   "tasting_notes": [],
-   "score": null,
-   "arrival": null,
-   "price_per_lb": null,
-   "price_display": "¥245 / pack",
-   "price_cny": 245.0,
-   "currency": "CNY",
-   "url": "https://www.taobao.com/list/item/NzlDWDZRKy9yNHliRTBheXhQSVFiUT09.htm",
    "url_verified": false
   },
   {
